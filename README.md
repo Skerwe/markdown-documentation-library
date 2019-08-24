@@ -1,2 +1,1 @@
-# markdown-documentation-library
-Markdown Documentation Library
+# Markdown Documentation Library (MDL)

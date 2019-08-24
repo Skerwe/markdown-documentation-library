@@ -1,0 +1,36 @@
+{
+  "name": "markdown-documentation-library",
+  "version": "0.0.0",
+  "description": "Markdown Documentation Library",
+  "private": true,
+  "main": "README.md",
+  "scripts": {
+    "test": "markdownlint --config .markdownlint.json ./docs/**"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skerwe/markdown-documentation-library.git"
+  },
+  "keywords": [
+    "documentation",
+    "notes",
+    "links"
+  ],
+  "author": {
+    "name": "Quintin Henn",
+    "email": "quintin.henn@gmail.com",
+    "URL": "http://skerwe.web.za"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Skerwe/markdown-documentation-library/issues"
+  },
+  "homepage": "https://github.com/Skerwe/markdown-documentation-library#readme",
+  "devDependencies": {
+    "markdownlint": "^0.15.0",
+    "markdownlint-cli": "^0.17.0"
+  }
+}
