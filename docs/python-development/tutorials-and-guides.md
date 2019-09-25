@@ -4,7 +4,7 @@
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [Python 101!](https://python101.pythonlibrary.org/)
 
-- [Google's Python Class](https://developers.google.com/edu/python/)
+- [Google's Python Class](https://developers.google.com/edu/python/) (Python 2)
 
 ## Extra Learning
 
