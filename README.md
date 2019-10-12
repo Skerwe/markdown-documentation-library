@@ -1,5 +1,9 @@
 # Markdown Documentation Library (MDL)
 
+[![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
+
+Development notes and links, in markdown format.
+
 ## Table of contents
 
 1. [Web Development](docs/web-development/README.md)
@@ -12,3 +16,8 @@
 
 + [Markdown Notes](docs/markdown-notes.md)
 + [NPM Notes](docs/npm-notes.md)
++ [Open Source Notes](docs/open-source-notes.md)
+
+## License
+
+The source code is free -- see the [UNLICENSE](UNLICENSE) file for details
