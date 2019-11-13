@@ -16,3 +16,8 @@
 ## Contributing Examples
 
 - [Contributor Covenant](https://www.contributor-covenant.org/)
+
+## License
+
+- [Choose an open source license](https://choosealicense.com/)
+- [SPDX License List](https://spdx.org/licenses/)
