@@ -1,4 +1,4 @@
-# HaxeFlixel Game Development
+# HaxeFlixel Environment Setup
 
 ## Installation
 
@@ -27,7 +27,7 @@ This is the order in which to install the components:
    4. `haxelib run lime setup flixel`
    5. `haxelib install flixel-tools`
    6. `haxelib run flixel-tools setup`
-5. Install [Adobe Flash debugger](https://www.adobe.com/support/flashplayer/debug_downloads.html) for IE, Chrome, Opera and Firefox
+5. Install [Adobe Flash debugger][flash-debug] for IE, Chrome, Opera and Firefox
 
     For Internet Explorer, use the ActiveX plugin  
     For Firefox and Safari, use the NPAPI plugin  
@@ -51,18 +51,29 @@ Android SDK installation directories:
 
 ### Windows Platform
 
-`openfl setup windows`
+```bash
+openfl setup windows
+```
 
 ## Working with the CLI
 
-Create a new project:  
-`flixel tpl -n "ProjectName"`
+Create a new project
 
-Create a build and run the project:  
-`lime test <platform>`
+```bash
+flixel tpl -n "ProjectName"
+```
 
-Build for production:  
-`lime build <platform> -release`
+Create a build and run the project
+
+```bash
+lime test <platform>
+```
+
+Build for production
+
+```bash
+lime build <platform> -release
+```
 
 ### Platforms
 
@@ -72,3 +83,5 @@ Build for production:
 - android
 - mac
 - ios
+
+[flash-debug]: https://www.adobe.com/support/flashplayer/debug_downloads.html

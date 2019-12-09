@@ -4,6 +4,12 @@
 
 Development notes and links, in markdown format.
 
+
+Run markdownlint to check the markdown files.
+```
+npm test
+```
+
 ## Table of contents
 
 [Table of contents](docs/README.md)
