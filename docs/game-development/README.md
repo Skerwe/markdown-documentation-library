@@ -9,6 +9,9 @@
 2. [Construct 2&3](construct-game-development.md)
 3. [App Game Kit](app-game-kit-development.md)
 4. [Stencyl](stencyl-game-development.md)
+5. [Lumberyard](https://aws.amazon.com/lumberyard/)
+
+- [RPGToolkit](http://www.rpgtoolkit.net/)
 
 ## Rendering Frameworks
 
@@ -22,6 +25,10 @@
 ## Game Development Tools
 
 1. [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) is a stand alone tool for creating materials
+2. [TexturePacker](https://www.codeandweb.com/texturepacker)
+3. [Tiled](https://www.mapeditor.org/)
+
+[More](game-development-tools.md)
 
 ## Other Game Development links
 
