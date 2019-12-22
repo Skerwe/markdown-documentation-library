@@ -1,5 +1,7 @@
 # Game Development
 
+[Game Development Notes](game-development-notes.md)
+
 ## Frameworks and Engines
 
 - [Game Engines](https://github.com/collections/game-engines) - GitHub Collection
