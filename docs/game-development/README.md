@@ -12,8 +12,10 @@
 5. [Lumberyard](https://aws.amazon.com/lumberyard/)
 6. [CopperCube](https://www.ambiera.com/coppercube/index.html)
 7. [Orx](https://orx-project.org/)
+8. [Game Maker](game-maker-development.md)
 
 - [RPGToolkit](http://www.rpgtoolkit.net/)
+- [Gamefroot](https://make.gamefroot.com/)
 
 ## Rendering Frameworks
 
