@@ -1,6 +1,7 @@
 # Game Development
 
-[Game Development Notes](game-development-notes.md)
+- [Game Development Notes](game-development-notes.md)
+- [Game AI Notes](game-ai-notest.md)
 
 ## Frameworks and Engines
 
