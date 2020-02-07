@@ -10,9 +10,10 @@ Run markdownlint to check the markdown files.
 npm test
 ```
 
-## Table of contents
+## Categories
 
-[Table of contents](docs/README.md)
+- [Software Development](docs/README.md)
+- [Fine Arts](fine-arts-docs/README.md)
 
 ## License
 
