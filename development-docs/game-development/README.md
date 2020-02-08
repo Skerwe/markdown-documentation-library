@@ -17,6 +17,7 @@
 8. [Orx](https://orx-project.org/)
 9. [Game Maker](game-maker-development.md)
 10. [Unity](game-engines-and-frameworks/unity-game-development.md)
+11. [Game Maker: Studio 1.4](game-engines-and-frameworks/game-maker-studio-1.md)
 
 ### Other Game Development Applications
 

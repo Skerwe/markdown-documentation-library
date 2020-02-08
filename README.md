@@ -12,7 +12,7 @@ npm test
 
 ## Categories
 
-- [Software Development](docs/README.md)
+- [Software Development](development-docs/README.md)
 - [Fine Arts](fine-arts-docs/README.md)
 
 ## License
