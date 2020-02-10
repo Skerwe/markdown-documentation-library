@@ -5,7 +5,7 @@
   "private": true,
   "main": "README.md",
   "scripts": {
-    "test": "markdownlint --config .markdownlint.json ./docs/**"
+    "test": "markdownlint --config .markdownlint.json --ignore node_modules/ ."
   },
   "repository": {
     "type": "git",
