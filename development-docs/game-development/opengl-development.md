@@ -1,5 +1,5 @@
 # OpenGL
 
-# Tutorials
+## Tutorials
 
 1. [Learn OpenGL](https://learnopengl.com/)
