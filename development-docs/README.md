@@ -8,3 +8,4 @@
 + [Markdown Notes](markdown-notes.md)
 + [NPM Notes](npm-notes.md)
 + [Open Source Notes](open-source-notes.md)
++ [Applications Tips and Notes](applications-tips-and-notes.md)

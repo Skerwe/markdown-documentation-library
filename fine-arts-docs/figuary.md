@@ -8,6 +8,6 @@
 
 ## 2020
 
-- [Figuary 2019](https://www.lovelifedrawing.com/figuary2020/)
+- [Figuary 2020](https://www.lovelifedrawing.com/figuary2020/)
 - [Love Life Drawing on Youtube](https://www.youtube.com/watch?v=OcS3927iLYw)
 - Croquis Cafe on Vimeo

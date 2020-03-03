@@ -26,3 +26,5 @@
 3. [PROCJAM Art Packs](http://www.procjam.com/art/)
 4. [Public Domain Art & Code](https://www.glitchthegame.com/public-domain-game-art/)
 5. [Pixel Art for your GameDev](http://pixelgameart.org/web/)
+6. [Indie Dev Resources](https://www.reddit.com/r/indiedev/wiki/resources) (Reddit)
+7. [Vlambeer toolkit & link repository](https://vlambeer.com/toolkit/)

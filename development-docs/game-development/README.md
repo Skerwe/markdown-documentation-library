@@ -24,6 +24,12 @@
 - [RPGToolkit](http://www.rpgtoolkit.net/)
 - [Gamefroot](https://make.gamefroot.com/)
 
+### Proprietary Frameworks
+
+1. [Felgo](https://felgo.com/)
+2. [Buildbox](https://www.buildbox.com/)
+3. [Panda 2](https://www.panda2.io/)
+
 ## Rendering Frameworks
 
 1. [WebGl Development](webgl-development.md)
@@ -44,7 +50,7 @@
 2. [TexturePacker](https://www.codeandweb.com/texturepacker)
 3. [Tiled](https://www.mapeditor.org/)
 
-[More game development tools](game-development-tools.md)
+- [More game development tools](game-development-tools.md)
 
 ## Other Game Development Resources
 
