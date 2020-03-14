@@ -13,3 +13,15 @@ An intuitive and stylish markdown note app for developers.
 
 - [Boost Note](https://boostnote.io/) website
 - [Cloud Syncing and Backup](https://github.com/BoostIO/Boostnote/wiki/Cloud-Syncing-and-Backup)
+
+## Development Productivity
+
+### Metrics
+
+- [Code::Stats](https://codestats.net/)
+- [WakaTime](https://wakatime.com/)
+
+### Code Style
+
+- [Codestyle.co](https://codestyle.co/)
+- [Google Style Guides](https://github.com/google/styleguide)
