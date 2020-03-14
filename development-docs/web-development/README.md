@@ -2,7 +2,7 @@
 
 ## Web Fundamentals
 
-1. HTML
+1. [HTML](html.notes.md)
 2. [CSS](css-notes.md)
 3. [JavaScript](javascript-development.md)
 

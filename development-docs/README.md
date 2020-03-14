@@ -6,6 +6,11 @@
 ## Extra Notes
 
 + [Markdown Notes](markdown-notes.md)
-+ [NPM Notes](npm-notes.md)
 + [Open Source Notes](open-source-notes.md)
 + [Applications Tips and Notes](applications-tips-and-notes.md)
+
+## Package Managers
+
+1. [NPM](https://www.npmjs.com/) | [NPM Notes](npm-notes.md)
+2. [Yarn](https://yarnpkg.com/)
+3. [PNPM](https://pnpm.js.org)
