@@ -8,7 +8,19 @@
 + [Prism](http://prismjs.com/) - a lightweight, extensible syntax highlighter
 + [Leaflet](https://leafletjs.com/) - mobile-friendly interactive maps
 
-## Web Application frameworks
+## Web Application Frameworks
 
-+ [Inferno](https://infernojs.org/)
-+ [Svelte](https://svelte.technology/)
+1. [AngularJS](web-application-development/angularjs.md)
+2. [Vue](web-application-development/vuejs.md)
+
+3. [Inferno](https://infernojs.org/)
+4. [Svelte](https://svelte.technology/)
+5. [Riot.js](https://riot.js.org/)
+
+## Testing
+
++ [faker.js](https://github.com/marak/Faker.js/) - generate real fake data
+
+## Mobile and Hybrid Application development
+
++ [Appium](http://appium.io/) - test automation framework

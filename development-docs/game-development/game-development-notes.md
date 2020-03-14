@@ -28,3 +28,7 @@
 5. [Pixel Art for your GameDev](http://pixelgameart.org/web/)
 6. [Indie Dev Resources](https://www.reddit.com/r/indiedev/wiki/resources) (Reddit)
 7. [Vlambeer toolkit & link repository](https://vlambeer.com/toolkit/)
+
+## Buy Books and Courses
+
+1. [How to Make an RPG](https://howtomakeanrpg.com/)
