@@ -56,3 +56,13 @@ Run scripts that set and use environment variables across platforms
     ```bash
     pm edit
     ```
+
+## Fixing Issues with environment
+
+### NPM global packages not accessable
+
+The bin path needs to be on the PATH variable
+
+```bash
+npm bin -g
+```
