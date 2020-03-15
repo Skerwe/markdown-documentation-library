@@ -1,13 +1,11 @@
-# Vue Application Framework
+# [Vue.js Application Framework][vue-site]
 
 [Awesome Vue.js](https://github.com/vuejs/awesome-vue) list on GitHub
 
-## Development
+## Documentation
 
-- [Vue Guide](https://vuejs.org/v2/guide/)
-- [Vuex Documentation](https://vuex.vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
 - [Vue CLI](https://cli.vuejs.org/)
+- [Vue Loader](https://vue-loader.vuejs.org/)
 
-## Tools
-
-- [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+[vue-site]: https://vuejs.org/

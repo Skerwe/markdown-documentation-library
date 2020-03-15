@@ -7,6 +7,7 @@
 + [hammer.js](https://hammerjs.github.io/) - A JavaScript library for detecting touch gestures.
 + [Prism](http://prismjs.com/) - a lightweight, extensible syntax highlighter
 + [Leaflet](https://leafletjs.com/) - mobile-friendly interactive maps
++ [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 
 ## Web Application Frameworks
 
