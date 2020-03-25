@@ -230,5 +230,8 @@ Integration for [JSHint](https://jshint.com/) - a JavaScript Code Quality Tool
 ## Game Development
 
 [Godot Tools](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 78c906d740c4ac40f5eaba20c717b1b5296244f6
 for game development with the Godot game engine
