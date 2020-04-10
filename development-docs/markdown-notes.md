@@ -25,3 +25,4 @@ Everything you need to learn Markdown: [Markdown Guide](https://www.markdownguid
 ## Tools
 
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
+- [Emojis](https://gist.github.com/rxaviers/7360908) - Complete list of github markdown emoji markup

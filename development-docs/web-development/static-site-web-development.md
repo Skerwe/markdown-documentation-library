@@ -18,5 +18,13 @@
 
 ## Static Site Generators
 
-1. [Eleventy](https://www.11ty.io/)
+1. [Eleventy](https://www.11ty.io/) | [Supermaya starter kit](https://github.com/MadeByMike/supermaya)
 2. [Jekyll](jekyll-static-site-generator.md)
+
+### Documentation Static Site Generators
+
+- [MkDocs](https://www.mkdocs.org/)
+
+## Tutorials
+
+1. [Exploring the JAMstack](https://www.netlify.com/tags/jamstack/)
