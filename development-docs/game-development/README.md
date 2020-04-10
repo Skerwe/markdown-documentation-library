@@ -13,16 +13,22 @@
 4. [App Game Kit](game-engines-and-frameworks/app-game-kit-development.md)
 5. [Stencyl](game-engines-and-frameworks/stencyl-game-development.md)
 6. [Lumberyard](https://aws.amazon.com/lumberyard/)
-7. [CopperCube](https://www.ambiera.com/coppercube/index.html)
+7. [OGRE](https://www.ogre3d.org/)
 8. [Orx](https://orx-project.org/)
 9. [Game Maker](game-maker-development.md)
 10. [Unity](game-engines-and-frameworks/unity-game-development.md)
 11. [Game Maker: Studio 1.4](game-engines-and-frameworks/game-maker-studio-1.md)
+12. [GDevelop](https://gdevelop-app.com/)
+13. [Armory Engine](https://armory3d.org/) (3D)
+14. [RPG Maker](https://www.rpgmakerweb.com/)
+
+[Fantasy Consoles](fantasy-consoles/README.md)
 
 ### Other Game Development Applications
 
 - [RPGToolkit](http://www.rpgtoolkit.net/)
 - [Gamefroot](https://make.gamefroot.com/)
+- [Cräft!](https://github.com/craeftgame)
 
 ### Proprietary Frameworks
 

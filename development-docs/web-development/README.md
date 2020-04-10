@@ -28,6 +28,8 @@
 
 ## Tools
 
+[Feathers](https://feathersjs.com/) - A framework for real-time applications and REST APIs
+
 ### Development Servers
 
 - [Live Server](https://www.npmjs.com/package/live-server)

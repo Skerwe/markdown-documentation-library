@@ -24,3 +24,7 @@ Install tools for better programming.
 
 1. [VS Code](ide-vs-code.md)
 2. Atom
+
+## Source Control
+
++ [Git: Cheat Sheet](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17) (advanced)

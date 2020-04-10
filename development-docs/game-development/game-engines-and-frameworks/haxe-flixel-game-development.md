@@ -6,3 +6,6 @@
 2. [Visual Studio Code with Haxe](vscode-with-haxe.md)
 
 ## Tutorials
+
+1. [HaxeFlixel Tutorial Series](https://www.gamefromscratch.com/page/Haxe-and-HaxeFlixel-Tutorial-Series.aspx)
+2. [Learn Haxe](https://matthijskamstra.github.io/haxejs/haxe/learn-haxe.html)
