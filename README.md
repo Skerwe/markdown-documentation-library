@@ -10,12 +10,12 @@ Development notes and links, in markdown format.
 
 ## Categories
 
-- [Software Development](development-docs/README.md)
+- [Software Development](development-docs/)
 
-  - [Game Development](development-docs/game-development/README.md)
-  - [Web Development](development-docs/web-development/README.md)
+  - [Game Development](development-docs/game-development/)
+  - [Web Development](development-docs/web-development/)
 
-- [Fine Arts](fine-arts-docs/README.md)
+- [Fine Arts](fine-arts-docs/)
 
 ---
 
