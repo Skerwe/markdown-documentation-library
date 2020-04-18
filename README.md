@@ -1,6 +1,6 @@
 # Markdown Documentation Library (MDL)
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 ![Node.js CI][github-ci-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
 
