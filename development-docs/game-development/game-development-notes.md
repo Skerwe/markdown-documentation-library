@@ -28,6 +28,7 @@
 5. [Pixel Art for your GameDev](http://pixelgameart.org/web/)
 6. [Indie Dev Resources](https://www.reddit.com/r/indiedev/wiki/resources) (Reddit)
 7. [Vlambeer toolkit & link repository](https://vlambeer.com/toolkit/)
+8. [Game Dev Link Library](https://gdu.io/links)
 
 ## Buy Books and Courses
 

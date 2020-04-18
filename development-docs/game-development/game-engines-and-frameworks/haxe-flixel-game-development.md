@@ -1,5 +1,7 @@
 # HaxeFlixel Game Development
 
+[Shiro Games Technology Stack](https://haxe.org/blog/shirogames-stack/)
+
 ## Environment Setup
 
 1. [Installation](haxe-flixel-installation.md)
