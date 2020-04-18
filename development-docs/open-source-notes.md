@@ -1,6 +1,6 @@
 # Open Source
 
-[Ready for open source checklist](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439)
+:clipboard: [Ready for open source checklist](https://gist.github.com/PurpleBooth/6f1ba788bf70fb501439)
 
 ## Readme
 

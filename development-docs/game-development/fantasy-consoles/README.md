@@ -1,3 +1,5 @@
-# Fantasy Consoles
+# :tv: Fantasy Consoles
 
-1. [Pico 8](pico-8.md)
+## List of Fantasy Consoles
+
+- [Pico 8](pico-8.md)

@@ -10,12 +10,12 @@ Development notes and links, in markdown format.
 
 ## Categories
 
-- [Software Development](development-docs/)
+1. :open_file_folder: [Software Development](development-docs/)
 
-  - [Game Development](development-docs/game-development/)
-  - [Web Development](development-docs/web-development/)
+    - :file_folder: [Game Development](development-docs/game-development/)
+    - :file_folder: [Web Development](development-docs/web-development/)
 
-- [Fine Arts](fine-arts-docs/)
+2. :file_folder: [Fine Arts](fine-arts-docs/)
 
 ---
 

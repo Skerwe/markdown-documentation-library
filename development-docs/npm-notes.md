@@ -2,7 +2,7 @@
 
 [npm-package.json \| npm Documentation](https://docs.npmjs.com/files/package.json)
 
-## cosmiconfig
+## Application Config
 
 [GitHub - davidtheclark/cosmiconfig](https://github.com/davidtheclark/cosmiconfig): 
 Find and load configuration from a package.json property, rc file, or CommonJS module
@@ -21,7 +21,7 @@ Run scripts that set and use environment variables across platforms
 - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) - Upgrades dependencies to the latest versions.
 - [npm-check](https://www.npmjs.com/package/npm-check) - Check for outdated, incorrect, and unused dependencies.
 
-### npx
+### NPX
 
 [Introducing npx: an npm package runner – Kat Marchán – Medium](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 
@@ -57,7 +57,7 @@ Run scripts that set and use environment variables across platforms
     pm edit
     ```
 
-## Fixing Issues with environment
+## :warning: Fixing Issues with the NPM Environment
 
 ### NPM global packages not accessable
 
