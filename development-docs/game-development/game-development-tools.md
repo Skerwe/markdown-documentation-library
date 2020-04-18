@@ -1,4 +1,4 @@
-#  :video_game: Game Development Tools
+# :video_game: Game Development Tools
 
 ## Spritesheets and Tiles
 
