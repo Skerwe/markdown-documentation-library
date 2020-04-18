@@ -4,6 +4,7 @@
 
 - :space_invader: [Game Development Notes](game-development-notes.md)
 - :game_die: [Game AI Notes](game-ai-notest.md)
+- :art: [Pixel Art](pixel-art.md)
 
 ## Categories
 
