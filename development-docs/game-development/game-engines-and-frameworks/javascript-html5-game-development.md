@@ -1,13 +1,15 @@
-# JavaScript and HTML5 Game Development
+# :space_invader: JavaScript and HTML5 Game Development
 
-## Community and Forums
+## :newspaper: Community and Forums
 
 1. [HTML5 Game Devs](http://www.html5gamedevs.com/)
 2. [HTML5 Game Development](https://html5gamedevelopment.com/)
 
+***
+
 ## 2D HTML5 Game Engines
 
-[JavaScript Game Engines](https://github.com/collections/javascript-game-engines) - GitHub Collection
+:link: [JavaScript Game Engines](https://github.com/collections/javascript-game-engines) - GitHub Collection
 
 1. [Moai](https://moaiwebsite.github.io/) - minimalist game development engine
 2. [Phaser](https://phaser.io/)
@@ -21,6 +23,8 @@
 10. [CopperCube](https://www.ambiera.com/coppercube/) (3D)
 11. [Impact](https://impactjs.com/) | [GitHub](https://github.com/phoboslab/impact)
 
+***
+
 ## Odd Engines and Frameworks
 
 + [lychee.js Engine](https://lychee.js.org/index.html)
@@ -32,8 +36,8 @@
 
 ## Graphics Programming
 
-+ [p5js](https://p5js.org/)
-+ [PixiJS](https://www.pixijs.com/) | [GitHub](https://github.com/pixijs/pixi.js)
++ [p5js](../game-rendering-frameworks/p5js.md)
++ [PixiJS](../game-rendering-frameworks/pixijs.md)
 + [Processing](https://processing.org/)
 + [A-Frame](https://aframe.io/) (VR)
 + [three.js](https://threejs.org/)

@@ -9,7 +9,8 @@
 ## Categories
 
 1. :file_folder: [Game Engines and Frameworks](game-engines-and-frameworks/)
-2. :file_folder: [Game development tools](game-development-tools.md)
+2. :file_folder: [Game Development Tools](game-development-tools.md)
 3. :file_folder: [Game Development Platforms and Clients](game-development-platforms/)
 4. :file_folder: [Game Rendering Frameworks](game-rendering-frameworks/)
 5. :file_folder: [Fantasy Consoles](fantasy-consoles/)
+6. :file_folder: [Game Programming Languages](programming-languages/)
