@@ -1,6 +1,6 @@
 # :space_invader: Unity Game Development
 
-## GameDevHQ
+## :beginner: GameDevHQ
 
 - [GameDevHQ](https://gamedevhq.com/start-your-game-development-journey/)
 - [Filebase](https://gamedevhq.com/filebase/)
@@ -26,6 +26,10 @@
 ## Unity Environment Setup
 
 :link: [Visual Studio Code as Editor](https://code.visualstudio.com/docs/other/unity)
+
+### Debugging
+
+:link: [Unity Debugger Extension for Visual Studio Code](https://github.com/Unity-Technologies/vscode-unity-debug)
 
 ### :construction: Unity Coding Standards
 

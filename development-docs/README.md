@@ -29,4 +29,7 @@ Install tools for better programming.
 
 ### Source Control
 
++ [Pro Git Book](https://git-scm.com/)
 + [Git: Cheat Sheet](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17) (advanced)
++ [Git Tutorials on Java Code Geeks](https://examples.javacodegeeks.com/category/software-development/git)
++ A collection of useful [.gitignore](https://github.com/github/gitignore/) templates
