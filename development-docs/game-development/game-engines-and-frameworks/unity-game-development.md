@@ -25,7 +25,14 @@
 
 ## Unity Environment Setup
 
+### Code Editor
+
 :link: [Visual Studio Code as Editor](https://code.visualstudio.com/docs/other/unity)
+
+### Version Control
+
+:link: [How to Git with Unity](https://thoughtbot.com/blog/how-to-git-with-unity)  
+:link: [GitHub for Unity Extension](https://unity.github.com/)
 
 ### Debugging
 
