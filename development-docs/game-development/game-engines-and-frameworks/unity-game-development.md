@@ -32,7 +32,7 @@
 ### Version Control
 
 :link: [How to Git with Unity](https://thoughtbot.com/blog/how-to-git-with-unity)  
-:link: [GitHub for Unity Extension](https://unity.github.com/)
+:link: [GitHub for Unity Extension](https://unity.github.com/) | [Unity Store](https://assetstore.unity.com/packages/tools/version-control/github-for-unity-118069)
 
 ### Debugging
 
