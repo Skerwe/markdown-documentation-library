@@ -32,9 +32,9 @@ Monospaced font with programming ligatures:
 1. [Fira Code](https://github.com/tonsky/FiraCode)
 2. [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
 
-## [EditorConfig](https://editorconfig.org/)
+## EditorConfig
 
-EditorConfig helps maintain consistent coding style.
+[EditorConfig](https://editorconfig.org/) helps maintain consistent coding style.
 
 1. Install [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) extension
 2. Right click project folder and select '__Generate .editorconfig__'
