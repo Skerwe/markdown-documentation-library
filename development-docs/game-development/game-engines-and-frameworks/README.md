@@ -26,6 +26,12 @@
 
 ***
 
+###
+
+- [nCine](https://ncine.github.io/) (2D | Good for Game Jams)
+
+***
+
 ### Proprietary Frameworks
 
 1. [Felgo](https://felgo.com/)
