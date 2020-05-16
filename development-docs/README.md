@@ -9,6 +9,7 @@
 
 + [Markdown Notes](markdown-notes.md)
 + [Open Source Notes](open-source-notes.md)
++ [Git Source Control Notes](git-notes.md)
 + [Applications Tips and Notes](applications-tips-and-notes.md)
 
 ### Package Managers
@@ -26,10 +27,3 @@ Install tools for better programming.
 
 1. [VS Code](ide-vs-code.md)
 2. Atom
-
-### Source Control
-
-+ [Pro Git Book](https://git-scm.com/)
-+ [Git: Cheat Sheet](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17) (advanced)
-+ [Git Tutorials on Java Code Geeks](https://examples.javacodegeeks.com/category/software-development/git)
-+ A collection of useful [.gitignore](https://github.com/github/gitignore/) templates
