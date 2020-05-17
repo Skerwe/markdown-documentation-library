@@ -25,7 +25,8 @@
 
 ### Visual Effects and Animation
 
-- [Natron](https://natrongithub.github.io/)
+- [Natron](https://natrongithub.github.io/) (VFX and Motion)
+- [Enve](https://maurycyliebner.github.io/) (2D Animation)
 
 ### 3G Models
 
