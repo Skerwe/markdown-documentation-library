@@ -20,7 +20,7 @@
 9. [Game Maker](game-maker-development.md)
 10. [Heaps.io](https://heaps.io/)
 11. [Armory Engine](https://armory3d.org/) (3D)
-12. [nCine](https://ncine.github.io/) (2D)
+12. [Stride](https://stride3d.net/) / Xenko | [GitHub](https://github.com/stride3d/stride)
 
 :link: GitHub [Game Engines](https://github.com/collections/game-engines) Collection
 
