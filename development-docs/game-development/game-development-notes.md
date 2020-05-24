@@ -40,5 +40,5 @@
 
 ## Learn Game Development
 
-  - [How to Make an RPG](https://howtomakeanrpg.com/)
-  - [Concept Art Empire](https://conceptartempire.com/)
+- [How to Make an RPG](https://howtomakeanrpg.com/)
+- [Concept Art Empire](https://conceptartempire.com/)
