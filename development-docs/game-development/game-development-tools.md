@@ -32,6 +32,21 @@
 
 - [Tree It](https://www.evolved-software.com/treeit/treeit) a 3D tree generator
 
+## Physics
+
+- [Bullet Physics SDK](https://pybullet.org/wordpress/) | [GitHub](https://github.com/bulletphysics/bullet3)
+
 ### Miscellaneous
 
 - [Shader Playground](http://shader-playground.timjones.io/)
+- [OBS Studio](https://obsproject.com/) - Record gameplay videos
+- [The Game Design Tool](https://machinations.io/) (Machinations )
+
+## Graphics Programms
+
+1. [GIMP](https://www.gimp.org/)
+2. [Inkscape](https://inkscape.org/)
+3. [Blender](https://www.blender.org/)
+4. [Krita](https://krita.org/en/)
+5. [Hexels](https://marmoset.co/hexels/)
+6. [MagicaVoxel](https://ephtracy.github.io/)

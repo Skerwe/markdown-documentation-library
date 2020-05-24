@@ -5,6 +5,11 @@
 
 :closed_book: [Wireframe magazine](https://wireframe.raspberrypi.org/issues)
 
+## :newspaper: Game Developers Conference
+
+- [GDC Vault Free Content](https://gdcvault.com/free)
+- [notGDC](http://www.notgdc.fun/)
+
 ## :book: Articles
 
 1. [Game Dev 101: How to Finish Your Game](https://www.buildbox.com/game-dev-101-how-to-finish-your-game)
@@ -33,6 +38,7 @@
 7. [Vlambeer toolkit & link repository](https://vlambeer.com/toolkit/)
 8. [Game Dev Link Library](https://gdu.io/links)
 
-## Buy Books and Courses
+## Learn Game Development
 
-- [How to Make an RPG](https://howtomakeanrpg.com/)
+  - [How to Make an RPG](https://howtomakeanrpg.com/)
+  - [Concept Art Empire](https://conceptartempire.com/)

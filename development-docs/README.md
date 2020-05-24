@@ -4,6 +4,7 @@
 
 1. :file_folder: [Game Development](game-development/)
 2. :file_folder: [Web Development](web-development/)
+3. :file_folder: [Python Development](python-development/)
 
 ### Extra Notes
 
