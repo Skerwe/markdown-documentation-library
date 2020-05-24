@@ -1,0 +1,11 @@
+# :space_invader: Samrost 2
+
+## Level Codes
+
+1. POKLOP
+2. SOPOUCH
+3. KOMPOTARNA
+4. BUDOAR
+5. PLANINA
+6. LESIK
+7. MAJAK
