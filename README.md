@@ -14,6 +14,7 @@ Development notes and links, in markdown format.
     - :file_folder: [Game Development](development-docs/game-development/)
     - :file_folder: [Web Development](development-docs/web-development/)
 2. :file_folder: [Fine Arts](fine-arts-docs/)
+3. :file_folder: [Playing Games](playing-games/)
 
 ---
 
