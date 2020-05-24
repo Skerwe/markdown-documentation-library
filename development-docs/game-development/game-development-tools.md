@@ -22,6 +22,7 @@
 ### Music and Sounds
 
 - [Audacity](https://www.audacityteam.org/)
+- [Bosca Ceoil](https://boscaceoil.net/)
 
 ### Visual Effects and Animation
 
@@ -50,3 +51,4 @@
 4. [Krita](https://krita.org/en/)
 5. [Hexels](https://marmoset.co/hexels/)
 6. [MagicaVoxel](https://ephtracy.github.io/)
+7. [Pyxel Edit](https://pyxeledit.com/index.php)
