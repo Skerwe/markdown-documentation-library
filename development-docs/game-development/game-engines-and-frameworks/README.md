@@ -10,18 +10,21 @@
 ## Game Engines
 
 1. [Construct 2 & 3](construct-game-development.md)
-2. [Game Maker: Studio 1.4](game-engines-and-frameworks/game-maker-studio-1.md)
-3. [Stencyl](game-engines-and-frameworks/stencyl-game-development.md)
-4. [Unity](game-engines-and-frameworks/unity-game-development.md)
-5. [App Game Kit](app-game-kit-development.md)
-6. [GDevelop](https://gdevelop-app.com/)
-7. [RPG Maker](https://www.rpgmakerweb.com/)
-8. [Lumberyard](https://aws.amazon.com/lumberyard/)
-9. [Game Maker](game-maker-development.md)
-10. [Heaps.io](https://heaps.io/)
-11. [Armory Engine](https://armory3d.org/) (3D)
-12. [Stride](https://stride3d.net/) / Xenko | [GitHub](https://github.com/stride3d/stride)
-13. [MonoGame](monogame-development.md)
+2. [Game Maker: Studio 1.4](game-maker-studio-1.md)
+3. [Stencyl](stencyl-game-development.md)
+4. [Unity](unity-game-development.md)
+5. [Unreal Engine](unreal-engine-development.md)
+6. [App Game Kit](app-game-kit-development.md)
+7. [GDevelop](https://gdevelop-app.com/)
+8. [RPG Maker](https://www.rpgmakerweb.com/)
+9. [Lumberyard](https://aws.amazon.com/lumberyard/)
+10. [Game Maker](game-maker-development.md)
+11. [Heaps.io](https://heaps.io/)
+12. [Armory Engine](https://armory3d.org/) (3D)
+13. [Stride](https://stride3d.net/) / Xenko | [GitHub](https://github.com/stride3d/stride) (2D + 3D)
+14. [MonoGame](monogame-development.md) | [GitHub](https://github.com/MonoGame/MonoGame)
+15. [Corona](https://coronalabs.com/) (2D)
+16. [Defold](https://defold.com/)
 
 :link: GitHub [Game Engines](https://github.com/collections/game-engines) Collection
 
@@ -31,6 +34,13 @@
 
 - [nCine](https://ncine.github.io/) (2D | Good for Game Jams)
 - [ezEngine](https://github.com/ezEngine/ezEngine) (C++)
+- [Esenthel](https://www.esenthel.com/?id=info) | [GitHub](https://github.com/Esenthel/EsenthelEngine/)
+- [Gideros](https://github.com/gideros/gideros) (Mobile)
+- [Bitmelo](https://bitmelo.com/) | [GitHub](https://github.com/byersdz/bitmelo) (Good for Game Jams)
+- [Panda 3D](https://www.panda3d.org/)
+- [Spring Engine](https://springrts.com/) (3D RTS)
+- [luxe](https://luxeengine.com/)
+- [FNA](https://fna-xna.github.io/) (C#)
 
 ***
 

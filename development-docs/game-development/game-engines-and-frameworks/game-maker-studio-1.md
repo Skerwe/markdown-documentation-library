@@ -9,3 +9,9 @@
 
 1) [Gamemaker Tutorials](https://www.youtube.com/playlist?list=PL_pDUk-0qMnd47pdkELJEU0dJE545xX7G) - Tylermon2
 2) [GameMaker: Studio Tutorials](https://www.youtube.com/playlist?list=PLPRT_JORnIurFYwHdWhLWR3bLH2nzChsm) - Shaun Spalding
+
+## Game Maker Language (GML) support in VS Code
+
+- [GML Support](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support)
+- [GML Support ThirdParty](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support-thirdparty)
+- [GML Support Custom](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support-custom)

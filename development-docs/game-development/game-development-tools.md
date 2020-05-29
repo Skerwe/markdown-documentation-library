@@ -14,6 +14,7 @@
 2. [SpriteSheet Packer](http://amakaseev.github.io/sprite-sheet-packer/)
 3. [TexturePacker](https://www.codeandweb.com/texturepacker)
 4. [Tiled](https://www.mapeditor.org/)
+5. [Crocotile 3D](http://www.crocotile3d.com/)
 
 ### Materials and Textures
 
