@@ -38,6 +38,9 @@
 7. [Vlambeer toolkit & link repository](https://vlambeer.com/toolkit/)
 8. [Game Dev Link Library](https://gdu.io/links)
 
+- [PixelProspector](https://pixelprospector.com/) | [Old Archive Site](https://web.archive.org/web/20190329004305/http://www.pixelprospector.com/)
+- [PlatformerPower](https://platformerpower.com/)
+
 ## Learn Game Development
 
 - [How to Make an RPG](https://howtomakeanrpg.com/)

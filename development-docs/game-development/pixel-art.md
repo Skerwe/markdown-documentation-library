@@ -3,7 +3,6 @@
 ## :gem: Pixel Art Resources
 
 - [Lospec](https://lospec.com/)
-- [PixelProspector](https://pixelprospector.com/) | [Old Archive Site](https://web.archive.org/web/20190329004305/http://www.pixelprospector.com/)
 
 ## :beginner: Tutorials
 
