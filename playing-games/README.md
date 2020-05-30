@@ -14,4 +14,4 @@
 
 ## :space_invader: Play Games
 
-1. [Play Free and Open Source Games](play-free--open-source-games.md)
+1. [Play Free and Open Source Games](play-free-open-source-games.md)

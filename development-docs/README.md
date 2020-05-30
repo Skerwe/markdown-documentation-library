@@ -26,5 +26,5 @@ Package managers for building and compiling web projects.
 Setup an IDE with pluggins for developing in various languages.  
 Install tools for better programming.
 
-1. [VS Code](ide-vs-code.md)
+1. [VS Code](ide-vscode.md)
 2. Atom

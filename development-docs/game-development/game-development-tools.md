@@ -2,7 +2,7 @@
 
 ## :closed_book: Analytics and Project Management
 
-1. [GameAnalytics](https://gameanalytics.com/)
+1. [GameAnalytics](https://gameanalytics.com/) | [GameDev Toolbox](https://gameanalytics.com/toolbox/)
 
 ## :computer: Game Development Tools And Applications
 
