@@ -21,9 +21,6 @@
     "email": "quintin.henn@gmail.com",
     "URL": "http://skerwe.web.za"
   },
-  "directories": {
-    "doc": "docs"
-  },
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/Skerwe/markdown-documentation-library/issues"

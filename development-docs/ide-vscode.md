@@ -2,11 +2,12 @@
 
 ## Basic Shortcuts
 
-- Open the command panel: **Ctrl+Shift+P**
-- Change the theme: **Ctrl+K Ctrl+T**
-- Format the current opened document: **Shift+Alt+F**
+- Open the command panel: **Ctrl + Shift + P**
+- Change the theme: **Ctrl + K, Ctrl + T**
+- Format the current opened document: **Shift + Alt + F**
+- Open terminal on current project folder: **Ctrl + Shift + ~**
 
-[Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+:link: [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## Themes and Icons
 

@@ -4,7 +4,7 @@
 
 ![Node.js CI][github-ci-url] [![DevDependency Status][daviddm-image]][daviddm-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
 
-Development notes and links, in markdown format.
+Notes and links documented in markdown format.
 
 ---
 
