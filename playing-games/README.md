@@ -1,5 +1,7 @@
 # :video_game: Playing Games
 
+:pencil: [print & Play](print-and-play.md)
+
 ## :computer: Virtual Machines
 
 1. [DosBox](https://www.dosbox.com/)
