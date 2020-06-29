@@ -32,6 +32,7 @@ Monospaced font with programming ligatures:
 
 1. [Fira Code](https://github.com/tonsky/FiraCode)
 2. [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code)
+3. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 ## EditorConfig
 
