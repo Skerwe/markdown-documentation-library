@@ -42,6 +42,7 @@
 - [luxe](https://luxeengine.com/)
 - [FNA](https://fna-xna.github.io/) (C#)
 - [NeoAxis Engine](https://www.neoaxis.com/)
+- [Flax Engine](https://flaxengine.com/)
 
 ***
 
