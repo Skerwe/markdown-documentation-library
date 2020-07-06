@@ -6,6 +6,7 @@
 2. [JavaScript and HTML5 Game Development](javascript-html5-game-development.md)
 3. [Duality](https://www.duality2d.net/) | [GitHub](https://github.com/AdamsLair/duality)
 4. [Orx](https://orx-project.org/) | [GitHub](https://github.com/orx/orx)
+5. [LÖVE](love2d-game-development.md)
 
 ## Game Engines
 
