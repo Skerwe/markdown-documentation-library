@@ -41,9 +41,11 @@
 - [Panda 3D](https://www.panda3d.org/)
 - [Spring Engine](https://springrts.com/) (3D RTS)
 - [luxe](https://luxeengine.com/)
-- [FNA](https://fna-xna.github.io/) (C#)
+- [FNA](https://fna-xna.github.io/) | [FNA Template](https://github.com/AndrewRussellNet/FNA-Template) (C#)
 - [NeoAxis Engine](https://www.neoaxis.com/)
 - [Flax Engine](https://flaxengine.com/)
+- [ursina engine](https://www.ursinaengine.org/) (3D in Python)
+- [Limon](http://limonengine.com/) | [GitHub](https://github.com/enginmanap/limonEngine)
 
 ***
 

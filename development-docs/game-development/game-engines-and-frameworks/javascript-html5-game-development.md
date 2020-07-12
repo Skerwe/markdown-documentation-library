@@ -22,6 +22,8 @@
 9. [Kiwi.JS](http://www.kiwijs.org/)
 10. [CopperCube](https://www.ambiera.com/coppercube/) (3D)
 11. [Impact](https://impactjs.com/) | [GitHub](https://github.com/phoboslab/impact)
+12. [WebGLStudio.js](https://webglstudio.org/) | [GitHub](https://github.com/jagenjo/webglstudio.js/)
+13. [LimeJS](http://www.limejs.com/)
 
 ***
 
@@ -49,3 +51,7 @@
 ## Physics
 
 + [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)
+
+## Sound and Music
+
++ [howler.js](https://goldfirestudios.com/howler-js-modern-web-audio-javascript-library) - Modern Web Audio Javascript Library

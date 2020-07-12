@@ -10,6 +10,7 @@
 - [OGRE](https://www.ogre3d.org/) (3D)
 - [p5js](p5js.md)
 - [PixiJS](pixijs.md)
+- [Wicked Engine](https://wickedengine.net/) | [GitHub](https://github.com/turanszkij/WickedEngine)
 
 ***
 

@@ -15,10 +15,12 @@
 3. [TexturePacker](https://www.codeandweb.com/texturepacker)
 4. [Tiled](https://www.mapeditor.org/)
 5. [Crocotile 3D](http://www.crocotile3d.com/)
+6. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
 
 ### Materials and Textures
 
 - [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) is a stand alone tool for creating materials
+- [Material Maker](https://rodzilla.itch.io/material-maker)
 
 ### Music and Sounds
 
