@@ -6,7 +6,7 @@
 2. :file_folder: [Web Development](web-development/)
 3. :file_folder: [Python Development](python-development/)
 
-### Extra Notes
+### Resources
 
 + [Markdown Notes](markdown-notes.md)
 + [Open Source Notes](open-source-notes.md)

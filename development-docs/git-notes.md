@@ -4,7 +4,13 @@
 + [Git: Cheat Sheet](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17) (advanced)
 + [Git Tutorials on Java Code Geeks](https://examples.javacodegeeks.com/category/software-development/git)
 
-## Files
+## Git Repository Files
 
 + [A collection of useful _.gitignore_ templates](https://github.com/github/gitignore/)
 + [A collection of useful _.gitattributes_ templates](https://github.com/alexkaratarakis/gitattributes)
+
+## Resources
+
++ [Open Source Notes](open-source-notes.md)
++ [A successful Git branching model](git-branching-model.md)
++ [Git Commands](git-commands.md)
