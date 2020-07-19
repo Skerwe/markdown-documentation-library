@@ -2,7 +2,7 @@
 
 ## Free Game Assets
 
-- [Craftpix freebies](https://craftpix.net/freebies/)
++ [Craftpix freebies](https://craftpix.net/freebies/)
 
 ## Top Down Art Assets
 
