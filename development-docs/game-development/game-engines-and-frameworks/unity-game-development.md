@@ -1,5 +1,9 @@
 # :space_invader: Unity Game Development
 
+:link: [Manual](https://docs.unity3d.com/Manual/index.html)  
+:link: [Scripting API](https://docs.unity3d.com/ScriptReference/index.html)  
+:link: [Learning Unity](https://learn.unity.com/)
+
 ## :beginner: GameDevHQ
 
 - [GameDevHQ](https://gamedevhq.com/start-your-game-development-journey/)
@@ -48,3 +52,22 @@
 
 - [Coding Standards old](https://unity3d.college/2016/05/16/unity-coding-standards/)
 - [Coding Standards](https://docs.google.com/document/d/13QZjY4Fyg8m8IT09wvCvrBt3X6ra5IpGPUOxpyy5DPw/edit)
+
+## Help
+
+### Installation Folders
+
+`C:\Program Files\Unity\Hub\Editor`
+
+### Delete downloaded packages
+
+`C:\Users\Quintin.Henn\AppData\Roaming\Unity\Asset Store-5.x\Unity Technologies`
+
+### Fix Interactive Tutorials
+
+1. Right click on the date/time
+2. Select 'Adjust date/time'
+3. Select 'Additional date, time & region settings'
+4. Then  under Region section select 'Change location'
+5. On the Format tab
+6. Under the Format dropdown, select the 'English (United States)' format
