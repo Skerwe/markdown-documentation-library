@@ -7,3 +7,4 @@ Download free remakes of clasic adventure games
 ## Open Source Games
 
 1. [The Battle for Wesnoth](http://www.wesnoth.org/)
+2. [Warzone 2100](https://wz2100.net/)
