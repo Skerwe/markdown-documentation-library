@@ -61,7 +61,11 @@
 
 ### Delete downloaded packages
 
-`C:\Users\Quintin.Henn\AppData\Roaming\Unity\Asset Store-5.x\Unity Technologies`
+Packages downloaded from the Unity Asset store are downloaded under the Asset Store-5.x folder.
+
+`~/.local/share/unity3d/Asset Store-5.x/`  
+
+`C:\Users\<user-name>\AppData\Roaming\Unity\Asset Store-5.x\`
 
 ### Fix Interactive Tutorials
 

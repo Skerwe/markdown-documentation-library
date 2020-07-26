@@ -4,4 +4,6 @@
 
 ## Lua
 
+Install Lua and Love2d
+
 - [Lua language notes](../../programming-languages/lua-language.md)
