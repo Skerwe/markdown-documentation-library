@@ -26,6 +26,7 @@
 
 - [Audacity](https://www.audacityteam.org/)
 - [Bosca Ceoil](https://boscaceoil.net/)
+- [FamiStudio](https://famistudio.org/) NES Music Editor
 
 ### Visual Effects and Animation
 
@@ -35,6 +36,7 @@
 ### 3G Models
 
 - [Tree It](https://www.evolved-software.com/treeit/treeit) a 3D tree generator
+- [Dust3D](https://dust3d.org/)
 
 ## Physics
 

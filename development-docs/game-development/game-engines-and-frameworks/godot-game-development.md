@@ -12,4 +12,5 @@
 
 ## Addons
 
-[Concept Graph](https://github.com/HungryProton/concept_graph) (node-based procedural content generation)
+- [Concept Graph](https://github.com/HungryProton/concept_graph) (node-based procedural content generation)
+- [Godot Visual Effects](https://github.com/GDQuest/godot-visual-effects)
