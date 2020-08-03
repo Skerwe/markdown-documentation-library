@@ -9,6 +9,8 @@
 
 ## Pyhton Development
 
+:link: [Python Package Index](https://pypi.org/)
+
 ### Python Style Guide
 
 :link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
@@ -37,6 +39,7 @@ pip uninstall SomePackage
 ## :beginner: Learning
 
 1. [Real Python](https://realpython.com/)
+2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
 ## Python Projects
 
