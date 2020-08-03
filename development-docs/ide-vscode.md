@@ -61,20 +61,16 @@ Easily switch between projects
 
 ### Git Source Control
 
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - 
-Supercharge the Git capabilities built into Visual Studio Code
-- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - 
-View a Git Graph of your repository
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - 
-Lets you pull .gitignore files from a [collection of useful .gitignore templates](https://github.com/github/gitignore) repository.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) | [collection of .gitignore templates](https://github.com/github/gitignore)
 
 ### Node Package Manager (NPM)
 
-- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - npm support for VS Code
-- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - 
-Shows the latest version for each package using code lens
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - 
-Visual Studio Code plugin that autocompletes npm modules in import statements
+- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
+- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
 ## Java Development
 
@@ -121,8 +117,6 @@ includes these 2 extensions:
   Automatically add HTML/XML close tag
   - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - 
   Auto rename paired HTML/XML tag
-- [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented) - 
-Indented Sass syntax highlighting, autocomplete & snippets
 - [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
 
 [TypeScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.ts-extension-pack)
@@ -231,9 +225,5 @@ Integration for [JSHint](https://jshint.com/) - a JavaScript Code Quality Tool
 
 ## Game Development
 
-[Godot Tools](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) 
-<<<<<<< HEAD
-
-=======
->>>>>>> 78c906d740c4ac40f5eaba20c717b1b5296244f6
-for game development with the Godot game engine
+1. [Godot Tools](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools)
+2. [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
