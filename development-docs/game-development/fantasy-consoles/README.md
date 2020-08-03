@@ -3,6 +3,7 @@
 ## List of Fantasy Consoles
 
 - [Pico 8](pico-8.md)
+- [TIC-80](https://tic.computer/)
 
 ## Tiny Game Engines
 

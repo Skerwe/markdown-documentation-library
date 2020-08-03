@@ -5,7 +5,8 @@
 ## :beginner: Tutorials
 
 1. [Phaser Tutorials](https://www.joshmorony.com/category/phaser-tutorials) - Josh Morony
-2. [Phaser Basics with TypeScript]
+2. [Phaser Basics with TypeScript](https://www.youtube.com/watch?v=ra8IpkU72oQ)
+3. [Create a Survival Game in Javascript with Phaser 3](https://www.morganpage.tech/)
 
 ## Debugging
 
