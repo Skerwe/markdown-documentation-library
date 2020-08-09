@@ -9,8 +9,10 @@ Venv is bundled with the Python distribution
 ## Create virtual environment
 
 ```shell
-python -m venv virtualenv_name
+py -3 -m venv virtualenv_name
 ```
+
+__Best practise is to use `.venv` for virtualenv_name.__
 
 ## Activate virtual environment
 
@@ -24,6 +26,7 @@ Windows
 
 ```shell
 virtualenv_name\Scripts\activate.bat
+virtualenv_name\scripts\activate
 ```
 
 ## Deactivate virtual environment

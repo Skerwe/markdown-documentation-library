@@ -16,6 +16,7 @@
 4. [Tiled](https://www.mapeditor.org/)
 5. [Crocotile 3D](http://www.crocotile3d.com/)
 6. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
+7. [ShoeBox](http://renderhjs.net/shoebox/)
 
 ### Materials and Textures
 

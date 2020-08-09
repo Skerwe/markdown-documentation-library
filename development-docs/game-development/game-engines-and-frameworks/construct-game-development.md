@@ -1,8 +1,11 @@
-# Construct 2 & 3 Game development
+# :video_game: Construct 2 & 3 Game development
 
-## Tutorials
+:link: [Scirra Store](https://www.scirra.com/store)
+
+## :beginner: Tutorials
 
 - [Construct 2 Academy | C2A](https://www.youtube.com/user/ScirraVideos/playlists?view=50&sort=dd&shelf_id=1)
+- [Level Zero - Free Construct 2 Book](https://www.construct.net/en/blogs/construct-official-blog-1/level-zero-free-construct-book-853)
 
 ## Publishing
 
