@@ -39,7 +39,7 @@
 2. [Quest System Pro ](https://github.com/devdogio/Quest-System-Pro)
 3. [LOS Pro](https://github.com/devdogio/lospro)
 4. [Sci-Fi UI Design](https://github.com/devdogio/sci-fi-ui)
-5. [Scene Cleaner Pro]()
+5. Scene Cleaner Pro
 
 ## Unity Environment Setup
 
