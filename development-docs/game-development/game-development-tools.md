@@ -6,7 +6,8 @@
 
 ## :computer: Game Development Tools And Applications
 
-:link: [RAD Game Tools](http://www.radgametools.com/)
+- [RAD Game Tools](http://www.radgametools.com/)
+- [FLECS–Fast Lightweight Entity Component System](https://github.com/SanderMertens/flecs) (c++)
 
 ### Spritesheets and Tiles
 
@@ -42,6 +43,7 @@
 ## Physics
 
 - [Bullet Physics SDK](https://pybullet.org/wordpress/) | [GitHub](https://github.com/bulletphysics/bullet3)
+- [Box2D](https://box2d.org/)
 
 ### Miscellaneous
 

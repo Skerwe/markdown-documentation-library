@@ -1,4 +1,4 @@
-# Stencyl Game development
+# :video_game: Stencyl Game development
 
 ## Educator's Kit
 

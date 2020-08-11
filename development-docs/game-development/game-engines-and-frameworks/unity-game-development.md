@@ -33,6 +33,14 @@
 - [Makinom](http://makinom.com/) - Game Toolkit for Unity
 - [ORK](http://orkframework.com/) - The complete RPG Engine for Unity
 
+### Open Source
+
+1. [Inventory Pro](https://github.com/devdogio/Inventory-Pro)
+2. [Quest System Pro ](https://github.com/devdogio/Quest-System-Pro)
+3. [LOS Pro](https://github.com/devdogio/lospro)
+4. [Sci-Fi UI Design](https://github.com/devdogio/sci-fi-ui)
+5. [Scene Cleaner Pro]()
+
 ## Unity Environment Setup
 
 ### Code Editor

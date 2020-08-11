@@ -2,18 +2,12 @@
 
 :link: [Python homepage](https://www.python.org/)
 
-## Python in VSCode
+## Pyhton Development
+
+### Python in VSCode
 
 - [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)  
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
-
-## Pyhton Development
-
-:link: [Python Package Index](https://pypi.org/)
-
-### Python Style Guide
-
-:link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
 
 ### [Pip](https://pip.pypa.io/en/stable/) -- The Python Package Installer
 
@@ -32,6 +26,14 @@ pip uninstall SomePackage
 2. [Virtualenv](virtualenv.md)
 3. [venv](venv.md)
 
+### Python Style Guide
+
+:link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
+
+### Pyhton Package Repositories
+
+:link: [Python Package Index](https://pypi.org/)
+
 ### Build and Distribute Python Packages
 
 - [Setuptools](https://setuptools.readthedocs.io/en/latest/)
@@ -40,6 +42,7 @@ pip uninstall SomePackage
 
 1. [Real Python](https://realpython.com/)
 2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+3. :book: [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
 
 ## Python Projects
 
