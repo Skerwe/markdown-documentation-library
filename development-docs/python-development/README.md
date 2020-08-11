@@ -20,11 +20,13 @@ pip uninstall SomePackage
 
 ### Python Project Environment
 
-:link: [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/)
+:link: [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)  
+:link: [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/)  
+:link: [Pipenv & Virtual Environments](https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html)
 
-1. [Pipenv](pipenv.md)
+1. [venv](venv.md)
 2. [Virtualenv](virtualenv.md)
-3. [venv](venv.md)
+3. [Pipenv](pipenv.md)
 
 ### Python Style Guide
 
