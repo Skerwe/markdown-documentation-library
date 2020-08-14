@@ -1,13 +1,15 @@
-# [Visual Studio Code](https://code.visualstudio.com/)
+# Visual Studio Code
+
+:link: [VSCode](https://code.visualstudio.com/)
 
 ## Basic Shortcuts
 
-- Open the command panel: **Ctrl + Shift + P**
-- Change the theme: **Ctrl + K, Ctrl + T**
-- Format the current opened document: **Shift + Alt + F**
-- Open terminal on current project folder: **Ctrl + Shift + ~**
+- Open the command panel: `Ctrl + Shift + P`
+- Change the theme: `Ctrl + K, Ctrl + T`
+- Format the current opened document: `Shift + Alt + F`
+- Open terminal on current project folder: `Ctrl + Shift + ~`
 
-:link: [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+:link: [Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) (PDF)
 
 ## Themes and Icons
 
@@ -17,14 +19,14 @@
 - [Seti Icon Theme](https://marketplace.visualstudio.com/items?itemName=qinjia.seti-icons)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-`Ctrl+Shift+P > Preferences: File Icon Theme`
+Change file icon theme: `Ctrl+Shift+P > Preferences: File Icon Theme`
 
 ### Syntax Themes
 
 - [New Moon Syntax Theme for Web Development](https://taniarascia.github.io/new-moon/)
 - [Sublime Material Theme](https://marketplace.visualstudio.com/items?itemName=jprestidge.theme-material-theme)
 
-`Ctrl+Shift+P > Preferences: Color Theme`
+Change the syntax theme: `Ctrl+Shift+P > Preferences: Color Theme`
 
 ## Programmer Font
 
@@ -45,7 +47,7 @@ Monospaced font with programming ligatures:
 
 ### Project Management
 
-- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - 
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) --
 Easily switch between projects
 
 ## Development Enhancements
@@ -87,11 +89,14 @@ which includes:
 
 2. [Gradle Language Support](https://marketplace.visualstudio.com/items?itemName=naco-siren.gradle-language)
 
-## [Markdown](markdown.md)
+## Markdown Files
+
+:link: [Markdown Notes](development-docs/markdown-notes.md)
 
 Open preview side-by-side `Ctrl+K V`
-How to setup [Compiling Markdown into HTML](https://code.visualstudio.com/docs/languages/markdown#_compiling-markdown-into-html)
-How to configure VSCode as a [Markdown Editor](https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/)
+
+- How to setup [Compiling Markdown into HTML](https://code.visualstudio.com/docs/languages/markdown#_compiling-markdown-into-html)
+- How to configure VSCode as a [Markdown Editor](https://thisdavej.com/build-an-amazing-markdown-editor-using-visual-studio-code-and-pandoc/)
 
 ### Markdown Linting
 
@@ -150,7 +155,7 @@ enables developers to quickly scaffold full-stack web applications with cloud se
 
 #### Frameworks
 
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) -- Vue tooling
 
 ## Python 
 
@@ -160,7 +165,7 @@ linting, debugging (multi-threaded, remote), intellisense, code formatting, refa
 ## Miscellaneous
 
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat
-- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - 
+- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) -- 
 XML Formatting, XQuery, and XPath Tools
 - [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 

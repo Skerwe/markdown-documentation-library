@@ -1,15 +1,15 @@
 # Minecraft
 
-:link: [Minecraft](https://www.minecraft.net/en-us/) home page
+:link: [Minecraft](https://www.minecraft.net/en-us/)
 
 ## Modpacks
 
 - [Feed The Beast](https://www.feed-the-beast.com/)
 - [MultiMC ](https://multimc.org/)
 
-## :beginner: Tutorials
+## Tutorials
 
-[Official Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki)
+:link: [Official Minecraft Wiki](https://minecraft.gamepedia.com/Minecraft_Wiki)
 
 1. [Minecraft Tutorials](https://minecraft.gamepedia.com/Tutorials)
 2. [Farming in Minecraft](https://minecraft.gamepedia.com/Farming)

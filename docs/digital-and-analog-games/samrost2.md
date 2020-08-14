@@ -1,4 +1,4 @@
-# :space_invader: Samrost 2
+# Samrost 2
 
 ## Level Codes
 

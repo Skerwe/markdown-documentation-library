@@ -1,4 +1,4 @@
-# :notebook_with_decorative_cover: Markdown
+# Markdown Notes
 
 Everything you need to learn Markdown: [Markdown Guide](https://www.markdownguide.org/)
 
@@ -10,7 +10,7 @@ Everything you need to learn Markdown: [Markdown Guide](https://www.markdownguid
 
 ## Markups
 
-[List of GitHub supported markups](https://github.com/github/markup#markups)
+:link: [List of GitHub supported markups](https://github.com/github/markup#markups)
 
 - [Daring Fireball: Markdown](https://daringfireball.net/projects/markdown/)
 - [GitHub Flavored Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
@@ -24,5 +24,5 @@ Everything you need to learn Markdown: [Markdown Guide](https://www.markdownguid
 
 ## Tools
 
-- [remark](https://remark.js.org/) - Markdown processor powered by plugins
-- [Emojis](https://gist.github.com/rxaviers/7360908) - Complete list of github markdown emoji markup
+- [remark](https://remark.js.org/) -- Markdown processor powered by plugins
+- [Emojis](https://gist.github.com/rxaviers/7360908) -- Complete list of github markdown emoji markup

@@ -1,4 +1,4 @@
-# :video_game: StarCraft 2
+# StarCraft 2
 
 ## Build Orders
 

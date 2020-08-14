@@ -1,6 +1,6 @@
-# :space_invader: Worms 2
+# Worms 2
 
-## Cheats
+## Cheat Codes
 
 `**godmode**`
 
