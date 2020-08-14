@@ -177,9 +177,9 @@ VS Code provides support for JavaScript linters, including ESLint, JSHint and St
 
 ### [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint)
 
-VS Code integration for [HTMLHint](https://github.com/htmlhint/HTMLHint) - A Static Code Analysis Tool for HTML
+VS Code integration for [HTMLHint](https://github.com/htmlhint/HTMLHint) -- A Static Code Analysis Tool for HTML
 
-.htmlhintrc
+`.htmlhintrc`
 
 ### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
@@ -222,7 +222,7 @@ Integration for [JSHint](https://jshint.com/) - a JavaScript Code Quality Tool
 
 [Online JavaScript beautifier](https://beautifier.io/)
 
-.jsbeautifyrc
+`.jsbeautifyrc`
 
 ### [Pretty Diff - The difference tool](https://prettydiff.com/)
 

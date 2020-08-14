@@ -69,7 +69,9 @@ git merge --no-ff hotfix-1.2.1
 git branch -d hotfix-1.2.1
 ```
 
-## [Git-Basics-Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+## Tags
+
+:link: [Git-Basics: Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
 ### Push tag to remote origin
 

@@ -57,7 +57,7 @@ Run scripts that set and use environment variables across platforms
     pm edit
     ```
 
-## :warning: Fixing Issues with the NPM Environment
+## Fixing Issues with the NPM Environment
 
 ### NPM global packages not accessable
 

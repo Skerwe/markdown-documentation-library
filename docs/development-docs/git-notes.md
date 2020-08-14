@@ -11,6 +11,6 @@
 
 ## Resources
 
-+ [Open Source Notes](open-source-notes.md)
-+ [A successful Git branching model](git-branching-model.md)
-+ [Git Commands](git-commands.md)
++ [Open Source Notes](development-docs/open-source-notes.md)
++ [A successful Git branching model](development-docs/git-branching-model.md)
++ [Git Commands](development-docs/git-commands.md)

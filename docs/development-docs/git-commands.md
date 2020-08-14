@@ -80,7 +80,7 @@ Go back one commit:
 
 ```shell
 git revert HEAD~1
-git push origin master`
+git push origin master
 ```
 
 Forces the push on the remote origin:
@@ -207,8 +207,8 @@ Applying patches:
 Configure global properties:
 
 ```shell
-git config --global user.name "Quintin Henn"
-git config --global user.email "quintin.henn@gmail.com"
+git config --global user.name "User Name"
+git config --global user.email "user.name@gmail.com"
 git config --global color.ui "auto"
 ```
 

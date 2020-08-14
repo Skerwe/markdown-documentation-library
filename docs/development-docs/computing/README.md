@@ -1,6 +1,6 @@
-# Computing
+# Computing and Electronics
 
-## Learn
+## Tutorials and Guides
 
 - [Hands on computing education](https://www.microsoft.com/en-us/makecode)
 - [MakeCode Arcade](https://arcade.makecode.com/)

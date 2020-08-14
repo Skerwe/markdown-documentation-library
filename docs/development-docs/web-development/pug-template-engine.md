@@ -1,4 +1,4 @@
-# PUG Template Engine
+# PUG Template Engine Notes
 
 ## Tools
 
@@ -6,10 +6,10 @@
 
 ## Useage
 
-Install global cli `npm i pug-cli -g`
+Install global cli: `npm i pug-cli -g`
 
 Watch folder to compile pug templates:
 
-```bash
+```shell
 pug -w ./ -o ./html -P
 ```

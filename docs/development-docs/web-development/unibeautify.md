@@ -23,7 +23,7 @@
 
 ## Beautifiers
 
-List of [Beautifiers][beautifiers]  
+:link: List of [Beautifiers][beautifiers]  
 
 1. [Prettier](https://prettier.io/) - [prettier-setup](https://github.com/lipis/prettier-setup)
 2. [JS Beautifier](https://beautifier.io/) - [npm package](https://www.npmjs.com/package/js-beautify)

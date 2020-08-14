@@ -1,10 +1,11 @@
-# Software Development
+# Software Development Notes
 
 ## Categories
 
-1. :file_folder: [Game Development](development-docs/game-development/)
-2. :file_folder: [Web Development](development-docs/web-development/)
-3. :file_folder: [Python Development](development-docs/python-development/)
+1. :file_folder: [Game Development Notes](development-docs/game-development/)
+2. :file_folder: [Web Development Notes](development-docs/web-development/)
+3. :file_folder: [Python Development Notes](development-docs/python-development/)
+4. :file_folder: [Computing and Electronics](development-docs/computing/)
 
 ## Resources
 

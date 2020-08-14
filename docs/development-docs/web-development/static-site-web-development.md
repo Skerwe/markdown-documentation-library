@@ -1,4 +1,6 @@
-# Static Site Web Development
+# Static Site Web Development Notes
+
+:link: [StaticGen](https://www.staticgen.com/)
 
 ## The JAM Stack
 
@@ -19,10 +21,11 @@
 ## Static Site Generators
 
 1. [Eleventy](https://www.11ty.io/) | [Supermaya starter kit](https://github.com/MadeByMike/supermaya)
-2. [Jekyll](jekyll-static-site-generator.md)
+2. [Jekyll](development-docs/web-development/jekyll-static-site-generator.md)
 
 ### Documentation Static Site Generators
 
+- [Docsify](https://docsify.js.org)
 - [MkDocs](https://www.mkdocs.org/)
 
 ## Tutorials
