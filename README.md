@@ -16,7 +16,7 @@ npm test
 
 ## License
 
-The source code is free -- see the [UNLICENSE](UNLICENSE) file for details
+The source code is free -- see the [LICENSE](LICENSE) file for details
 
 [daviddm-image]: https://david-dm.org/Skerwe/markdown-documentation-library/dev-status.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/Skerwe/markdown-documentation-library?type=dev
