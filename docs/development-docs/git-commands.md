@@ -1,9 +1,4 @@
-# Git Command
-
-## Learn Git
-
-1. [Learn Git with Bitbucket Cloud | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-2. [Git Handbook · GitHub Guides](https://guides.github.com/introduction/git-handbook/)
+# Git Commands
 
 ## 1. The Basics of Git
 

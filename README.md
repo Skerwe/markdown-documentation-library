@@ -1,18 +1,53 @@
 # Markdown Documentation Library (MDL)
 
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
-
 ![Node.js CI][github-ci-url] [![DevDependency Status][daviddm-image]][daviddm-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
 
 Notes and links documented in markdown format.
 
-## Validate Markdown files
+## Getting Started
 
-Run markdownlint to check the markdown files.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Make sure these are installed first.
+
+- [Node.js](http://nodejs.org)
+- [npm](https://www.npmjs.com/get-npm) or equivilant
+- [Docsify](https://docsify.js.org/#/)
+
+### Quick Start
+
+Clone the repository:
+
+```shell
+git clone https://github.com/Skerwe/markdown-documentation-library.git
+```
+
+Install the dependencies
+
+1. In bash/terminal/command line, `cd` into the project directory.
+2. Run `npm install` to install required files and dependencies.
+
+Serve the documentation web site on `localhost:3000`
+
+```shell
+docsify serve docs
+```
+
+## Running the tests
+
+Run [markdownlint](https://github.com/DavidAnson/markdownlint) to validate the markdown files.
 
 ```bash
 npm test
 ```
+
+## The project was built with
+
+1. [Markdown](https://www.markdownguide.org/getting-started/) -- used for creating the notes and documentation
+2. [Docsify](https://docsify.js.org/#/) -- Used to generate the documentation web site
+3. [GitHub Pages](https://pages.github.com/) -- For hosting the documentation web site
 
 ## License
 

@@ -1,6 +1,6 @@
-# :snake: Python Development
+# :snake: Python Development Notes
 
-:link: [Python homepage](https://www.python.org/)
+:link: [Python](https://www.python.org/)
 
 ## Pyhton Development
 
@@ -18,27 +18,39 @@ pip install --upgrade SomePackage
 pip uninstall SomePackage
 ```
 
+### Pyhton Package Repositories
+
+:link: [Python Package Index](https://pypi.org/)
+
+
 ### Python Project Environment
 
 :link: [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)  
-:link: [Pipenv & Virtual Environments](https://docs.python-guide.org/dev/virtualenvs/)  
 :link: [Pipenv & Virtual Environments](https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html)
+
+#### Virtual Environments
 
 1. [venv](venv.md)
 2. [Virtualenv](virtualenv.md)
 3. [Pipenv](pipenv.md)
 
+#### Managing Application Dependencies
+
+:link: Manage dependencies with [Pipenv](https://packaging.python.org/tutorials/managing-dependencies/)
+
+```shell
+pip freeze > requirements.txt
+pip install -r requirements.txt
+```
+
 ### Python Style Guide
 
 :link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
 
-### Pyhton Package Repositories
-
-:link: [Python Package Index](https://pypi.org/)
-
 ### Build and Distribute Python Packages
 
-- [Setuptools](https://setuptools.readthedocs.io/en/latest/)
+1. [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io/)
+2. Packaging Python projects with [Setuptools](https://setuptools.readthedocs.io/en/latest/)
 
 ## :beginner: Learning
 
@@ -55,5 +67,5 @@ pip uninstall SomePackage
 
 ## Configuration System variable
 
-PYTHON_SCRIPTS  
-`C:\Users\<user-name>\AppData\Roaming\Python\Python38\Scripts`
+  PYTHON_SCRIPTS  
+  `C:\Users\<user-name>\AppData\Roaming\Python\Python38\Scripts`

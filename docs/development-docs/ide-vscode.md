@@ -1,4 +1,4 @@
-# Visual Studio Code
+# Visual Studio Code Notes
 
 :link: [VSCode](https://code.visualstudio.com/)
 
@@ -164,7 +164,7 @@ linting, debugging (multi-threaded, remote), intellisense, code formatting, refa
 
 ## Miscellaneous
 
-- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) -- YAML Language Support by Red Hat
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) -- 
 XML Formatting, XQuery, and XPath Tools
 - [C# for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)

@@ -61,7 +61,16 @@
 - [Coding Standards old](https://unity3d.college/2016/05/16/unity-coding-standards/)
 - [Coding Standards](https://docs.google.com/document/d/13QZjY4Fyg8m8IT09wvCvrBt3X6ra5IpGPUOxpyy5DPw/edit)
 
-## Help
+### Git with Unity
+
+1. Install [Git Large File Storage](https://git-lfs.github.com/) (LFS)
+2. Run command to initialise LFS: `git lfs install`
+3. [GitHub for Unity](https://unity.github.com/)
+
+- [How to use Git with Unity!](https://www.youtube.com/watch?v=QGFK4OHA2zQ) (Unity Tutorial)
+- [How to use GitHub with Unity](https://www.youtube.com/watch?v=qpXxcvS-g3g) (Brackeys Tutorial)
+
+## :warning: Help
 
 ### Installation Folders
 
