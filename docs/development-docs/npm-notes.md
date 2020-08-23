@@ -33,30 +33,30 @@ Run scripts that set and use environment variables across platforms
 
 `npm install -g projectman`
 
-1. Add a project
+Add a project
 
-    ```shell
-    cd /till/the/project
-    pm add
-    ```
+```shell
+cd /till/the/project
+pm add
+```
 
-2. Open a project
+Open a project
 
-    ```shell
-    pm open [projectName]
-    ```
+```shell
+pm open [projectName]
+```
 
-3. Remove a project
+Remove a project
 
-    ```shell
-    pm remove
-    ```
+```shell
+pm remove
+```
 
-4. Edit ProjectMan config
+Edit ProjectMan config
 
-    ```shell
-    pm edit
-    ```
+```shell
+pm edit
+```
 
 ## :warning: Fixing Issues with the NPM Environment
 

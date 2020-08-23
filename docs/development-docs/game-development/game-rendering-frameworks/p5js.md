@@ -1,3 +1,3 @@
-# :space_invader: p5.js
+# p5.js Development Notes
 
-:link: [Homepage](https://p5js.org/)
+:link: [p5.js](https://p5js.org/)

@@ -1,3 +1,3 @@
-# :computer: Beef Language
+# Beef Language Notes
 
-:link: [Homepage](https://www.beeflang.org/)
+:link: [beeflang.org](https://www.beeflang.org/)

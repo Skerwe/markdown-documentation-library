@@ -1,6 +1,6 @@
-# :space_invader: JavaScript and HTML5 Game Development
+# JavaScript and HTML5 Game Development
 
-## :newspaper: Community and Forums
+## Community and Forums
 
 1. [HTML5 Game Devs](http://www.html5gamedevs.com/)
 2. [HTML5 Game Development](https://html5gamedevelopment.com/)
@@ -39,8 +39,8 @@
 
 ## Graphics Programming
 
-+ [p5js](../game-rendering-frameworks/p5js.md)
-+ [PixiJS](../game-rendering-frameworks/pixijs.md)
++ [p5js](development-docs/game-development/game-rendering-frameworks/p5js.md)
++ [PixiJS](development-docs/game-development/game-rendering-frameworks/pixijs.md)
 + [Processing](https://processing.org/)
 + [A-Frame](https://aframe.io/) (VR)
 + [three.js](https://threejs.org/)

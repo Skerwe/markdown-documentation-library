@@ -1,6 +1,6 @@
 # Kongregate
 
-[Documentation](https://docs.kongregate.com/docs)
+:link: [Kongregate](https://www.kongregate.com/) | [Documentation](https://docs.kongregate.com/docs)
 
 ## HTML5 Games in Kongregate
 

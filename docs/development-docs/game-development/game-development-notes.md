@@ -1,20 +1,20 @@
-# :video_game: Game Development Notes
+# Game Development Notes
 
 :newspaper: Game devlopment news, tools, resources and tutorials  
 [Game Dev](https://devga.me/) | [Game from Scratch](https://www.gamefromscratch.com/)
 
 :closed_book: [Wireframe magazine](https://wireframe.raspberrypi.org/issues)
 
-## :newspaper: Game Developers Conference
+## Game Developers Conferences
 
 - [GDC Vault Free Content](https://gdcvault.com/free)
 - [notGDC](http://www.notgdc.fun/)
 
-## :book: Articles
+## Articles
 
 1. [Game Dev 101: How to Finish Your Game](https://www.buildbox.com/game-dev-101-how-to-finish-your-game)
 
-## :books: Game Development Books on Various Topics
+## Game Development Books on Various Topics
 
 1. [The Book of Shaders](https://thebookofshaders.com/)
 2. [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
@@ -27,7 +27,7 @@
 - [Game Development Math Recipes](https://www.gamefromscratch.com/page/Game-Development-Math-Recipes.aspx) - GameFromScratch
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
-## :gem: Game Development Resources
+## Game Development Resources
 
 1. [Game Assets](http://quaternius.com/assets.html) - Quaternius
 2. [TextureHaven](https://texturehaven.com/)

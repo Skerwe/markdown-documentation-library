@@ -1,8 +1,8 @@
-# :tv: Fantasy Consoles
+# Fantasy Consoles
 
 ## List of Fantasy Consoles
 
-- [Pico 8](pico-8.md)
+- [Pico 8](development-docs/game-development/fantasy-consoles/pico-8.md)
 - [TIC-80](https://tic.computer/)
 
 ## Tiny Game Engines

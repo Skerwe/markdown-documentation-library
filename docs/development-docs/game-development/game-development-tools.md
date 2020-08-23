@@ -1,10 +1,10 @@
-# :video_game: Game Development Tools
+# Game Development Tools
 
-## :closed_book: Analytics and Project Management
+## Analytics and Project Management
 
 1. [GameAnalytics](https://gameanalytics.com/) | [GameDev Toolbox](https://gameanalytics.com/toolbox/)
 
-## :computer: Game Development Tools And Applications
+## Game Development Tools And Applications
 
 - [RAD Game Tools](http://www.radgametools.com/)
 - [FLECS–Fast Lightweight Entity Component System](https://github.com/SanderMertens/flecs) (c++)
@@ -29,6 +29,7 @@
 - [Audacity](https://www.audacityteam.org/)
 - [Bosca Ceoil](https://boscaceoil.net/)
 - [FamiStudio](https://famistudio.org/) NES Music Editor
+- [LMMS](https://lmms.io/)
 
 ### Visual Effects and Animation
 
@@ -55,7 +56,7 @@
 
 1. [GIMP](https://www.gimp.org/)
 2. [Inkscape](https://inkscape.org/)
-3. [Blender](https://www.blender.org/)
+3. [Blender](development-docs/game-development/blender-notes.md)
 4. [Krita](https://krita.org/en/)
 5. [Hexels](https://marmoset.co/hexels/)
 6. [MagicaVoxel](https://ephtracy.github.io/)

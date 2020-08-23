@@ -1,4 +1,4 @@
-# Indie Game Development Marketing
+# Indie Game Marketing Notes
 
 Create website, a game trailer and a steam page (as soon as possible)  
 Build up a email list and wishlist

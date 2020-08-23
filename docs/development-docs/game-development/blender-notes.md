@@ -1,6 +1,6 @@
 # Blender
 
-:link: [Website](https://www.blender.org/)
+:link: [blender.org](https://www.blender.org/)
 
 ## Community
 

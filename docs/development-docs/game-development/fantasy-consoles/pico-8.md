@@ -1,8 +1,8 @@
-# :space_invader: PICO-8 Fantasy Console
+# PICO-8 Fantasy Console
 
-:bookmark: [Pico-8 at Lexaloffle][pico8]
+:link: [Pico-8 at Lexaloffle][pico8]
 
-## :beginner: Tutorials
+## Tutorials
 
 + [PICO-8 Educational Toolset](https://itch.io/c/198419/pico-8-educational-toolset)
 + [PICO-8 GameDev #1: Getting Started](https://forum.clockworkpi.com/t/pico-8-gamedev-1-getting-started-tutorial/2347)

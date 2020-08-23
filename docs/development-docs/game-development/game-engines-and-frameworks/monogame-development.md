@@ -1,6 +1,6 @@
-# :video_game: MonoGame Development
+# MonoGame Development Notes
 
-:link: [MonoGame](https://www.monogame.net/) website
+:link: [MonoGame](https://www.monogame.net/)
 
 ## Tools
 

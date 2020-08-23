@@ -1,8 +1,8 @@
-# :video_game: Phaser
+# Phaser Game Development Notes
 
 :link: [Phaser Homepage](https://phaser.io/)
 
-## :beginner: Tutorials
+## Tutorials
 
 1. [Phaser Tutorials](https://www.joshmorony.com/category/phaser-tutorials) - Josh Morony
 2. [Phaser Basics with TypeScript](https://www.youtube.com/watch?v=ra8IpkU72oQ)

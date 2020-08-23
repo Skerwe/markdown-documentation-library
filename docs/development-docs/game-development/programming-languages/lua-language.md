@@ -1,12 +1,14 @@
-# :computer: Lua Language
+# Lua Language Notes
 
-:link: [Lua scripting language](http://www.lua.org/)
+:link: [lua.org](http://www.lua.org/)
 
 ## IDE
 
 - [ZeroBrane Studio](https://studio.zerobrane.com/) (lightweight Lua IDE)
 
 ## Install Lua and Love
+
+:pencil: [Love Game Development Notes](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)
 
 ### Windows
 

@@ -1,10 +1,10 @@
-# :video_game: Unreal Engine Game Development
+# Unreal Engine Game Development
 
 :link: [Unreal Engine](https://www.unrealengine.com/) | :book: [Documentation](https://docs.unrealengine.com/en-US/index.html)
 
-## :beginner: Learning Unreal Engine
+## Learning Unreal Engine
   
-:mortar_board: [Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses)
+:beginner: [Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses)
 
 ## Resources and Tools
 

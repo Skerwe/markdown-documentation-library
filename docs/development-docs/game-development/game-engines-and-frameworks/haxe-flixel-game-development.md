@@ -1,11 +1,11 @@
 # HaxeFlixel Game Development
 
-[Shiro Games Technology Stack](https://haxe.org/blog/shirogames-stack/)
+:link: [Shiro Games Technology Stack](https://haxe.org/blog/shirogames-stack/)
 
 ## Environment Setup
 
-1. [Installation](haxe-flixel-installation.md)
-2. [Visual Studio Code with Haxe](vscode-with-haxe.md)
+1. [Installation](development-docs/game-development/game-engines-and-frameworks/haxe-flixel-installation.md)
+2. [Visual Studio Code with Haxe](development-docs/game-development/game-engines-and-frameworks/vscode-with-haxe.md)
 
 ## Tutorials
 

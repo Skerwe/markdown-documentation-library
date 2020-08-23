@@ -1,4 +1,4 @@
-# :computer: Rust
+# Rust Language Notes
 
 :link: [Homepage](https://www.rust-lang.org/)
 

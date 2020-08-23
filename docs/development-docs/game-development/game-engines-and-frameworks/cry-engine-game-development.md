@@ -1,4 +1,4 @@
-# :video_game: Cry Engine Game Dvelopment
+# Cry Engine Game Dvelopment
 
 ## Libraries
 

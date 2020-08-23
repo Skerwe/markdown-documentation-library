@@ -1,4 +1,4 @@
-# :video_game: :snake: Python Game Development
+# Python Game Development Notes
 
 ## Python Game Framework
 

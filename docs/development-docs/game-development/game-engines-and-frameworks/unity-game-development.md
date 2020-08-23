@@ -1,10 +1,10 @@
-# :space_invader: Unity Game Development
+# Unity Game Development
 
 :link: [Manual](https://docs.unity3d.com/Manual/index.html)  
 :link: [Scripting API](https://docs.unity3d.com/ScriptReference/index.html)  
 :link: [Learning Unity](https://learn.unity.com/)
 
-## :beginner: GameDevHQ
+## GameDevHQ
 
 - [GameDevHQ](https://gamedevhq.com/start-your-game-development-journey/)
 - [Filebase](https://gamedevhq.com/filebase/)
@@ -56,7 +56,7 @@
 
 :link: [Unity Debugger Extension for Visual Studio Code](https://github.com/Unity-Technologies/vscode-unity-debug)
 
-### :construction: Unity Coding Standards
+### Unity Coding Standards
 
 - [Coding Standards old](https://unity3d.college/2016/05/16/unity-coding-standards/)
 - [Coding Standards](https://docs.google.com/document/d/13QZjY4Fyg8m8IT09wvCvrBt3X6ra5IpGPUOxpyy5DPw/edit)

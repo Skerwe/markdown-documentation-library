@@ -1,3 +1,3 @@
-# :computer: Wren Language
+# Wren Language Notes
 
-:link: [Homepage](https://wren.io/) | [GitHub](https://github.com/wren-lang/wren)
+:link: [wren.io](https://wren.io/) | [GitHub](https://github.com/wren-lang/wren)

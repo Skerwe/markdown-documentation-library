@@ -1,30 +1,30 @@
-# :video_game: Game Engines and Frameworks
+# Game Engines and Frameworks
 
 ## Game Frameworks
 
-1. [Haxe|OpenFL|HaxeFlixel](haxe-flixel-game-development.md)
-2. [JavaScript and HTML5 Game Development](javascript-html5-game-development.md)
+1. [Haxe/OpenFL/HaxeFlixel](development-docs/game-development/game-engines-and-frameworks/haxe-flixel-game-development.md)
+2. [JavaScript and HTML5 Game Development](development-docs/game-development/game-engines-and-frameworks/javascript-html5-game-development.md)
 3. [Duality](https://www.duality2d.net/) | [GitHub](https://github.com/AdamsLair/duality)
 4. [Orx](https://orx-project.org/) | [GitHub](https://github.com/orx/orx)
-5. [LÖVE](love2d-game-development.md)
+5. [LÖVE](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)
 
 ## Game Engines
 
-1. [Construct 2 & 3](construct-game-development.md)
-2. [Game Maker: Studio 1.4](game-maker-studio-1.md)
+1. [Construct 2 & 3](development-docs/game-development/game-engines-and-frameworks/construct-game-development.md)
+2. [Game Maker: Studio 1.4](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-1.md)
 3. [Godot](https://godotengine.org/)
-4. [Stencyl](stencyl-game-development.md)
-5. [Unity](unity-game-development.md)
-6. [Unreal Engine](unreal-engine-development.md)
-7. [App Game Kit](app-game-kit-development.md)
+4. [Stencyl](development-docs/game-development/game-engines-and-frameworks/stencyl-game-development.md)
+5. [Unity](development-docs/game-development/game-engines-and-frameworks/unity-game-development.md)
+6. [Unreal Engine](development-docs/game-development/game-engines-and-frameworks/unreal-engine-development.md)
+7. [App Game Kit](development-docs/game-development/game-engines-and-frameworks/app-game-kit-development.md)
 8. [GDevelop](https://gdevelop-app.com/)
 9. [RPG Maker](https://www.rpgmakerweb.com/)
 10. [Lumberyard](https://aws.amazon.com/lumberyard/)
-11. [Game Maker](game-maker-development.md)
+11. [Game Maker](development-docs/game-development/game-engines-and-frameworks/game-maker-development.md)
 12. [Heaps.io](https://heaps.io/)
 13. [Armory Engine](https://armory3d.org/) (3D)
 14. [Stride](https://stride3d.net/) / Xenko | [GitHub](https://github.com/stride3d/stride) (2D + 3D)
-15. [MonoGame](monogame-development.md) | [GitHub](https://github.com/MonoGame/MonoGame)
+15. [MonoGame](development-docs/game-development/game-engines-and-frameworks/monogame-development.md) | [GitHub](https://github.com/MonoGame/MonoGame)
 16. [Corona](https://coronalabs.com/) / [Solar2D](https://solar2d.com/) (2D Lua)
 17. [Defold](https://defold.com/)
 18. [UNIGINE Engine](https://unigine.com/products/community/advantages/)

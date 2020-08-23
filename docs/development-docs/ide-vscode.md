@@ -76,7 +76,7 @@ Easily switch between projects
 
 ## Java Development
 
-[Java in VS Code](https://code.visualstudio.com/docs/languages/java) documentation.  
+:link: [Java in VS Code](https://code.visualstudio.com/docs/languages/java) documentation.  
 
 1. Install the [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) 
 which includes:
@@ -232,3 +232,4 @@ Integration for [JSHint](https://jshint.com/) - a JavaScript Code Quality Tool
 
 1. [Godot Tools](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools)
 2. [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
+3. [Haxe Game Development](development-docs/game-development/game-engines-and-frameworks/vscode-with-haxe.md)

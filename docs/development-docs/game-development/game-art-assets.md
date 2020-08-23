@@ -1,6 +1,6 @@
-# Game Art Assets
+# Free Game Art Assets
 
-## Free Game Assets
+## Game Assets Sites
 
 + [Kenney](https://www.kenney.nl/)
 + [Craftpix freebies](https://craftpix.net/freebies/)

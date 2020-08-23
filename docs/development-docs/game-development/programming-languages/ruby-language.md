@@ -1,4 +1,4 @@
-# :computer: Ruby Language
+# Ruby Language Notes
 
 ## Game Engines
 
