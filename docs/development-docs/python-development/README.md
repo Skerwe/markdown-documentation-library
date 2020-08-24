@@ -1,6 +1,6 @@
-# :snake: Python Development Notes
+# Python Development Notes
 
-:link: [Python](https://www.python.org/)
+:link: [python.org](https://www.python.org/)
 
 ## Pyhton Development
 

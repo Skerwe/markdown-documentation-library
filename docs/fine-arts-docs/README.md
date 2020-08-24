@@ -6,3 +6,7 @@
 ## Art Medium Notes
 
 1. [Oil Painting Notes](fine-arts-docs/oil-painting-notes.md)
+
+## Tutorials
+
+1. [PAINTING MINI-LESSONS](https://paintinglessonswithmarla.com/minilessons/) with Marla Baggeta
