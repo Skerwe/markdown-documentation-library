@@ -1,6 +1,6 @@
 # Rust Language Notes
 
-:link: [Homepage](https://www.rust-lang.org/)
+:link: [rust-lang.org](https://www.rust-lang.org/)
 
 ## Game Development
 
@@ -8,5 +8,6 @@
 
 ## Rust Game Engines
 
+- [Bevy](https://bevyengine.org/)
 - [Piston](https://www.piston.rs/)
 - [pixel_engine](https://lib.rs/crates/pixel_engine)
