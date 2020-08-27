@@ -14,7 +14,9 @@ Make sure these are installed first.
 
 - [Node.js](http://nodejs.org)
 - [npm](https://www.npmjs.com/get-npm) or equivilant
-- [Docsify](https://docsify.js.org/#/)
+- [Docsify](https://docsify.js.org/#/) 
+
+You can install Docsify globally, run `npm i docsify-cli -g`
 
 ### Quick Start
 

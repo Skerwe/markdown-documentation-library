@@ -10,3 +10,7 @@
 ## Tutorials
 
 1. [PAINTING MINI-LESSONS](https://paintinglessonswithmarla.com/minilessons/) with Marla Baggeta
+
+## Notable Artists
+
+- [Proko](https://www.proko.com/) | [YouYube](https://www.youtube.com/user/prokotv)
