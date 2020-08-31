@@ -47,7 +47,8 @@
 - [NeoAxis Engine](https://www.neoaxis.com/)
 - [Flax Engine](https://flaxengine.com/)
 - [ursina engine](https://www.ursinaengine.org/) (3D in Python)
-- [Limon](http://limonengine.com/) | [GitHub](https://github.com/enginmanap/limonEngine)
+- [Limon](http://limonengine.com/) | [GitHub](https://github.com/enginmanap/limonEngine) (C++)
+- [Wicked Engine](https://github.com/turanszkij/WickedEngine) (C++)
 
 ***
 

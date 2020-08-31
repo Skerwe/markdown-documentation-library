@@ -9,7 +9,12 @@
 - [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)  
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
-### [Pip](https://pip.pypa.io/en/stable/) -- The Python Package Installer
+### Python Package Installer
+
+:link: [pip.pypa.io](https://pip.pypa.io/en/stable/) -- Pip Python Package Installer  
+:link: [pypi.org](https://pypi.org/) -- Python Package Index
+
+Basic commands to install and manage Python packages:
 
 ```shell
 pip install SomePackage
@@ -17,11 +22,6 @@ pip list --outdated
 pip install --upgrade SomePackage
 pip uninstall SomePackage
 ```
-
-### Pyhton Package Repositories
-
-:link: [Python Package Index](https://pypi.org/)
-
 
 ### Python Project Environment
 

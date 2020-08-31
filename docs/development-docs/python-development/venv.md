@@ -1,6 +1,6 @@
-# :computer: Venv
+# Venv
 
-:link: [Venv](https://docs.python.org/3/tutorial/venv.html)
+:link: [Venv](https://docs.python.org/3/tutorial/venv.html)  
 :link: [Creation of virtual environments](https://docs.python.org/3/library/venv.html)
 
 ## Install Venv
