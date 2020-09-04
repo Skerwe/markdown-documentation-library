@@ -52,6 +52,7 @@
 ## Physics
 
 + [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/)
++ [p2.js](https://github.com/schteppe/p2.js/)
 
 ## Sound and Music
 

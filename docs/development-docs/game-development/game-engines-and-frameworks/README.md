@@ -28,6 +28,7 @@
 16. [Corona](https://coronalabs.com/) / [Solar2D](https://solar2d.com/) (2D Lua)
 17. [Defold](https://defold.com/)
 18. [UNIGINE Engine](https://unigine.com/products/community/advantages/)
+19. [Rogue Engine](https://rogueengine.io/) (TypeScript)
 
 :link: GitHub [Game Engines](https://github.com/collections/game-engines) Collection
 
