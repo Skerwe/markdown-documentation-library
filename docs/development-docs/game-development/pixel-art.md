@@ -3,6 +3,7 @@
 ## Pixel Art Resources
 
 - [Lospec](https://lospec.com/)
+- [Liberated Pixel Cup](https://lpc.opengameart.org/)
 
 ## Tutorials
 
