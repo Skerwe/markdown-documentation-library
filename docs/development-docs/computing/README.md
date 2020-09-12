@@ -7,5 +7,6 @@
 
 ## Micro Controllers
 
+- [Arduino](development-docs/computing/arduino-notes.md)
 - [BBC micro:bit](https://microbit.org/)
 - [Chibitronics](https://chibitronics.com/)
