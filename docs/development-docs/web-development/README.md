@@ -16,6 +16,7 @@
 ## Applications
 
 - [Web Maker](https://webmaker.app/app/)
+- [Material Motino Principles](https://material-theme-builder.glitch.me/)
 
 ## Boilerplate Projects
 
@@ -35,6 +36,7 @@
 ### Testing tools
 
 - [TestCafe](https://devexpress.github.io/testcafe/) -- Automate end-to-end web testing
+- [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 ### Development Servers
 

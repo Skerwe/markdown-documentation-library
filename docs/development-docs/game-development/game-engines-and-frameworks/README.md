@@ -59,12 +59,21 @@
 2. [Buildbox](https://www.buildbox.com/)
 3. [Panda 2](https://www.panda2.io/)
 4. [The Machinery](https://ourmachinery.com/)
+5. [Visionaire Studio](https://www.visionaire-studio.net/cms/visionaire-studio-english.html)
+6. [001 Game Creator](https://001gamecreator.com/)
 
 ### Other Game Development Applications
 
-- [RPGToolkit](http://www.rpgtoolkit.net/)
+- [RPGToolkit](http://www.rpgtoolkit.net/) | [GitHub](https://github.com/rpgtoolkit)
 - [Gamefroot](https://make.gamefroot.com/)
 - [Cräft!](https://github.com/craeftgame)
+
+#### Adventure Game Engines and Frameworks
+
+- [AVG Studio](https://www.adventuregamestudio.co.uk/)
+- [Wintermute Engine](http://dead-code.org/home/)
+- [SLUDGE](https://opensludge.github.io/)
+- [Bladecoder Adventure Engine](https://bladecoder.github.io/bladecoder-adventure-engine/) | [GitHub](https://github.com/bladecoder/bladecoder-adventure-engine)
 
 ***
 

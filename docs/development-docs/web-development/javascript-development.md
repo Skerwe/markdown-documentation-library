@@ -11,11 +11,8 @@
 
 ## Web Application Frameworks
 
-1. [AngularJS](development-docs/web-development/web-application-development/angularjs.md)
-2. [Vue](development-docs/web-development/web-application-development/vuejs.md)
-3. [Inferno](https://infernojs.org/)
-4. [Svelte](https://svelte.technology/)
-5. [Riot.js](https://riot.js.org/)
++ [Web Application Development](development-docs/web-development/web-application-development/README.md)
++ [Progressive Web Apps Development](development-docs/web-development/web-application-development/progressive-web-app-development.md)
 
 ## Testing
 

@@ -25,6 +25,7 @@
 12. [WebGLStudio.js](https://webglstudio.org/) | [GitHub](https://github.com/jagenjo/webglstudio.js/)
 13. [LimeJS](http://www.limejs.com/)
 14. [Pixelbox.js](https://pixwlk.itch.io/pixelbox) | [GitHub](https://github.com/cstoquer/pixelbox) | [NPM](https://www.npmjs.com/package/pixelbox)
+15. [ct.js](https://ctjs.rocks/) | [Docs](https://docs.ctjs.rocks/)
 
 ***
 
@@ -36,6 +37,11 @@
 + [Jaws](https://github.com/ippa/jaws)
 + [enchant.js](https://github.com/wise9/enchant.js)
 + [Backbone](https://github.com/martindrapeau/backbone-game-engine)
+
+### Minimalistic Game Engines
+
++ [Kontra](https://straker.github.io/kontra/)
++ [floppy](https://github.com/lpagg/floppy)
 
 ## Graphics Programming
 

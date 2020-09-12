@@ -1,4 +1,4 @@
-# Vue.js Application Framework
+# Vue.js Application Framework Development
 
 [Awesome Vue.js](https://github.com/vuejs/awesome-vue) list on GitHub
 

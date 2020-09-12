@@ -3,7 +3,8 @@
 :newspaper: Game devlopment news, tools, resources and tutorials  
 [Game Dev](https://devga.me/) | [Game from Scratch](https://www.gamefromscratch.com/)
 
-:closed_book: [Wireframe magazine](https://wireframe.raspberrypi.org/issues)
+:closed_book: [Wireframe magazine](https://wireframe.raspberrypi.org/issues)  
+:closed_book: [The Classic Adventurer](http://classicadventurer.co.uk/)
 
 ## Game Developers Conferences
 

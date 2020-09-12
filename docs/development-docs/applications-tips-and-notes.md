@@ -1,5 +1,10 @@
 # Applications Tips and Notes
 
+## Tools
+
+- [Squoosh](https://squoosh.app/) -- image compression
+- [UPX](https://upx.github.io/) -- Ultimate Packer for eXecutables
+
 ## AutoIt3
 
 AutoIt v3 is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting.

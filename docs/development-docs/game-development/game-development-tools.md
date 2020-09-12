@@ -18,6 +18,7 @@
 5. [Crocotile 3D](http://www.crocotile3d.com/)
 6. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
 7. [ShoeBox](http://renderhjs.net/shoebox/)
+8. [Tile Studio](http://tilestudio.sourceforge.net/) | [Tile Studio II](https://www.wieringsoftware.com/ts2/)
 
 ### Materials and Textures
 
@@ -40,6 +41,7 @@
 
 - [Tree It](https://www.evolved-software.com/treeit/treeit) a 3D tree generator
 - [Dust3D](https://dust3d.org/)
+- [Mixamo Character Animation Combiner](https://nilooy.github.io/mixamo-animation-combiner/)
 
 ## Physics
 
@@ -50,7 +52,8 @@
 
 - [Shader Playground](http://shader-playground.timjones.io/)
 - [OBS Studio](https://obsproject.com/) - Record gameplay videos
-- [The Game Design Tool](https://machinations.io/) (Machinations )
+- [The Game Design Tool](https://machinations.io/) (Machinations)
+- [KitBash3D](https://kitbash3d.com/)
 
 ## Graphics Programms
 
@@ -61,3 +64,7 @@
 5. [Hexels](https://marmoset.co/hexels/)
 6. [MagicaVoxel](https://ephtracy.github.io/)
 7. [Pyxel Edit](https://pyxeledit.com/index.php)
+
+## Marketing
+
+- [presskit()](https://dopresskit.com/)

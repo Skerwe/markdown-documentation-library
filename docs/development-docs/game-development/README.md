@@ -7,9 +7,10 @@
 - [Game AI Notes](development-docs/game-development/game-ai-notes.md)
 - [Game Design Notes](development-docs/game-development/game-design.md)
 - [Board Game Design Notes](development-docs/game-development/board-game-design.md)
-- [Pixel Art](development-docs/game-development/pixel-art.md)
+- [Pixel Art Notes](development-docs/game-development/pixel-art.md)
 - [Free Game Art Assets](development-docs/game-development/game-art-assets.md)
 - [Indie Game Marketing Notes](development-docs/game-development/indie-game-marketing-notes.md)
+- [Game Jam Notes](development-docs/game-development/game-jam-notes.md)
 
 ## Categories
 
