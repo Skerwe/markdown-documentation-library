@@ -66,7 +66,6 @@ Easily switch between projects
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) | [collection of .gitignore templates](https://github.com/github/gitignore)
 
 ### Node Package Manager (NPM)
 
