@@ -6,7 +6,7 @@
 
 ### Python in VSCode
 
-- [Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)  
+- [Python in VS Code](https://code.visualstudio.com/docs/languages/python)  
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
 ### Python Package Installer
@@ -23,6 +23,12 @@ pip install --upgrade SomePackage
 pip uninstall SomePackage
 ```
 
+Upgrading pip to the latest version
+
+```shell
+python -m pip install --upgrade pip
+```
+
 ### Python Project Environment
 
 :link: [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)  
@@ -30,33 +36,24 @@ pip uninstall SomePackage
 
 #### Virtual Environments
 
-1. [venv](venv.md)
-2. [Virtualenv](virtualenv.md)
-3. [Pipenv](pipenv.md)
-
-#### Managing Application Dependencies
-
-:link: Manage dependencies with [Pipenv](https://packaging.python.org/tutorials/managing-dependencies/)
-
-```shell
-pip freeze > requirements.txt
-pip install -r requirements.txt
-```
+1. [venv](development-docs/python-development/venv.md)
+2. [Virtualenv](development-docs/python-development/virtualenv.md)
+3. [Pipenv](development-docs/python-development/pipenv.md)
 
 ### Python Style Guide
 
 :link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
 
-### Build and Distribute Python Packages
+### Build and Distribute Python Packages                    
 
 1. [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io/)
 2. Packaging Python projects with [Setuptools](https://setuptools.readthedocs.io/en/latest/)
 
-## :beginner: Learning
+## Learning
 
 1. [Real Python](https://realpython.com/)
 2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-3. :book: [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
+3. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
 
 ## Python Projects
 

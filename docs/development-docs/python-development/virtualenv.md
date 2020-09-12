@@ -1,9 +1,13 @@
-# :computer: Virtualenv
+# Virtualenv
 
 :link: [Virtualenv](https://virtualenv.pypa.io/en/stable/)  
 :link: [Virtualenvwrapper](https://pypi.org/project/virtualenvwrapper/)
 
-## Install Virtualenv
+For Windows use [virtualenvwrapper-win](https://github.com/davidmarble/virtualenvwrapper-win/)
+
+## Using Virtualenv and Virtualenvwrapper
+
+### Install Virtualenv
 
 ```shell
 pip install virtualenv
@@ -12,9 +16,10 @@ virtualenv --version
 
 ```shell
 pip install virtualenvwrapper
+pip install virtualenvwrapper-win
 ```
 
-## Create virtual environment
+### Create virtual environment
 
 Virtualenv
 
@@ -30,7 +35,7 @@ mkvirtualenv virtualenv_name
 
 __Best practise is to use `venv` for virtualenv_name.__
 
-## Activate virtual environment
+### Activate virtual environment
 
 Virtualenv
 
@@ -52,7 +57,7 @@ Virtualenvwrapper
 workon virtualenv_name
 ```
 
-## Deactivate virtual environment
+### Deactivate virtual environment
 
 Virtualenv
 
@@ -64,6 +69,13 @@ Virtualenvwrapper
 
 ```shell
 (virtualenv_name) deactivate
+```
+
+## Managing Application Dependencies
+
+```shell
+pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 ***

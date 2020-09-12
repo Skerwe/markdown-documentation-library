@@ -1,39 +1,47 @@
 # Venv
 
-:link: [Venv](https://docs.python.org/3/tutorial/venv.html)  
-:link: [Creation of virtual environments](https://docs.python.org/3/library/venv.html)
+:link: [Virtual Environments and Packages](https://docs.python.org/3/library/venv.html)
 
-## Install Venv
+## Using Venv
+
+### Install Venv
 
 Venv is bundled with the Python distribution
 
-## Create virtual environment
+### Create virtual environment
 
 ```shell
-py -m venv virtualenv_name
+python -m venv .venv
 ```
 
-__Best practise is to use `.venv` for virtualenv_name.__
-
-## Activate virtual environment
+### Activate virtual environment
 
 Linux
 
 ```shell
-source virtualenv_name/bin/activate
+source .venv/bin/activate
 ```
 
 Windows
 
 ```shell
-virtualenv_name\Scripts\activate.bat
-virtualenv_name\scripts\activate
+.venv\Scripts\activate.bat
+.venv\scripts\activate
 ```
 
-## Deactivate virtual environment
+### Deactivate virtual environment
 
 ```shell
 deactivate
+```
+
+## Managing Application Dependencies
+
+:link: [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54)
+
+```shell
+pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 ***
