@@ -34,8 +34,6 @@ python -m pip install --upgrade pip
 :link: [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)  
 :link: [Pipenv & Virtual Environments](https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html)
 
-#### Virtual Environments
-
 1. [venv](development-docs/python-development/venv.md)
 2. [Virtualenv](development-docs/python-development/virtualenv.md)
 3. [Pipenv](development-docs/python-development/pipenv.md)
@@ -57,8 +55,17 @@ python -m pip install --upgrade pip
 
 ## Python Projects
 
-1. [Python Game Development](../game-development/game-engines-and-frameworks/python-game-development.md)
+1. [Python Game Development](development-docs/game-development/game-engines-and-frameworks/python-game-development.md)
 2. [PyBoy](https://github.com/Baekalfen/PyBoy) Game Boy emulation
+
+## Interesting Blog Posts
+
+1. [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54)
+2. [Managing Dependencies in Python Applications](https://medium.com/@jimjh/managing-dependencies-in-python-applications-b9c93dda98c2)
+
+## Tools
+
+- [pip-tools](https://github.com/jazzband/pip-tools/)
 
 ***
 

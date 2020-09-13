@@ -37,8 +37,6 @@ deactivate
 
 ## Managing Application Dependencies
 
-:link: [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54)
-
 ```shell
 pip freeze > requirements.txt
 pip install -r requirements.txt

@@ -33,7 +33,7 @@ Virtualenvwrapper
 mkvirtualenv virtualenv_name
 ```
 
-__Best practise is to use `venv` for virtualenv_name.__
+**Best practise is to use `venv` for virtualenv_name.**
 
 ### Activate virtual environment
 
