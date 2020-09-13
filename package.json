@@ -5,6 +5,7 @@
   "private": true,
   "main": "README.md",
   "scripts": {
+    "start": "docsify serve docs",
     "test": "markdownlint --config .markdownlint.json --ignore node_modules/ ."
   },
   "repository": {
