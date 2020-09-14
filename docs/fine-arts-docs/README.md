@@ -10,6 +10,7 @@
 ## Tutorials
 
 1. [PAINTING MINI-LESSONS](https://paintinglessonswithmarla.com/minilessons/) with Marla Baggeta
+2. [Brush and Pencil](https://brushandpencil.com/)
 
 ## Notable Artists
 
