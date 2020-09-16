@@ -12,3 +12,4 @@
 3. [kaine-87 Tutorials](https://www.deviantart.com/kaine-87/favourites/70265202/Tutorial)
 4. [Cyangmou Tutorials](https://www.deviantart.com/cyangmou/gallery/37668128/Tutorials)
 5. [Studio MiniBoss](https://blog.studiominiboss.com/pixelart)
+6. [Pixel Art Tutorial: Basics](https://derekyu.com/makegames/pixelart.html) (Derek Yu)
