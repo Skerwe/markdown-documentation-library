@@ -1,5 +1,7 @@
 # Computing and Electronics
 
+:closed_book: [The MagPi](https://magpi.raspberrypi.org/issues)
+
 ## Tutorials and Guides
 
 - [Hands on computing education](https://www.microsoft.com/en-us/makecode)

@@ -9,6 +9,16 @@
 - [Python in VS Code](https://code.visualstudio.com/docs/languages/python)  
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
+### Code with Mu
+
+A simple Python editor for beginner programmers
+
+:link: [codewith.mu](https://codewith.mu/en/)
+
+```shell
+pip3 install mu-editor
+```
+
 ### Python Package Installer
 
 :link: [pip.pypa.io](https://pip.pypa.io/en/stable/) -- Pip Python Package Installer  
