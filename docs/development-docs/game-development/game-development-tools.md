@@ -42,6 +42,8 @@
 - [Tree It](https://www.evolved-software.com/treeit/treeit) a 3D tree generator
 - [Dust3D](https://dust3d.org/)
 - [Mixamo Character Animation Combiner](https://nilooy.github.io/mixamo-animation-combiner/)
+- [Neobarok](https://www.neobarok.com/)
+- [Meshroom](https://alicevision.org/#meshroom) (3D Reconstruction)
 
 ## Physics
 
