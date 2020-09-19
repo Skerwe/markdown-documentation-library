@@ -19,6 +19,15 @@ A simple Python editor for beginner programmers
 pip3 install mu-editor
 ```
 
+### Web Devlopment with Python
+
+1. [Django](https://www.djangoproject.com/)
+2. [Flask](https://palletsprojects.com/p/flask/)
+
+### Gui Development
+
+- [Dear PyGui](https://github.com/hoffstadt/DearPyGui)
+
 ### Python Package Installer
 
 :link: [pip.pypa.io](https://pip.pypa.io/en/stable/) -- Pip Python Package Installer  
@@ -72,6 +81,7 @@ python -m pip install --upgrade pip
 
 1. [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54)
 2. [Managing Dependencies in Python Applications](https://medium.com/@jimjh/managing-dependencies-in-python-applications-b9c93dda98c2)
+3. [Common Python Data Structures](https://realpython.com/python-data-structures/) (Guide)
 
 ## Tools
 

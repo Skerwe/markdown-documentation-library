@@ -8,6 +8,10 @@
 2. [CSS](development-docs/web-development/css-notes.md)
 3. [JavaScript](development-docs/web-development/javascript-development.md)
 
+## Learn Web Development
+
+1. [W3C Developers](https://w3c.github.io/developers/)
+
 ## Web Sites and Application Development
 
 1. [Static Site Development](development-docs/web-development/static-site-web-development.md)
@@ -47,3 +51,7 @@
 ### Code Beutification and Formating
 
 - [Unibeautify](development-docs/web-development/unibeautify.md)
+
+## Style Guide
+
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)

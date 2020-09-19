@@ -26,7 +26,7 @@ Windows
 
 ```shell
 .venv\Scripts\activate.bat
-.venv\scripts\activate
+.venv\Scripts\activate
 ```
 
 ### Deactivate virtual environment

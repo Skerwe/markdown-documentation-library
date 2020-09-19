@@ -5,3 +5,4 @@
 ## Python Game Framework
 
 1. [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html)
+2. [Pygame](https://www.pygame.org/)
