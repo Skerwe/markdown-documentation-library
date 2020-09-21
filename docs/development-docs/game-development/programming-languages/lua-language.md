@@ -25,4 +25,4 @@
 ## Learning Lua
 
 - [Programming in Lua](https://www.lua.org/pil/contents.html) (first edition)
-- [Lua 5.4 Reference Manual](https://www.lua.org/manual/5.4/)
+- [Lua 5.4 Reference Manual](https://www.lua.org/manual/5.4/manual.html)
