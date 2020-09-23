@@ -8,6 +8,10 @@ Install Lua and Love2d
 
 - [Lua language notes](development-docs/game-development/programming-languages/lua-language.md)
 
+### Install on Linux
+
+`sudo apt-get install love`
+
 ## Resources
 
 - [Awesome LÖVE](https://github.com/love2d-community/awesome-love2d)
