@@ -14,6 +14,10 @@
 
 - [Blender Institute Characters Library](https://cloud.blender.org/p/characters/)
 
+## Game Engine
+
+- [UPBGE](https://upbge.org/)
+
 ## Blender Tools and Addons
 
 Building generation addon

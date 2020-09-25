@@ -10,29 +10,36 @@
 pip install --user pipenv
 ```
 
-### Installing packages
+### Pipenv Workflow
+
+#### Install from Pipfile
 
 ```shell
-cd project_folder
 pipenv install packages_name
 ```
 
-### Using installed packages
+#### Add a package to the project
 
 ```shell
-pipenv run python main.py
+pipenv install packages_name
 ```
 
-Start a virtual environment (shell) for project
+#### Start a virtual environment (shell) for project
 
 ```shell
 pipenv shell
 ```
 
-Deactivate the virtual environment
+#### Deactivate the virtual environment
 
 ```shell
 exit
+```
+
+### Using an Installed packages outside the shell
+
+```shell
+pipenv run python main.py
 ```
 
 ## Managing Application Dependencies
