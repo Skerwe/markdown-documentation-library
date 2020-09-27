@@ -18,6 +18,10 @@
 
 + [faker.js](https://github.com/marak/Faker.js/) -- generate real fake data
 
+## Code Coverage
+
++ [Istanbul](https://istanbul.js.org/)
+
 ## Mobile and Hybrid Application Development
 
 + [Appium](http://appium.io/) -- test automation framework
