@@ -43,6 +43,12 @@
 - [PixelProspector](https://pixelprospector.com/) | [Old Archive Site](https://web.archive.org/web/20190329004305/http://www.pixelprospector.com/)
 - [PlatformerPower](https://platformerpower.com/)
 
+### Sound
+
+- [Free video game sound effects](https://www.zapsplat.com/sound-effect-category/game-sounds/)
+- [freesound.org](https://freesound.org/browse/)
+- [Royalty Free Sounds](http://soundbible.com/royalty-free-sounds-1.html)
+
 ## Learn Game Development
 
 - [Be a Game Maker](https://www.heartgamedev.com/)

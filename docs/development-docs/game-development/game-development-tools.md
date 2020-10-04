@@ -25,6 +25,9 @@
 
 - [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) is a stand alone tool for creating materials
 - [Material Maker](https://rodzilla.itch.io/material-maker)
+- [TexGraph](https://galloscript.itch.io/texgraph)
+- [TextureLab](https://njbrown.itch.io/texturelab)
+- [Imogen](https://github.com/CedricGuillemet/Imogen)
 
 ### Music and Sounds
 
@@ -57,6 +60,7 @@
 - [OBS Studio](https://obsproject.com/) - Record gameplay videos
 - [The Game Design Tool](https://machinations.io/) (Machinations)
 - [KitBash3D](https://kitbash3d.com/)
+- [Spritify](https://azhain.itch.io/spritify)
 
 ## Graphics Programms
 
