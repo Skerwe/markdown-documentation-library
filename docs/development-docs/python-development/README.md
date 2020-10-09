@@ -61,6 +61,8 @@ python -m pip install --upgrade pip
 
 :link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
 
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
+
 ### Build and Distribute Python Packages                    
 
 1. [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io/)
