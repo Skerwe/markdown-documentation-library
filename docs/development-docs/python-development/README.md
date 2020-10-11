@@ -62,6 +62,8 @@ python -m pip install --upgrade pip
 
 :link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
 
+- [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
+
 ### Build and Distribute Python Packages                    
 
 1. [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io/)
@@ -72,6 +74,7 @@ python -m pip install --upgrade pip
 1. [Real Python](https://realpython.com/)
 2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 3. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
+4. [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids)
 
 ## Python Projects
 
