@@ -7,10 +7,32 @@
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 2. [Google Java Formatter](https://github.com/google/google-java-format)
 
-## Apache Maven
+## Build Tools
+
+### Apache Maven
+
+:link: [maven.apache.org](https://maven.apache.org/)
 
 Create a new Maven project in interactive mode
 
 `mvn archetype:generate`
 
-## Gradle
+Filter for _maven-archetype-quickstart_
+
+### Gradle
+
+:link: [gradle.org](https://gradle.org/)
+
+Create a new Gradle project in interactive mode
+
+`gradle init`
+
+### Ant with Ivy
+
+:link: [ant.apache.org](http://ant.apache.org/)  
+:link: [ant.apache.org/ivy](https://ant.apache.org/ivy/)
+
+## Monitor Tools
+
+- [jps](https://docs.oracle.com/javase/7/docs/technotes/tools/share/jps.html)
+- [Java VisualVM](https://visualvm.github.io/index.html) | [Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/)
