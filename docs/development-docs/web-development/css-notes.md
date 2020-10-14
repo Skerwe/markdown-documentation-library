@@ -22,3 +22,7 @@
 
 1. [CSS clip-path maker](https://bennettfeely.com/clippy/)
 2. [Colorsinspo](https://colorsinspo.com/)
+
+## Designs
+
+- [Material Design](https://material.io/)
