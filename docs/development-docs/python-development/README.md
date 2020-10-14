@@ -1,6 +1,7 @@
 # Python Development Notes
 
-:link: [python.org](https://www.python.org/)
+:link: [python.org](https://www.python.org/)  
+:link: [pypy.org](https://www.pypy.org/) -- A fast, alternative implementation of Python
 
 ## Pyhton Development
 
@@ -89,6 +90,7 @@ python -m pip install --upgrade pip
 ## Tools
 
 - [pip-tools](https://github.com/jazzband/pip-tools/)
+- [Sphinx](https://www.sphinx-doc.org/en/master/) -- documentation generator
 
 ***
 
