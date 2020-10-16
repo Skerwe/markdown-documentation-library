@@ -14,6 +14,7 @@
 ## Articles
 
 1. [Game Dev 101: How to Finish Your Game](https://www.buildbox.com/game-dev-101-how-to-finish-your-game)
+2. [Understanding Licenses](https://gamedevelopment.tutsplus.com/articles/understanding-licenses-or-can-i-use-this-asset-in-my-game--cms-22510)
 
 ## Game Development Books on Various Topics
 
