@@ -48,6 +48,7 @@
 - [Mixamo Character Animation Combiner](https://nilooy.github.io/mixamo-animation-combiner/)
 - [Neobarok](https://www.neobarok.com/)
 - [Meshroom](https://alicevision.org/#meshroom) (3D Reconstruction)
+- [Instant Meshes](https://github.com/wjakob/instant-meshes)
 
 ## Physics
 

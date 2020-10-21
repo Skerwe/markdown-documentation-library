@@ -55,6 +55,7 @@
 - [Echo](https://github.com/timi-liuliang/echo) (Lua) requires [CMake](https://cmake.org/)
 - [Castle Game Engine](https://castle-engine.io/) (Object Pascal)
 - [Drag[en]gine Game Engine](development-docs/game-development/game-engines-and-frameworks/dragengine-development.md)
+- [microStudio](https://microstudio.dev/)
 
 ***
 
