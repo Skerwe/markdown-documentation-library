@@ -13,3 +13,10 @@
 4. [Cyangmou Tutorials](https://www.deviantart.com/cyangmou/gallery/37668128/Tutorials)
 5. [Studio MiniBoss](https://blog.studiominiboss.com/pixelart)
 6. [Pixel Art Tutorial: Basics](https://derekyu.com/makegames/pixelart.html) (Derek Yu)
+
+## YouTube Videos
+
+1. [Pixel Pete](https://www.youtube.com/c/PeterMilko)
+2. [Brandon James Greer](https://www.youtube.com/c/BJGpixel)
+3. [MortMort](https://www.youtube.com/c/MNRArt)
+4. [AdamCYounis](https://www.youtube.com/c/AdamCYounis)
