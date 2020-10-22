@@ -16,4 +16,4 @@
 
 ### Resources
 
-None
+- [nanDECK](http://www.nand.it/nandeck/) -- designing cards for prototyping and playtesting
