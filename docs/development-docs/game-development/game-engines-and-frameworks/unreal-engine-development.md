@@ -15,3 +15,17 @@
 ### Style Guide
 
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide)
+
+## Using Blender
+
+### Key Bindings and Keyboard Shortcuts
+
+| Button | Description | Alt |
+|---|---|---|
+| `middle mouse button` | pan the view |   |
+| `left mouse button` | first person movement | `hold right mouse button + wasd` |
+| `right mouse button` | rotates around the center of the camera |   |
+| `alt + right mouse button` | zoom in and out | `mouse wheel` |
+| `f` | focus on selected object |   |
+| `Alt + drag with move tool` | duplicates the selected object |   |
+|   |   |   |
