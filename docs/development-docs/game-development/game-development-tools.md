@@ -3,6 +3,7 @@
 ## Analytics and Project Management
 
 1. [GameAnalytics](https://gameanalytics.com/) | [GameDev Toolbox](https://gameanalytics.com/toolbox/)
+2. [Codecks](https://www.codecks.io/)
 
 ## Game Development Tools And Applications
 
@@ -35,6 +36,8 @@
 - [Bosca Ceoil](https://boscaceoil.net/)
 - [FamiStudio](https://famistudio.org/) NES Music Editor
 - [LMMS](https://lmms.io/)
+- [Odin 2](https://www.thewavewarden.com/odin2) | [GitHub](https://github.com/TheWaveWarden/odin2)
+- [REAPER](http://reaper.fm/)
 
 ### Visual Effects and Animation
 
