@@ -14,3 +14,4 @@
 ## Free Games
 
 - [Epicinium](https://epicinium.nl/)
+- [Race for the Galaxy AI](http://keldon.net/rftg/)
