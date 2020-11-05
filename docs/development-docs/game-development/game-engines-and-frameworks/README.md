@@ -23,7 +23,7 @@
 11. [Game Maker](development-docs/game-development/game-engines-and-frameworks/game-maker-development.md)
 12. [Heaps.io](https://heaps.io/)
 13. [Armory Engine](https://armory3d.org/) (3D)
-14. [Stride](https://stride3d.net/) / Xenko | [GitHub](https://github.com/stride3d/stride) (2D + 3D)
+14. [Stride / Xenko](development-docs/game-development/game-engines-and-frameworks/xenko-game-development.md) (2D + 3D)
 15. [MonoGame](development-docs/game-development/game-engines-and-frameworks/monogame-development.md) | [GitHub](https://github.com/MonoGame/MonoGame)
 16. [Corona](https://coronalabs.com/) / [Solar2D](https://solar2d.com/) (2D Lua)
 17. [Defold](https://defold.com/)
