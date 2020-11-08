@@ -4,6 +4,17 @@
 :link: [Scripting API](https://docs.unity3d.com/ScriptReference/index.html)  
 :link: [Learning Unity](https://learn.unity.com/)
 
+## Open Projects
+
+:link: [Forum](https://forum.unity.com/forums/open-projects.531/)  
+:link: [Project Roadmap](https://open.codecks.io/unity-open-project-1)  
+:link: [GitHub](https://github.com/UnityTechnologies/open-project-1)
+
+### YouTube Episodes
+
+1. [Open Projects: The Journey - Ep. 1](https://www.youtube.com/watch?v=O4N4s6BKNH0)
+2. [Open Projects: The Journey - Ep. 2](https://www.youtube.com/watch?v=ukE73ifSrTM)
+
 ## GameDevHQ
 
 - [GameDevHQ](https://gamedevhq.com/start-your-game-development-journey/)
