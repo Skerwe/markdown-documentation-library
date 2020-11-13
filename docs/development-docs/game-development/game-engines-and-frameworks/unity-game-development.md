@@ -14,6 +14,7 @@
 
 1. [Open Projects: The Journey - Ep. 1](https://www.youtube.com/watch?v=O4N4s6BKNH0)
 2. [Open Projects: The Journey - Ep. 2](https://www.youtube.com/watch?v=ukE73ifSrTM)
+3. [Open Projects: The Journey - Ep. 3](https://www.youtube.com/watch?v=0lhLLnKitSI)
 
 ## GameDevHQ
 
