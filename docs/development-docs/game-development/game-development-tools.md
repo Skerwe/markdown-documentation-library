@@ -20,7 +20,7 @@
 6. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
 7. [ShoeBox](http://renderhjs.net/shoebox/)
 8. [Tile Studio](http://tilestudio.sourceforge.net/) | [Tile Studio II](https://www.wieringsoftware.com/ts2/)
-9. [LEd](https://deepnight.net/tools/led-2d-level-editor/) | [itch](https://deepnight.itch.io/led)
+9. [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) | [itch](https://deepnight.itch.io/ldtk)
 
 ### Materials and Textures
 
