@@ -76,7 +76,7 @@
 
 #### Adventure Game Engines and Frameworks
 
-- [AVG Studio](https://www.adventuregamestudio.co.uk/)
+- [Adventure Game Studio (AGS)](https://www.adventuregamestudio.co.uk/)
 - [Wintermute Engine](http://dead-code.org/home/)
 - [SLUDGE](https://opensludge.github.io/)
 - [Bladecoder Adventure Engine](https://bladecoder.github.io/bladecoder-adventure-engine/) | [GitHub](https://github.com/bladecoder/bladecoder-adventure-engine)
