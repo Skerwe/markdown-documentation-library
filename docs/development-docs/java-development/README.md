@@ -32,7 +32,24 @@ Create a new Gradle project in interactive mode
 :link: [ant.apache.org](http://ant.apache.org/)  
 :link: [ant.apache.org/ivy](https://ant.apache.org/ivy/)
 
-## Monitor Tools
+
+## Libraries
+
+- [Guava](https://guava.dev/) | [GitHub](https://github.com/google/guava)
+- [Lombok](https://projectlombok.org/)
+
+## Tools
+
+### Monitoring JVM Performance
 
 - [jps](https://docs.oracle.com/javase/7/docs/technotes/tools/share/jps.html)
 - [Java VisualVM](https://visualvm.github.io/index.html) | [Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/)
+
+### Static Code Analyzers
+
+- [PMD](https://pmd.github.io/)
+
+### Test Code Coverage
+
+- [Cobertura](https://cobertura.github.io/cobertura/)
+- [JaCoCo](https://www.eclemma.org/jacoco/)
