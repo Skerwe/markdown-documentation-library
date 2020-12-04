@@ -38,6 +38,7 @@
 - [LMMS](https://lmms.io/)
 - [Odin 2](https://www.thewavewarden.com/odin2) | [GitHub](https://github.com/TheWaveWarden/odin2)
 - [REAPER](http://reaper.fm/)
+- [FMOD](https://fmod.com/)
 
 ### Visual Effects and Animation
 

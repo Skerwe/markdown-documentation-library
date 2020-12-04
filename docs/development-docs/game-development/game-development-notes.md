@@ -59,3 +59,4 @@
 - [Be a Game Maker](https://www.heartgamedev.com/)
 - [How to Make an RPG](https://howtomakeanrpg.com/)
 - [Concept Art Empire](https://conceptartempire.com/)
+- [fulltimegamedev.com](https://www.fulltimegamedev.com/)
