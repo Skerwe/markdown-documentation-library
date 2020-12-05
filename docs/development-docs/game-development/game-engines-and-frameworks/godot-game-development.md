@@ -15,3 +15,7 @@
 - [Concept Graph](https://github.com/HungryProton/concept_graph) (node-based procedural content generation)
 - [Godot Visual Effects](https://github.com/GDQuest/godot-visual-effects)
 - [Godot Programming Language Options](https://gamefromscratch.com/godot-programming-language-options/)
+
+## Frameworks and Engines
+
+- [Escoria](https://godotengine.org/article/our-point-click-framework-finally-out) -- A point'n'click framework

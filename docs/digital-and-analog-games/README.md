@@ -18,6 +18,7 @@
 - [LoneSurvivor Survival Guide](http://www.lonesurvivor.co.uk/LoneSurvivor-SurvivalGuide.pdf) (PDF)
 - [Minecraft](digital-and-analog-games/minecraft.md)
 - [StarCraft 2](digital-and-analog-games/starcraft2.md)
+- [Gloomhaven](digital-and-analog-games/gloomhaven-notes.md)
 
 ## Play Games
 

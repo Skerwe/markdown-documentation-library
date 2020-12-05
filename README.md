@@ -31,7 +31,7 @@ Install the dependencies
 1. In bash/terminal/command line, `cd` into the project directory.
 2. Run `npm install` to install required files and dependencies.
 
-Serve the documentation web site on `localhost:3000`
+Serve the documentation website on `localhost:3000`
 
 ```shell
 docsify serve docs
@@ -47,9 +47,9 @@ npm test
 
 ## The project was built with
 
-1. [Markdown](https://www.markdownguide.org/getting-started/) -- used for creating the notes and documentation
-2. [Docsify](https://docsify.js.org/#/) -- Used to generate the documentation web site
-3. [GitHub Pages](https://pages.github.com/) -- For hosting the documentation web site
+1. [Markdown](https://www.markdownguide.org/getting-started/) -- Used for creating the notes and documentation
+2. [Docsify](https://docsify.js.org/#/) -- Used to generate the documentation website
+3. [GitHub Pages](https://pages.github.com/) -- For hosting the documentation website
 
 ## License
 

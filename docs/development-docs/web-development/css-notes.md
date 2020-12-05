@@ -22,6 +22,7 @@
 
 1. [CSS clip-path maker](https://bennettfeely.com/clippy/)
 2. [Colorsinspo](https://colorsinspo.com/)
+3. [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/)
 
 ## Designs
 

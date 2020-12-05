@@ -1,8 +1,20 @@
 # JavaScript Development Notes
 
-:link: [Learn JavaScript: The Complete Guide](https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112)
+## Learning JavaScript
+
++ [Learn JavaScript: The Complete Guide](https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112)
++ [survivejs.com](https://survivejs.com/)
 
 ## Libraries and Tools
+
++ [ECMAScript compatibility table](https://kangax.github.io/compat-table/es6/)
+
+### Build and Transpile
+
++ [babeljs.io](https://babeljs.io/)
++ [Bublé](https://buble.surge.sh/)
+
+### Frameworks
 
 + [hammer.js](https://hammerjs.github.io/) -- A JavaScript library for detecting touch gestures.
 + [Prism](http://prismjs.com/) -- a lightweight, extensible syntax highlighter
