@@ -21,3 +21,7 @@
 3. [Inferno](https://infernojs.org/)
 4. [Svelte](https://svelte.technology/)
 5. [Riot.js](https://riot.js.org/)
+
+## Tools
+
+- [Feathers](https://feathersjs.com/) -- A framework for real-time applications and REST APIs
