@@ -62,6 +62,7 @@
 
 ### Miscellaneous
 
+- [The most powerful shader IDE](https://shadered.org/)
 - [Shader Playground](http://shader-playground.timjones.io/)
 - [OBS Studio](https://obsproject.com/) - Record gameplay videos
 - [The Game Design Tool](https://machinations.io/) (Machinations)

@@ -35,7 +35,7 @@
 
 ## Tools
 
-- [Feathers](https://feathersjs.com/) -- A framework for real-time applications and REST APIs
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
 ### Testing tools
 
@@ -55,3 +55,7 @@
 ## Style Guide
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
+## Learning
+
+1. [web.dev/learn/](https://web.dev/learn/)

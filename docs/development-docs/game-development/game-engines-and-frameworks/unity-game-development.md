@@ -37,6 +37,7 @@
 ### Networking
 
 - [Photon Unity Networking - PUN](https://www.photonengine.com/en/PUN)
+- [Unity MLAPI](https://github.com/Unity-Technologies/com.unity.multiplayer.mlapi)
 
 ### Frameworks and Engines
 
