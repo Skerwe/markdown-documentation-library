@@ -44,7 +44,8 @@ pipenv run python main.py
 
 ## Managing Application Dependencies
 
-:link: Manage dependencies with [Pipenv](https://packaging.python.org/tutorials/managing-dependencies/)
+- Manage dependencies with [Pipenv](https://packaging.python.org/tutorials/managing-dependencies/)
+- [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
 
 ***
 
