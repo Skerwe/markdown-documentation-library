@@ -8,3 +8,7 @@
 ## Guides
 
 - [The Almighty Mindthief Guide](https://gloomhavenshop.com/strategy/the-almighty-mindthief-guide/)
+
+## Gloomhaven: Scenarios
+
+- [](https://rpggeek.com/wiki/page/thing:174430:Scenarios)
