@@ -11,6 +11,7 @@
 - [p5js](development-docs/game-development/game-rendering-frameworks/p5js.md)
 - [PixiJS](development-docs/game-development/game-rendering-frameworks/pixijs.md)
 - [Wicked Engine](https://wickedengine.net/) | [GitHub](https://github.com/turanszkij/WickedEngine)
+- [Diligent Engine](https://diligentgraphics.com/)
 
 ***
 
