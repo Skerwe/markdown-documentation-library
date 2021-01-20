@@ -24,6 +24,10 @@
 2. [Colorsinspo](https://colorsinspo.com/)
 3. [CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds/)
 
+## Animation
+
+- [AnimXYZ](https://animxyz.com/)
+
 ## Designs
 
 - [Material Design](https://material.io/)
