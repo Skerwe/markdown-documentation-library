@@ -31,6 +31,7 @@
 19. [Rogue Engine](https://rogueengine.io/) (TypeScript)
 20. [FlatRedBall](http://flatredball.com/) (C#)
 21. [libGDX](https://libgdx.com/) (Java)
+22. [KorGE](https://korge.org/) (Kotlin)
 
 :link: GitHub [Game Engines](https://github.com/collections/game-engines) Collection
 
