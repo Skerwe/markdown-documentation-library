@@ -41,7 +41,7 @@
 - [nCine](https://ncine.github.io/) (2D | Good for Game Jams)
 - [ezEngine](https://github.com/ezEngine/ezEngine) (C++)
 - [Esenthel](https://www.esenthel.com/?id=info) | [GitHub](https://github.com/Esenthel/EsenthelEngine/)
-- [Gideros](https://github.com/gideros/gideros) (Mobile)
+- [Gideros](http://giderosmobile.com/) | [GitHub](https://github.com/gideros/gideros) (Mobile) (Lua)
 - [Bitmelo](https://bitmelo.com/) | [GitHub](https://github.com/byersdz/bitmelo) (Good for Game Jams)
 - [Panda 3D](https://www.panda3d.org/)
 - [Spring Engine](https://springrts.com/) (3D RTS)
