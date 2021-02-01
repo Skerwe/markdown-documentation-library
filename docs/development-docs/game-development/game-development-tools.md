@@ -85,3 +85,7 @@
 ## User Interfaces
 
 - [Dear ImGui](https://github.com/ocornut/imgui)
+
+## Dialog
+
+- [ink](https://www.inklestudios.com/ink/)
