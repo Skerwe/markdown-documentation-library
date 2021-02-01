@@ -90,3 +90,7 @@
 ## Dialog
 
 - [ink](https://www.inklestudios.com/ink/)
+
+## Serialization
+
+- [Bebop](https://bebop.sh/)
