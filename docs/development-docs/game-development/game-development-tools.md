@@ -45,7 +45,7 @@
 - [Natron](https://natrongithub.github.io/) (VFX and Motion)
 - [Enve](https://maurycyliebner.github.io/) (2D Animation)
 
-### 3G Models
+### 3D Models
 
 - [Tree It](https://www.evolved-software.com/treeit/treeit) a 3D tree generator
 - [Dust3D](https://dust3d.org/)
@@ -53,6 +53,7 @@
 - [Neobarok](https://www.neobarok.com/)
 - [Meshroom](https://alicevision.org/#meshroom) (3D Reconstruction)
 - [Instant Meshes](https://github.com/wjakob/instant-meshes)
+- [Blockbench](https://blockbench.net/)
 
 ## Physics
 
