@@ -24,6 +24,7 @@ pip3 install mu-editor
 
 1. [Django](https://www.djangoproject.com/)
 2. [Flask](https://palletsprojects.com/p/flask/)
+3. [Falcon](http://falconframework.org/)
 
 ### Gui Development
 
@@ -57,6 +58,8 @@ python -m pip install --upgrade pip
 1. [venv](development-docs/python-development/venv.md)
 2. [Virtualenv](development-docs/python-development/virtualenv.md)
 3. [Pipenv](development-docs/python-development/pipenv.md)
+4. [Poetry](https://python-poetry.org/)
+5. [PDM](https://pdm.fming.dev/)
 
 ### Python Style Guide
 
@@ -75,6 +78,7 @@ python -m pip install --upgrade pip
 2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 3. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
 4. [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids)
+5. [pytudes](https://github.com/norvig/pytudes)
 
 ## Python Projects
 
