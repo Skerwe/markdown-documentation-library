@@ -30,7 +30,7 @@
 18. [UNIGINE Engine](https://unigine.com/products/community/advantages/)
 19. [Rogue Engine](https://rogueengine.io/) (TypeScript)
 20. [FlatRedBall](http://flatredball.com/) (C#)
-21. [libGDX](https://libgdx.com/) (Java)
+21. [libGDX](https://libgdx.com/) (Java) | [Awesome libGDX](https://github.com/rafaskb/awesome-libgdx)
 22. [KorGE](https://korge.org/) (Kotlin)
 
 :link: GitHub [Game Engines](https://github.com/collections/game-engines) Collection
