@@ -11,3 +11,7 @@
 - [Figuary 2020](https://www.lovelifedrawing.com/figuary2020/)
 - [Love Life Drawing on Youtube](https://www.youtube.com/watch?v=OcS3927iLYw)
 - Croquis Cafe on Vimeo
+
+## 2021
+
+- [FIGUARY 2021 TUTORIAL SERIES](https://www.lovelifedrawing.com/figuary2021tutorials/)
