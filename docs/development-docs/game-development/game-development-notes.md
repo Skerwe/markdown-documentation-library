@@ -1,7 +1,7 @@
 # Game Development Notes
 
 :newspaper: Game devlopment news, tools, resources and tutorials  
-[Game Dev](https://devga.me/) | [Game from Scratch](https://www.gamefromscratch.com/)
+[Dev Game](https://devga.me/) | [Game from Scratch](https://www.gamefromscratch.com/)
 
 :closed_book: [Wireframe magazine](https://wireframe.raspberrypi.org/issues)  
 :closed_book: [The Classic Adventurer](http://classicadventurer.co.uk/)
