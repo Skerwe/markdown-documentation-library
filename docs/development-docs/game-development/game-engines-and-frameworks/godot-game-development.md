@@ -6,9 +6,10 @@
 
 ### Learn Gogot Development
 
-[GDQuest Learn](https://gdquest.mavenseed.com/p/home)
-[Make Games with Godot: Beginner Edition](https://www.gdquest.com/docs/guides/learn-godot/beginner/)
-[GDQuest Documents](https://www.gdquest.com/docs/)
+1. [GDQuest Learn](https://gdquest.mavenseed.com/p/home)
+2. [Make Games with Godot: Beginner Edition](https://www.gdquest.com/docs/guides/learn-godot/beginner/)
+3. [GDQuest Documents](https://www.gdquest.com/docs/)
+4. [Godot GameDev Tutorials](https://godottutorials.pro/) from Zenva Academy
 
 ## Addons
 
