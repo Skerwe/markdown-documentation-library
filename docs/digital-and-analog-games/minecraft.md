@@ -4,7 +4,7 @@
 
 ## Modpacks
 
-- [Feed The Beast](https://www.feed-the-beast.com/)
+- [Feed The Beast](https://www.feed-the-beast.com/) | [Wiki](https://ftb.gamepedia.com/FTB_Wiki)
 - [MultiMC ](https://multimc.org/)
 
 ## Tutorials
