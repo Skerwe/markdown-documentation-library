@@ -19,6 +19,7 @@
 - [Minecraft](digital-and-analog-games/minecraft.md)
 - [StarCraft 2](digital-and-analog-games/starcraft2.md)
 - [Gloomhaven](digital-and-analog-games/gloomhaven-notes.md)
+- [Pokemon TGC](digital-and-analog-games/pokemon-tcg.md)
 
 ## Play Games
 
