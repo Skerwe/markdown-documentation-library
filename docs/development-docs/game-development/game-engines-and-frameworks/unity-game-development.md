@@ -22,6 +22,10 @@
 - [Filebase](https://gamedevhq.com/filebase/)
 - [Learn Game Dev](https://www.youtube.com/user/Unity3DCoder/playlists)
 
+## Unity Tutorials
+
+1. [Explore Free Unity Game Tutorials](https://gamedevacademy.org/category/unity-tutorials/)
+
 ## Unity Tools
 
 ### Components
