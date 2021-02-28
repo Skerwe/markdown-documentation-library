@@ -64,14 +64,10 @@
 - [Bullet Physics SDK](https://pybullet.org/wordpress/) | [GitHub](https://github.com/bulletphysics/bullet3)
 - [Box2D](https://box2d.org/)
 
-### Miscellaneous
+## Video Editing Software
 
-- [The most powerful shader IDE](https://shadered.org/)
-- [Shader Playground](http://shader-playground.timjones.io/)
 - [OBS Studio](https://obsproject.com/) - Record gameplay videos
-- [The Game Design Tool](https://machinations.io/) (Machinations) | [YouTube](https://www.youtube.com/channel/UCnui50w5BC_P7pfrF0XwoKg)
-- [KitBash3D](https://kitbash3d.com/)
-- [Spritify](https://azhain.itch.io/spritify)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
 ## Graphics Programms
 
@@ -98,3 +94,11 @@
 ## Serialization
 
 - [Bebop](https://bebop.sh/)
+
+## Miscellaneous
+
+- [The most powerful shader IDE](https://shadered.org/)
+- [Shader Playground](http://shader-playground.timjones.io/)
+- [The Game Design Tool](https://machinations.io/) (Machinations) | [YouTube](https://www.youtube.com/channel/UCnui50w5BC_P7pfrF0XwoKg)
+- [KitBash3D](https://kitbash3d.com/)
+- [Spritify](https://azhain.itch.io/spritify)
