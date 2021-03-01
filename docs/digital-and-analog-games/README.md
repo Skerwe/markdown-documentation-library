@@ -12,14 +12,15 @@
 
 ## Game Codes, Help and Tools
 
-- [Samrost 2](digital-and-analog-games/samrost2.md)
-- [The Neverhood](digital-and-analog-games/the-neverhood.md)
-- [Worms 2](digital-and-analog-games/worms2.md)
+- [Samrost 2](digital-and-analog-games/samrost2-notes.md)
+- [The Neverhood](digital-and-analog-games/the-neverhood-notes.md)
+- [Worms 2](digital-and-analog-games/worms2-notes.md)
 - [LoneSurvivor Survival Guide](http://www.lonesurvivor.co.uk/LoneSurvivor-SurvivalGuide.pdf) (PDF)
-- [Minecraft](digital-and-analog-games/minecraft.md)
-- [StarCraft 2](digital-and-analog-games/starcraft2.md)
+- [Minecraft](digital-and-analog-games/minecraft-notes.md)
+- [StarCraft 2](digital-and-analog-games/starcraft2-notes.md)
 - [Gloomhaven](digital-and-analog-games/gloomhaven-notes.md)
-- [Pokemon TGC](digital-and-analog-games/pokemon-tcg.md)
+- [Pokemon TGC](digital-and-analog-games/pokemon-tcg-notes.md)
+- [X Com 2](digital-and-analog-games/x-com-notes.md)
 
 ## Play Games
 
