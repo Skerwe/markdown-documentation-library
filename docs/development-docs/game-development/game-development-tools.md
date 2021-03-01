@@ -48,6 +48,7 @@
 
 - [Natron](https://natrongithub.github.io/) (VFX and Motion)
 - [Enve](https://maurycyliebner.github.io/) (2D Animation)
+- [Cascadeur](https://cascadeur.com/) (3D physics-based character animation software)
 
 ### 3D Models
 

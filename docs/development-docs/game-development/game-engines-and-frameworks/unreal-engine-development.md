@@ -16,6 +16,10 @@
 
 - [UE4 Style Guide](https://github.com/Allar/ue4-style-guide)
 
+## Game Jams
+
+- [2020 Epic MegaJam](https://itch.io/jam/2020-epic-megajam)
+
 ## Using Blender
 
 ### Key Bindings and Keyboard Shortcuts
