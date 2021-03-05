@@ -8,6 +8,11 @@
 2. [CSS](development-docs/web-development/css-notes.md)
 3. [JavaScript](development-docs/web-development/javascript-development.md)
 
+### Superset
+
+- [TypeScript](development-docs/web-development/web-languages/typescript-notes.md)
+- [Dart](development-docs/web-development/web-languages/dart-notes.md)
+
 ## Learn Web Development
 
 1. [W3C Developers](https://w3c.github.io/developers/)
