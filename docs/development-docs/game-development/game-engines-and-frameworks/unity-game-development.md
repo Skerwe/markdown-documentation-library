@@ -25,6 +25,7 @@
 ## Unity Tutorials
 
 1. [Explore Free Unity Game Tutorials](https://gamedevacademy.org/category/unity-tutorials/)
+2. [Unity3D College](https://unity3d.college/)
 
 ## Unity Tools
 
