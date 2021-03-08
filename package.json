@@ -6,9 +6,7 @@
   "main": "README.md",
   "scripts": {
     "start": "docsify serve docs",
-    "test": "testcafe  chrome:headless,firefox:headless tests/",
-    "pretest": "npm run lint",
-    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\""
+    "test": "markdownlint-cli2 \"**/*.md\" \"#node_modules\""
   },
   "repository": {
     "type": "git",
@@ -31,7 +29,6 @@
   "homepage": "https://github.com/Skerwe/markdown-documentation-library#readme",
   "devDependencies": {
     "markdownlint": "^0.23.1",
-    "markdownlint-cli2": "0.0.14",
-    "testcafe": "^1.12.0"
+    "markdownlint-cli2": "0.0.14"
   }
 }
