@@ -16,7 +16,7 @@ Make sure these are installed first.
 - [npm](https://www.npmjs.com/get-npm) or equivilant
 - [Docsify](https://docsify.js.org/#/) 
 
-You can install Docsify globally, run `npm i docsify-cli -g`
+You should install Docsify globally, `npm i docsify-cli -g`
 
 ### Quick Start
 
@@ -47,9 +47,9 @@ npm test
 
 ## The project was built with
 
-1. [Markdown](https://www.markdownguide.org/getting-started/) -- Used for creating the notes and documentation
-2. [Docsify](https://docsify.js.org/#/) -- Used to generate the documentation website
-3. [GitHub Pages](https://pages.github.com/) -- For hosting the documentation website
+1. [Markdown](https://www.markdownguide.org/getting-started/) -- creating the notes and documentation
+2. [Docsify](https://docsify.js.org/#/) -- generate the documentation website
+3. [GitHub Pages](https://pages.github.com/) -- hosting the documentation website
 
 ## License
 
