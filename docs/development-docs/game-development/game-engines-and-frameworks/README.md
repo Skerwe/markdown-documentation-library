@@ -45,7 +45,6 @@
 - [Gideros](http://giderosmobile.com/) | [GitHub](https://github.com/gideros/gideros) (Mobile) (Lua)
 - [Bitmelo](https://bitmelo.com/) | [GitHub](https://github.com/byersdz/bitmelo) (Good for Game Jams)
 - [Panda 3D](https://www.panda3d.org/)
-- [Spring Engine](https://springrts.com/) (3D RTS)
 - [luxe](https://luxeengine.com/)
 - [FNA](https://fna-xna.github.io/) | [FNA Template](https://github.com/AndrewRussellNet/FNA-Template) (C#)
 - [NeoAxis Engine](https://www.neoaxis.com/)
@@ -57,6 +56,11 @@
 - [Castle Game Engine](https://castle-engine.io/) (Object Pascal)
 - [Drag[en]gine Game Engine](development-docs/game-development/game-engines-and-frameworks/dragengine-development.md)
 - [microStudio](https://microstudio.dev/)
+
+### Real Time Strategy Game Engines
+
+- [Spring Engine](https://springrts.com/) (3D RTS)
+- [Permafrost Engine](https://github.com/eduard-permyakov/permafrost-engine) (3D RTS)
 
 ***
 

@@ -49,6 +49,7 @@
 - [Natron](https://natrongithub.github.io/) (VFX and Motion)
 - [Enve](https://maurycyliebner.github.io/) (2D Animation)
 - [Cascadeur](https://cascadeur.com/) (3D physics-based character animation software)
+- [Radical](https://getrad.co/) (AI-powered 3D motion animation)
 
 ### 3D Models
 
@@ -80,23 +81,23 @@
 6. [MagicaVoxel](https://ephtracy.github.io/)
 7. [Pyxel Edit](https://pyxeledit.com/index.php)
 
-## Marketing
+## Marketing Tools
 
 - [presskit()](https://dopresskit.com/)
 
-## User Interfaces
+## User Interfaces Tools
 
 - [Dear ImGui](https://github.com/ocornut/imgui)
 
-## Dialog
+## Dialog Tools (Narrative Design Tools)
 
-- [ink](https://www.inklestudios.com/ink/)
+- [Arrow](https://github.com/mhgolkar/Arrow)
 
-## Serialization
+## Serialization Tools
 
 - [Bebop](https://bebop.sh/)
 
-## Miscellaneous
+## Miscellaneous Programms and Tools
 
 - [The most powerful shader IDE](https://shadered.org/)
 - [Shader Playground](http://shader-playground.timjones.io/)

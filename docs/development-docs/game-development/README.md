@@ -11,6 +11,7 @@
 - [Free Game Art Assets](development-docs/game-development/game-art-assets.md)
 - [Indie Game Marketing Notes](development-docs/game-development/indie-game-marketing-notes.md)
 - [Game Jam Notes](development-docs/game-development/game-jam-notes.md)
+- [Interactive Game Development Notes](development-docs/game-development/interactive-game-development.md)
 
 ## Categories
 
