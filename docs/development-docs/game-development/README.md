@@ -13,6 +13,10 @@
 - [Game Jam Notes](development-docs/game-development/game-jam-notes.md)
 - [Interactive Game Development Notes](development-docs/game-development/interactive-game-development.md)
 
+## Learning Programming Through Game Development
+
+1. [Screatch Programming Notes](development-docs/game-development/scratch-programming-notes.md)
+
 ## Categories
 
 1. :file_folder: [Game Engines and Frameworks](development-docs/game-development/game-engines-and-frameworks/)
