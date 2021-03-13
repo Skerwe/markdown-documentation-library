@@ -75,13 +75,14 @@ python -m pip install --upgrade pip
 1. [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io/)
 2. Packaging Python projects with [Setuptools](https://setuptools.readthedocs.io/en/latest/)
 
-## Learning
+## Learning Python
 
-1. [Real Python](https://realpython.com/)
-2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-3. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
-4. [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids)
-5. [pytudes](https://github.com/norvig/pytudes)
+1. [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
+2. [Real Python](https://realpython.com/)
+3. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+4. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
+5. [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids)
+6. [pytudes](https://github.com/norvig/pytudes)
 
 ## Python Projects
 
