@@ -61,3 +61,4 @@
 - [How to Make an RPG](https://howtomakeanrpg.com/)
 - [Concept Art Empire](https://conceptartempire.com/)
 - [fulltimegamedev.com](https://www.fulltimegamedev.com/)
+- [Brackeys](https://brackeys.com/)

@@ -1,14 +1,16 @@
 # Lua Language Notes
 
-:link: [lua.org](http://www.lua.org/)
+:link: [lua.org](http://www.lua.org/)  
+:link: [LuaRocks](https://luarocks.org/) -- package manager for Lua modules
 
 ## IDE
 
 - [ZeroBrane Studio](https://studio.zerobrane.com/) (lightweight Lua IDE)
 
-## Install Lua and Love
+## Game Development with Lua
 
-:pencil: [Love Game Development Notes](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)
+1. [Love Game Development Notes](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)
+2. [Amulet](http://www.amulet.xyz/)
 
 ### Windows
 
@@ -26,3 +28,4 @@
 
 - [Programming in Lua](https://www.lua.org/pil/contents.html) (first edition)
 - [Lua 5.4 Reference Manual](https://www.lua.org/manual/5.4/manual.html)
+- [Tutorial Directory](http://lua-users.org/wiki/TutorialDirectory)

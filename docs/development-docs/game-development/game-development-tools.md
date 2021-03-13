@@ -14,17 +14,21 @@
 - [FLECS](https://github.com/SanderMertens/flecs) (c++)
 - [EnTT](https://github.com/skypjack/entt) (c++)
 
-### Spritesheets and Tiles
+### Spritesheets Tools
 
 1. [Free Texture Packer](http://free-tex-packer.com/)
 2. [SpriteSheet Packer](http://amakaseev.github.io/sprite-sheet-packer/)
 3. [TexturePacker](https://www.codeandweb.com/texturepacker)
+4. [ShoeBox](http://renderhjs.net/shoebox/)
+
+## Tilemap Editor Tools
+
+1. [Tile Studio](http://tilestudio.sourceforge.net/) | [Tile Studio II](https://www.wieringsoftware.com/ts2/)
+2. [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) | [itch](https://deepnight.itch.io/ldtk)
+3. [Mappy Editor](http://tilemap.co.uk/mappy.php)
 4. [Tiled](https://www.mapeditor.org/)
-5. [Crocotile 3D](http://www.crocotile3d.com/)
-6. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
-7. [ShoeBox](http://renderhjs.net/shoebox/)
-8. [Tile Studio](http://tilestudio.sourceforge.net/) | [Tile Studio II](https://www.wieringsoftware.com/ts2/)
-9. [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) | [itch](https://deepnight.itch.io/ldtk)
+5. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
+6. [Crocotile 3D](http://www.crocotile3d.com/)
 
 ### Materials and Textures
 
@@ -80,6 +84,7 @@
 5. [Hexels](https://marmoset.co/hexels/)
 6. [MagicaVoxel](https://ephtracy.github.io/)
 7. [Pyxel Edit](https://pyxeledit.com/index.php)
+8. [Pro Motion](https://www.cosmigo.com/)
 
 ## Marketing Tools
 
@@ -92,6 +97,10 @@
 ## Dialog Tools (Narrative Design Tools)
 
 - [Arrow](https://github.com/mhgolkar/Arrow)
+
+## World Building Tools
+
+- [Ikarus](https://ikarus.world/)
 
 ## Serialization Tools
 
