@@ -11,6 +11,7 @@
 - [Quixel Mixer](https://quixel.com/mixer)
 - [Quixel Bridge](https://quixel.com/bridge)
 - [NVIDIA CodeWorks for Android](https://developer.nvidia.com/codeworks-android)
+- [Bucket full of assets](https://unrealbucket.com/)
 
 ### Style Guide
 
