@@ -29,6 +29,7 @@ pip3 install mu-editor
 ### Gui Development
 
 - [Dear PyGui](https://github.com/hoffstadt/DearPyGui)
+- [Urwid](http://urwid.org/) -- Console UI
 
 ### Python Package Installer
 
