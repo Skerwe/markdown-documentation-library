@@ -29,6 +29,8 @@
 - [Red Blob Games](https://www.redblobgames.com/)
 - [Game Development Math Recipes](https://www.gamefromscratch.com/page/Game-Development-Math-Recipes.aspx) - GameFromScratch
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
+- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 ### Math Tools
 

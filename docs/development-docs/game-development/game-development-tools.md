@@ -54,6 +54,8 @@
 - [Enve](https://maurycyliebner.github.io/) (2D Animation)
 - [Cascadeur](https://cascadeur.com/) (3D physics-based character animation software)
 - [Radical](https://getrad.co/) (AI-powered 3D motion animation)
+- [DeepMotion](https://deepmotion.com/) (Real-Time Body Tracking)
+- [Dem Bones](https://github.com/electronicarts/dem-bones)
 
 ### 3D Models
 
@@ -64,6 +66,7 @@
 - [Meshroom](https://alicevision.org/#meshroom) (3D Reconstruction)
 - [Instant Meshes](https://github.com/wjakob/instant-meshes)
 - [Blockbench](https://blockbench.net/)
+- [Monster Mash](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)
 
 ## Physics
 

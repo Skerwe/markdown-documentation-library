@@ -56,7 +56,9 @@
 - [Echo](https://github.com/timi-liuliang/echo) (Lua) requires [CMake](https://cmake.org/)
 - [Castle Game Engine](https://castle-engine.io/) (Object Pascal)
 - [Drag[en]gine Game Engine](development-docs/game-development/game-engines-and-frameworks/dragengine-development.md)
-- [microStudio](https://microstudio.dev/)
+- [microStudio](https://microstudio.dev/) (great for game jams)
+- [Spartan Engine](https://github.com/PanosK92/SpartanEngine)
+- [Falco Engine](https://falco3d.com/) (C#)
 
 ### Real Time Strategy Game Engines
 
