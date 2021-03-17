@@ -22,6 +22,6 @@
 - [Pokemon TGC](digital-and-analog-games/pokemon-tcg-notes.md)
 - [X Com 2](digital-and-analog-games/x-com-notes.md)
 
-## Play Games
+## Play Games and Look at the Code
 
-1. [Play Free and Open Source Games](digital-and-analog-games/play-free-open-source-games.md)
+[Play Open Source and Free Games](digital-and-analog-games/play-free-open-source-games.md)
