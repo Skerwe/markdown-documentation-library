@@ -212,3 +212,8 @@ List the current configuration:
 
 Check version info:  
 `git --version`
+
+## 7. LFS
+
+Fix LFS files to move from normal git repo to LFS repo:
+`git lfs migrate`
