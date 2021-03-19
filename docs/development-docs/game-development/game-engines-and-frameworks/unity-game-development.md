@@ -16,16 +16,20 @@
 2. [Open Projects: The Journey - Ep. 2](https://www.youtube.com/watch?v=ukE73ifSrTM)
 3. [Open Projects: The Journey - Ep. 3](https://www.youtube.com/watch?v=0lhLLnKitSI)
 
-## GameDevHQ
+## Learn Unity
+
+### Unity Tutorials
+
+1. [Explore Free Unity Game Tutorials](https://gamedevacademy.org/category/unity-tutorials/)
+2. [Brackeys](https://brackeys.com/)
+3. [Jason Weimann](https://www.youtube.com/c/Unity3dCollege) | [Unity3D College](https://unity3d.college/)
+4. [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity) | [unitycodemonkey.com](https://unitycodemonkey.com/)
+
+### GameDevHQ
 
 - [GameDevHQ](https://gamedevhq.com/start-your-game-development-journey/)
 - [Filebase](https://gamedevhq.com/filebase/)
 - [Learn Game Dev](https://www.youtube.com/user/Unity3DCoder/playlists)
-
-## Unity Tutorials
-
-1. [Explore Free Unity Game Tutorials](https://gamedevacademy.org/category/unity-tutorials/)
-2. [Unity3D College](https://unity3d.college/)
 
 ## Unity Tools
 
@@ -66,21 +70,21 @@
 
 :link: [Visual Studio Code as Editor](https://code.visualstudio.com/docs/other/unity)
 
-### Version Control
-
-:link: [How to Git with Unity](https://thoughtbot.com/blog/how-to-git-with-unity)  
-:link: [GitHub for Unity Extension](https://unity.github.com/) | [Unity Store](https://assetstore.unity.com/packages/tools/version-control/github-for-unity-118069)
-
-### Debugging
-
-:link: [Unity Debugger Extension for Visual Studio Code](https://github.com/Unity-Technologies/vscode-unity-debug)
-
 ### Unity Coding Standards
 
 - [Coding Standards old](https://unity3d.college/2016/05/16/unity-coding-standards/)
 - [Coding Standards](https://docs.google.com/document/d/13QZjY4Fyg8m8IT09wvCvrBt3X6ra5IpGPUOxpyy5DPw/edit)
 
-### Git with Unity
+### Debugging
+
+:link: [Unity Debugger Extension for Visual Studio Code](https://github.com/Unity-Technologies/vscode-unity-debug)
+
+### Version Control
+
+:link: [How to Git with Unity](https://thoughtbot.com/blog/how-to-git-with-unity)  
+:link: [GitHub for Unity Extension](https://unity.github.com/) | [Unity Store](https://assetstore.unity.com/packages/tools/version-control/github-for-unity-118069)
+
+#### Git with Unity
 
 1. Install [Git Large File Storage](https://git-lfs.github.com/) (LFS)
 2. Run command to initialise LFS: `git lfs install`
