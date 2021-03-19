@@ -100,6 +100,7 @@
 ## Dialog Tools (Narrative Design Tools)
 
 - [Arrow](https://github.com/mhgolkar/Arrow)
+- [Yarn Spinner](https://yarnspinner.dev/)
 
 ## World Building Tools
 

@@ -33,6 +33,7 @@
 21. [libGDX](https://libgdx.com/) (Java) | [Awesome libGDX](https://github.com/rafaskb/awesome-libgdx)
 22. [KorGE](https://korge.org/) (Kotlin)
 23. [Cocos2d-x](https://www.cocos.com/en/) + Cocos Creator
+24. [Tilengine](http://www.tilengine.org/) (2D graphics engine for creating classic/retro games)
 
 :link: GitHub [Game Engines](https://github.com/collections/game-engines) Collection
 
