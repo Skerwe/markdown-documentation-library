@@ -1,11 +1,13 @@
 # Construct 2 & 3 Game development
 
-:link: [Scirra Store](https://www.scirra.com/store)
+:link: [scirra.com](https://www.scirra.com/)  
+:link: [Scirra Store](https://www.scirra.com/store)  
+:link: [Download NW.js](https://www.scirra.com/nwjs) -- For use in Construct 2
 
 ## Tutorials
 
-- [Construct 2 Academy | C2A](https://www.youtube.com/user/ScirraVideos/playlists?view=50&sort=dd&shelf_id=1)
-- [Level Zero - Free Construct 2 Book](https://www.construct.net/en/blogs/construct-official-blog-1/level-zero-free-construct-book-853)
+1. [Construct 2 Academy | C2A](https://www.youtube.com/user/ScirraVideos/playlists?view=50&sort=dd&shelf_id=1)
+2. [Level Zero - Free Construct 2 Book](https://www.construct.net/en/blogs/construct-official-blog-1/level-zero-free-construct-book-853)
 
 ## Publishing
 
