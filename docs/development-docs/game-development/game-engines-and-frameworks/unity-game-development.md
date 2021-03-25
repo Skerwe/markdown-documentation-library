@@ -21,7 +21,7 @@
 ### Unity Tutorials
 
 1. [Explore Free Unity Game Tutorials](https://gamedevacademy.org/category/unity-tutorials/)
-2. [Brackeys](https://brackeys.com/)
+2. [Brackeys](https://brackeys.com/) | [DevAssets](https://devassets.com/) Store
 3. [Jason Weimann](https://www.youtube.com/c/Unity3dCollege) | [Unity3D College](https://unity3d.college/)
 4. [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity) | [unitycodemonkey.com](https://unitycodemonkey.com/)
 

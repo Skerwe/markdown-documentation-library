@@ -1,4 +1,4 @@
-# Samrost 2
+# Samrost 2 Notes
 
 ## Level Codes
 

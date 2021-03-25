@@ -2,8 +2,8 @@
 
 ## Pen and Paper Games
 
-1. [Print & Play Games](digital-and-analog-games/print-and-play-games.md)
-2. [Role Playing Games](digital-and-analog-games/role-playing-games.md)
+1. :notebook_with_decorative_cover: [Print & Play Games](digital-and-analog-games/print-and-play-games.md)
+2. :notebook_with_decorative_cover: [Role Playing Games](digital-and-analog-games/role-playing-games.md)
 
 ## Emulator Programs and Virtual Machines
 
@@ -26,4 +26,4 @@
 
 ## Play Games and Look at the Code
 
-[Play Open Source and Free Games](digital-and-analog-games/play-free-open-source-games.md)
+- [Play Open Source and Free Games](digital-and-analog-games/play-free-open-source-games.md)

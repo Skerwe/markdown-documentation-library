@@ -4,14 +4,14 @@
 
 ## Web Fundamentals
 
-1. [HTML](development-docs/web-development/html.notes.md)
-2. [CSS](development-docs/web-development/css-notes.md)
-3. [JavaScript](development-docs/web-development/javascript-development.md)
+1. :notebook_with_decorative_cover: [HTML](development-docs/web-development/html.notes.md)
+2. :notebook_with_decorative_cover: [CSS](development-docs/web-development/css-notes.md)
+3. :notebook_with_decorative_cover: [JavaScript](development-docs/web-development/javascript-development.md)
 
 ### Superset
 
-- [TypeScript](development-docs/web-development/web-languages/typescript-notes.md)
-- [Dart](development-docs/web-development/web-languages/dart-notes.md)
+- :notebook_with_decorative_cover: [TypeScript](development-docs/web-development/web-languages/typescript-notes.md)
+- :notebook_with_decorative_cover: [Dart](development-docs/web-development/web-languages/dart-notes.md)
 
 ## Learn Web Development
 

@@ -1,15 +1,15 @@
 # Fine Art Notes
 
-1. [Digital Painting Notes](fine-arts-docs/digital-painting.md)
-2. [Figuary](fine-arts-docs/figuary.md)
+1. :notebook_with_decorative_cover: [Digital Painting Notes](fine-arts-docs/digital-painting.md)
+2. :notebook_with_decorative_cover: [Figuary](fine-arts-docs/figuary.md)
 
 ## Art Medium Notes
 
-1. [Oil Painting Notes](fine-arts-docs/oil-painting-notes.md)
+- [Oil Painting Notes](fine-arts-docs/oil-painting-notes.md)
 
 ## Tutorials
 
-1. [PAINTING MINI-LESSONS](https://paintinglessonswithmarla.com/minilessons/) with Marla Baggeta
+1. [Painting Mini-Lessons](https://paintinglessonswithmarla.com/minilessons/) with Marla Baggeta
 2. [Brush and Pencil](https://brushandpencil.com/)
 
 ## Notable Artists

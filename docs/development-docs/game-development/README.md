@@ -23,4 +23,3 @@
 2. :file_folder: [Game Development Platforms and Clients](development-docs/game-development/game-development-platforms/)
 3. :file_folder: [Game Rendering Frameworks](development-docs/game-development/game-rendering-frameworks/)
 4. :file_folder: [Fantasy Consoles](development-docs/game-development/fantasy-consoles/)
-5. :file_folder: [Game Programming Languages](development-docs/game-development/programming-languages/)

@@ -2,20 +2,17 @@
 
 ## Categories
 
-1. :file_folder: [Programming and Development Notes](development-docs/programming)
+1. :file_folder: [Programming and Development Notes](development-docs/programming-and-development/)
 2. :file_folder: [Game Development Notes](development-docs/game-development/)
 3. :file_folder: [Web Development Notes](development-docs/web-development/)
-4. :file_folder: [Python Development Notes](development-docs/python-development/)
-5. :file_folder: [Java Development Notes](development-docs/java-development/)
-6. :file_folder: [C# Development Notes](development-docs/csharp-development/)
-7. :file_folder: [Computing and Electronics](development-docs/computing/)
+4. :file_folder: [Computing and Electronics](development-docs/computing-and-electronics/)
 
 ## Resources
 
-+ [Markdown Notes](development-docs/markdown-notes.md)
-+ [Open Source Notes](development-docs/open-source-notes.md)
-+ [Git Source Control Notes](development-docs/git-notes.md)
-+ [Applications Tips and Notes](development-docs/applications-tips-and-notes.md)
++ :notebook_with_decorative_cover: [Markdown Notes](development-docs/markdown-notes.md)
++ :notebook_with_decorative_cover: [Open Source Notes](development-docs/open-source-notes.md)
++ :notebook_with_decorative_cover: [Git Source Control Notes](development-docs/git-notes.md)
++ :notebook_with_decorative_cover: [Applications Tips and Notes](development-docs/applications-tips-and-notes.md)
 
 ## Package Managers
 
