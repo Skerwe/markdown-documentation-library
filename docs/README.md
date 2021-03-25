@@ -1,6 +1,6 @@
 # Markdown Documentation Library (MDL)
 
-Notes and links documented in markdown format.
+All my software development notes and links, documented in markdown format.
 
 ---
 

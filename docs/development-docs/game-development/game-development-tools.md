@@ -93,6 +93,11 @@
 
 - [presskit()](https://dopresskit.com/)
 
+## Project Management
+
+1. [HacknPlan](https://hacknplan.com/)
+2. [Milanote](https://milanote.com/)
+
 ## User Interfaces Tools
 
 - [Dear ImGui](https://github.com/ocornut/imgui)

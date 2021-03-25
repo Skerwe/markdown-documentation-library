@@ -2,7 +2,7 @@
 
 ## Categories
 
-1. :file_folder: [Programming and Development Notes](development-docs/programming-and-development/)
+1. :file_folder: [Software Development Notes](development-docs/programming-and-development/)
 2. :file_folder: [Game Development Notes](development-docs/game-development/)
 3. :file_folder: [Web Development Notes](development-docs/web-development/)
 4. :file_folder: [Computing and Electronics](development-docs/computing-and-electronics/)
