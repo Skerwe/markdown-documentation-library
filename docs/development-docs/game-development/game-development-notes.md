@@ -27,6 +27,7 @@
 ## Game Development Math and Algorithms
 
 - [Red Blob Games](https://www.redblobgames.com/)
+- [Wang Tiles](http://www.cr31.co.uk/stagecast/wang/intro.html)
 - [Game Development Math Recipes](https://www.gamefromscratch.com/page/Game-Development-Math-Recipes.aspx) - GameFromScratch
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
