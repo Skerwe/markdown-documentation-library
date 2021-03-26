@@ -64,7 +64,8 @@ python -m pip install --upgrade pip
 
 ### Python Style Guide
 
-:link: [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
+- [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
+- [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/)
 
 ## Folder Structure
 
