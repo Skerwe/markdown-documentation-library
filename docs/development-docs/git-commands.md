@@ -131,7 +131,8 @@ Create a tag:
 `git tag -a <tag-name> -m "message"`
 
 Delete a tag:  
-`git tag -d <tag-name>`
+`git tag -d <tag-name>`  
+`git push --delete origin <tag-name>`
 
 ## 4. Remote Repositories
 
