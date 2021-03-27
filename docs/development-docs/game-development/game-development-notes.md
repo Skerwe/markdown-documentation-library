@@ -43,13 +43,11 @@
 2. [TextureHaven](https://texturehaven.com/)
 3. [PROCJAM Art Packs](http://www.procjam.com/art/)
 4. [Public Domain Art & Code](https://www.glitchthegame.com/public-domain-game-art/)
-5. [Pixel Art for your GameDev](http://pixelgameart.org/web/)
-6. [Indie Dev Resources](https://www.reddit.com/r/indiedev/wiki/resources) (Reddit)
-7. [Vlambeer toolkit & link repository](https://vlambeer.com/toolkit/)
-8. [Game Dev Link Library](https://gdu.io/links)
-9. [js13kGames Resources](https://js13kgames.github.io/resources/)
+5. [Indie Dev Resources](https://www.reddit.com/r/indiedev/wiki/resources) (Reddit)
+6. [Vlambeer toolkit & link repository](https://vlambeer.com/toolkit/)
+7. [Game Dev Link Library](https://gdu.io/links)
+8. [js13kGames Resources](https://js13kgames.github.io/resources/)
 
-- [PixelProspector](https://pixelprospector.com/) | [Old Archive Site](https://web.archive.org/web/20190329004305/http://www.pixelprospector.com/)
 - [PlatformerPower](https://platformerpower.com/)
 
 ### Sound
