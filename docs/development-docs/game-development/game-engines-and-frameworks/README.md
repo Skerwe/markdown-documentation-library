@@ -60,6 +60,7 @@
 - [microStudio](https://microstudio.dev/) (great for game jams)
 - [Spartan Engine](https://github.com/PanosK92/SpartanEngine)
 - [Falco Engine](https://falco3d.com/) (C#)
+- [Storm-Engine](https://github.com/storm-devs/storm-engine)
 
 ### Real Time Strategy Game Engines
 
