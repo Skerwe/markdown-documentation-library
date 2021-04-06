@@ -56,6 +56,7 @@
 - [Radical](https://getrad.co/) (AI-powered 3D motion animation)
 - [DeepMotion](https://deepmotion.com/) (Real-Time Body Tracking)
 - [Dem Bones](https://github.com/electronicarts/dem-bones)
+- [Bitmapflow](https://bauxite.itch.io/bitmapflow) (Inbetweening)
 
 ### 3D Models
 
