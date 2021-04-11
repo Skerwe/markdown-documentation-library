@@ -4,6 +4,7 @@
 
 - [Squoosh](https://squoosh.app/) -- image compression
 - [UPX](https://upx.github.io/) -- Ultimate Packer for eXecutables
+- [BlueStacks](https://www.bluestacks.com/) -- mobile profile
 
 ## AutoIt3
 

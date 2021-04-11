@@ -50,11 +50,15 @@
 
 - [PlatformerPower](https://platformerpower.com/)
 
-### Sound
+### Music and Sound
 
 - [Free video game sound effects](https://www.zapsplat.com/sound-effect-category/game-sounds/)
 - [freesound.org](https://freesound.org/browse/)
 - [Royalty Free Sounds](http://soundbible.com/royalty-free-sounds-1.html)
+
+### Models
+
+- [TurboSquid](https://www.turbosquid.com/) -- 3D Models
 
 ## Learn Game Development
 
