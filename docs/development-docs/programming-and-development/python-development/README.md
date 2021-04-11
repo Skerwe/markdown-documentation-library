@@ -25,6 +25,7 @@ pip3 install mu-editor
 1. [Django](https://www.djangoproject.com/)
 2. [Flask](https://palletsprojects.com/p/flask/)
 3. [Falcon](http://falconframework.org/)
+4. [CherryPy](https://cherrypy.org/)
 
 ### Gui Development
 
@@ -90,7 +91,7 @@ python -m pip install --upgrade pip
 
 ## Python Projects
 
-1. [Python Game Development](development-docs/game-development/game-engines-and-frameworks/python-game-development.md)
+1. [Python Game Development Notes](development-docs/game-development/game-engines-and-frameworks/python-game-development.md)
 2. [PyBoy](https://github.com/Baekalfen/PyBoy) Game Boy emulation
 
 ## Interesting Blog Posts

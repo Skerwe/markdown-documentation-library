@@ -1,6 +1,7 @@
 # Pipenv
 
-:link: [Pipenv](https://pipenv.pypa.io/en/latest/)
+:link: [Pipenv](https://pipenv.pypa.io/en/latest/)  
+:link: [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
 
 ## Using Pipenv
 
@@ -12,25 +13,40 @@ pip install --user pipenv
 
 ### Pipenv Workflow
 
-#### Install from Pipfile
-
-```shell
-pipenv install packages_name
-```
-
-#### Add a package to the project
-
-```shell
-pipenv install packages_name
-```
-
-#### Start a virtual environment (shell) for project
+#### 1. Start a virtual environment (shell) for project
 
 ```shell
 pipenv shell
 ```
 
-#### Deactivate the virtual environment
+#### 2. Add a package to the project
+
+```shell
+pipenv install packages_name
+pipenv install packages_name --dev
+```
+
+#### 3. Create lock file
+
+```shell
+pipenv lock
+```
+
+#### 4. Install using the lock file
+
+For production dependencies:
+
+```shell
+pipenv install --ignore-pipfile
+```
+
+For development:
+
+```shell
+pipenv install --dev
+```
+
+#### 5. Deactivate the virtual environment
 
 ```shell
 exit
@@ -42,13 +58,12 @@ exit
 pipenv run python main.py
 ```
 
-## Managing Application Dependencies
-
-- Manage dependencies with [Pipenv](https://packaging.python.org/tutorials/managing-dependencies/)
-- [Pipenv: A Guide to the New Python Packaging Tool](https://realpython.com/pipenv-guide/)
-
 ***
 
 ## Configure System variable
 
 `PIPENV_VENV_IN_PROJECT=1`
+
+### Linux Systems
+
+`export PIPENV_VENV_IN_PROJECT=1` (add this line in .profile)
