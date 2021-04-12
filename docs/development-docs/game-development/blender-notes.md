@@ -4,7 +4,9 @@
 
 ## Community
 
-- [BlenderNation](https://www.blendernation.com/)
+- [Blender Nation](https://www.blendernation.com/)
+- [Blender Cloud](https://cloud.blender.org/welcome/)
+- [Concept Art Empire](https://conceptartempire.com/)
 
 ## Alternative to Blender
 
@@ -27,18 +29,18 @@
 
 ### Key Bindings and Keyboard Shortcuts
 
-| Button | Description | Alt |
-|---|---|---|
-| `middle mouse button` | rotates around the center point |   |
-| `scroll mouse wheel` | zoom in and out |   |
-| `shift + middle mouse button` | pan the view |   |
-| `middle mouse button` | after clicking coordinates gizmo, the middle mouse button goes back to 3D |   |
-| `shift + d` | duplicate the selected object |   |
-| `right mouse button` | cancel current action |   |
-| `left mouse button` | accept current action |   |
-| `alt + a` | select none |  |
-| `a` | select all |   |
-| `shift + right click` | position 3D cursor |   |
-| `shift + a` | add new object |   |
-| `n` | open and close item menu |   |
-|   |   |   |
+| Button                        | Description                                                               | Alt |
+| ----------------------------- | ------------------------------------------------------------------------- | --- |
+| `middle mouse button`         | rotates around the center point                                           |     |
+| `scroll mouse wheel`          | zoom in and out                                                           |     |
+| `shift + middle mouse button` | pan the view                                                              |     |
+| `middle mouse button`         | after clicking coordinates gizmo, the middle mouse button goes back to 3D |     |
+| `shift + d`                   | duplicate the selected object                                             |     |
+| `right mouse button`          | cancel current action                                                     |     |
+| `left mouse button`           | accept current action                                                     |     |
+| `alt + a`                     | select none                                                               |     |
+| `a`                           | select all                                                                |     |
+| `shift + right click`         | position 3D cursor                                                        |     |
+| `shift + a`                   | add new object                                                            |     |
+| `n`                           | open and close item menu                                                  |     |
+|                               |                                                                           |     |
