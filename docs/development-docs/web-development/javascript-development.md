@@ -4,6 +4,7 @@
 
 + [Learn JavaScript: The Complete Guide](https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112)
 + [survivejs.com](https://survivejs.com/)
++ [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 
 ## Libraries and Tools
 
