@@ -58,7 +58,10 @@
 
 ### Models
 
+- [Free3D](https://free3d.com/)
 - [TurboSquid](https://www.turbosquid.com/) -- 3D Models
+- [Blend Swap](https://www.blendswap.com/)
+- [Free Blender Models & Character Rigs For 3D Artists](https://conceptartempire.com/free-blender-models-rigs/)
 
 ## Learn Game Development
 
