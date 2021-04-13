@@ -52,6 +52,7 @@
 
 ### Music and Sound
 
+- [Royalty Free Music for Game Developers](https://www.gamedev.net/news/free-commercially-usable-royalty-free-music-library-with-hundreds-of-professional-quality-songs-loops-for-download-r511/)
 - [Free video game sound effects](https://www.zapsplat.com/sound-effect-category/game-sounds/)
 - [freesound.org](https://freesound.org/browse/)
 - [Royalty Free Sounds](http://soundbible.com/royalty-free-sounds-1.html)

@@ -28,6 +28,11 @@
 - [Docsify](https://docsify.js.org)
 - [MkDocs](https://www.mkdocs.org/)
 
+## Hosting
+
+- [Cloudflare](https://www.cloudflare.com/) - hosting
+- [Cloudinary](https://cloudinary.com/) - image and video hosting
+
 ## Tutorials
 
 1. [Exploring the JAMstack](https://www.netlify.com/tags/jamstack/)

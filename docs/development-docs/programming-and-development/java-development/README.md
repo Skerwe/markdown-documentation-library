@@ -53,3 +53,10 @@ Create a new Gradle project in interactive mode
 
 - [Cobertura](https://cobertura.github.io/cobertura/)
 - [JaCoCo](https://www.eclemma.org/jacoco/)
+
+### Application Frameworks
+
+- [Griffon Framework](http://griffon-framework.org/) - desktop application development platform for the JVM
+- [Grails](https://grails.org/) - A powerful Groovy-based web application framework for the JVM built on top of Spring Boot
+- [GraalVM](https://www.graalvm.org/) - Run Programs Faster Anywhere
+- [Lanterna](https://github.com/mabe02/lanterna) - semi-graphical user interfaces in a text-only environment

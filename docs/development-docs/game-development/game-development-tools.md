@@ -47,6 +47,7 @@
 - [Odin 2](https://www.thewavewarden.com/odin2) | [GitHub](https://github.com/TheWaveWarden/odin2)
 - [REAPER](http://reaper.fm/)
 - [FMOD](https://fmod.com/)
+- [Klio](https://github.com/spotify/klio) -- data pipelines for audio
 
 ### Visual Effects and Animation
 
@@ -93,6 +94,7 @@
 ## Marketing Tools
 
 - [presskit()](https://dopresskit.com/)
+- [Dev Launchers](https://devlaunchers.com/)
 
 ## Project Management
 

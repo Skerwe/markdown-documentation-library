@@ -89,6 +89,10 @@ python -m pip install --upgrade pip
 4. [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids)
 5. [pytudes](https://github.com/norvig/pytudes)
 
+- [Learn Python](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) (Youtube)
+- [Intro to Programming with Python](http://python-intro.readthedocs.io/en/latest/index.html)
+- [Learn Python](https://github.com/gregmalcolm/python_koans) (Koans)
+
 ## Python Projects
 
 1. [Python Game Development Notes](development-docs/game-development/game-engines-and-frameworks/python-game-development.md)
