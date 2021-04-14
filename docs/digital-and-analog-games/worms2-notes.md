@@ -1,4 +1,4 @@
-# Worms 2
+# Worms 2 Notes
 
 ## Cheat Codes
 

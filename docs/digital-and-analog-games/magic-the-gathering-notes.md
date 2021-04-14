@@ -1,4 +1,4 @@
-# Magic The Gathering
+# Magic The Gathering Notes
 
 :link: [Wizards of the Coast](https://magic.wizards.com/en)
 
