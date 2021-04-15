@@ -69,6 +69,7 @@
 - [Instant Meshes](https://github.com/wjakob/instant-meshes)
 - [Blockbench](https://blockbench.net/)
 - [Monster Mash](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)
+- [ArmorPaint](https://armorpaint.org/) -- 3D Painting Software
 
 ## Physics
 
