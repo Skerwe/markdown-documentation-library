@@ -16,9 +16,11 @@
 ## Tools and Plugins
 
 1. [Phaser Kinetic Scrolling Plugin](http://jdnichollsc.github.io/Phaser-Kinetic-Scrolling-Plugin/)
+2. [Warp Post FX](https://github.com/photonstorm/phaser3-warp-post-fx)
 
 ## Boilerplate Phaser Projects
 
 1. [Phaser + ES6 + Webpack](https://github.com/lean/phaser-es6-webpack)
 2. [Phaser ES6 Boilerplate](https://github.com/belohlavek/phaser-es6-boilerplate)
 3. [Phaser and NW.js](http://koobazaur.com/gamedev/streamlining-standalone-web-game-development-environment-phaser-nwjs/)
+4. [Phaser 3 TypeScript Starter](https://github.com/geocine/phaser3-rollup-typescript)
