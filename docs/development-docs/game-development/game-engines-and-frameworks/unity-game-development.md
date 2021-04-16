@@ -35,7 +35,7 @@
 
 ### Components
 
-- [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents)
+- [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents) | [Docs](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
 - ProGrids
 - ProBuilder
 
@@ -74,6 +74,16 @@
 
 - [Coding Standards old](https://unity3d.college/2016/05/16/unity-coding-standards/)
 - [Coding Standards](https://docs.google.com/document/d/13QZjY4Fyg8m8IT09wvCvrBt3X6ra5IpGPUOxpyy5DPw/edit)
+
+#### Folder Structure
+
+```folder
+Assets
+├──scenes
+├──scripts
+├──materials
+└──prefabs
+```
 
 ### Debugging
 
