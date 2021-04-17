@@ -17,7 +17,11 @@ A simple Python editor for beginner programmers
 :link: [codewith.mu](https://codewith.mu/en/)
 
 ```shell
-pip3 install mu-editor
+pip install mu-editor
+```
+
+```shell
+mu-editor
 ```
 
 ### Web Devlopment with Python
@@ -86,8 +90,20 @@ python -m pip install --upgrade pip
 1. [Real Python](https://realpython.com/)
 2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 3. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
-4. [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids)
-5. [pytudes](https://github.com/norvig/pytudes)
+4. [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) (Youtube)
+5. [Python Koans](https://github.com/gregmalcolm/python_koans)
+
+### Turtle
+
+:link: [turtle — Turtle graphics](https://docs.python.org/3/library/turtle.html)
+
+1. [The Beginner's Guide to Python Turtle](https://realpython.com/beginners-guide-python-turtle/)
+
+### Other Tutorials
+
+- [Intro to Programming with Python](http://python-intro.readthedocs.io/en/latest/index.html)
+- [pytudes](https://github.com/norvig/pytudes)
+- [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids)
 
 ## Python Projects
 

@@ -1,4 +1,4 @@
-# Pokemon Trading Card Game
+# Pokemon Trading Card Game Notes
 
 ## Deck Building Tips
 

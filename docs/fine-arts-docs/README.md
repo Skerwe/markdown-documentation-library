@@ -7,6 +7,11 @@
 
 - [Oil Painting Notes](fine-arts-docs/oil-painting-notes.md)
 
+## Free Stock Images
+
+- [StockSnap](https://stocksnap.io/license)
+- [Unsplash](https://unsplash.com/license)
+
 ## Tutorials
 
 1. [Painting Mini-Lessons](https://paintinglessonswithmarla.com/minilessons/) with Marla Baggeta

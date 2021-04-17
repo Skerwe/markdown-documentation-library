@@ -38,3 +38,4 @@
 ## Mobile and Hybrid Application Development
 
 + [Appium](http://appium.io/) -- test automation framework
++ [NativeScript](https://www.nativescript.org/)

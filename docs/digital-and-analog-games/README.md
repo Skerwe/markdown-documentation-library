@@ -15,14 +15,17 @@
 - [Samrost 2 notes](digital-and-analog-games/samrost2-notes.md)
 - [The Neverhood notes](digital-and-analog-games/the-neverhood-notes.md)
 - [Worms 2 notes](digital-and-analog-games/worms2-notes.md)
-- [LoneSurvivor Survival Guide](http://www.lonesurvivor.co.uk/LoneSurvivor-SurvivalGuide.pdf) (PDF)
+- [Magic The Gathering Notes](magic-the-gathering-notes.md)
 - [Minecraft notes](digital-and-analog-games/minecraft-notes.md)
 - [StarCraft 2 notes](digital-and-analog-games/starcraft2-notes.md)
 - [Gloomhaven notes](digital-and-analog-games/gloomhaven-notes.md)
 - [Pokemon TGC notes](digital-and-analog-games/pokemon-tcg-notes.md)
+- [Pokemon Game Notes](pokemon-rpg-notes.md/)
 - [X Com 2 notes](digital-and-analog-games/x-com-notes.md)
 - [The Witcher notes](digital-and-analog-games/the-witcher-notes.md)
 - [Warhammer 40K notes](digital-and-analog-games/warhammer-40k-notes.md)
+
+:orange_book: [LoneSurvivor Survival Guide](http://www.lonesurvivor.co.uk/LoneSurvivor-SurvivalGuide.pdf) (PDF)
 
 ## Play Games and Look at the Code
 

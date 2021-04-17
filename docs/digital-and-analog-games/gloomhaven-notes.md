@@ -1,4 +1,4 @@
-# Gloomhaven
+# :notebook: Gloomhaven Notes
 
 ## Links and Info
 

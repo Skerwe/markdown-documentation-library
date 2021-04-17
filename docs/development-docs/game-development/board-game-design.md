@@ -14,7 +14,7 @@
 
 1. [Start to Finish: Publish and Sell Your First Board Game](https://brandonthegamedev.com/start-to-finish-publish-and-sell-your-first-board-game/)
 
-### Rule Book Sections
+### Rule Book Design (required Section)
 
 - Introduiction
 - Objective
@@ -27,3 +27,4 @@
 ### Resources
 
 - [nanDECK](http://www.nand.it/nandeck/) -- designing cards for prototyping and playtesting
+- [Print & Play](https://www.printplaygames.com/)

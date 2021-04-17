@@ -1,4 +1,4 @@
-# StarCraft 2
+# StarCraft 2 Notes
 
 ## StarCraft News
 
