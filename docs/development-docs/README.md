@@ -29,3 +29,7 @@ And install tools for better programming.
 
 1. [VS Code](development-docs/ide-vscode.md)
 2. Atom
+
+## Other Development Notes
+
++ [Generate Ascii Text](ascii-notes.md)
