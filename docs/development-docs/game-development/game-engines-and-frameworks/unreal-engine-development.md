@@ -1,4 +1,4 @@
-# Unreal Engine Game Development
+# Unreal Engine Game Development Notes
 
 :link: [Unreal Engine](https://www.unrealengine.com/) | :book: [Documentation](https://docs.unrealengine.com/en-US/index.html)
 
@@ -25,12 +25,12 @@
 
 ### Key Bindings and Keyboard Shortcuts
 
-| Button | Description | Alt |
-|---|---|---|
-| `middle mouse button` | pan the view |   |
-| `left mouse button` | first person movement | `hold right mouse button + wasd` |
-| `right mouse button` | rotates around the center of the camera |   |
-| `alt + right mouse button` | zoom in and out | `mouse wheel` |
-| `f` | focus on selected object |   |
-| `Alt + drag with move tool` | duplicates the selected object |   |
-|   |   |   |
+| Button                      | Description                             | Alt                              |
+| --------------------------- | --------------------------------------- | -------------------------------- |
+| `middle mouse button`       | pan the view                            |                                  |
+| `left mouse button`         | first person movement                   | `hold right mouse button + wasd` |
+| `right mouse button`        | rotates around the center of the camera |                                  |
+| `alt + right mouse button`  | zoom in and out                         | `mouse wheel`                    |
+| `f`                         | focus on selected object                |                                  |
+| `Alt + drag with move tool` | duplicates the selected object          |                                  |
+|                             |                                         |                                  |

@@ -1,4 +1,4 @@
-# Godot Game Development
+# Godot Game Development Notes
 
 ## GDQuest
 

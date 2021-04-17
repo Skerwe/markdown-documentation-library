@@ -1,4 +1,4 @@
-# Unity Game Development
+# Unity Game Development Notes
 
 :link: [Manual](https://docs.unity3d.com/Manual/index.html)  
 :link: [Scripting API](https://docs.unity3d.com/ScriptReference/index.html)  

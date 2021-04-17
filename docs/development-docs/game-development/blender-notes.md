@@ -1,4 +1,4 @@
-# Blender
+# Blender Notes
 
 :link: [blender.org](https://www.blender.org/)
 
