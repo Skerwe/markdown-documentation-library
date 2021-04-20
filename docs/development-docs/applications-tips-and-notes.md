@@ -31,3 +31,14 @@ An intuitive and stylish markdown note app for developers.
 
 - [Codestyle.co](https://codestyle.co/)
 - [Google Style Guides](https://github.com/google/styleguide)
+
+
+## Other Tips and Tools
+
+### Regular Expressions (RegEx / RegExp)
+
+- [RegExr](https://regexr.com/)
+
+### Productivity
+
+- [Bullet Journal](https://bulletjournal.com/pages/learn)

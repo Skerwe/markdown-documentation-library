@@ -115,6 +115,7 @@ python -m pip install --upgrade pip
 1. [A Guide to Python’s Virtual Environments](https://towardsdatascience.com/virtual-environments-104c62d48c54)
 2. [Managing Dependencies in Python Applications](https://medium.com/@jimjh/managing-dependencies-in-python-applications-b9c93dda98c2)
 3. [Common Python Data Structures](https://realpython.com/python-data-structures/) (Guide)
+4. [How to make an awesome Python package](https://antonz.org/python-packaging/)
 
 ## Tools
 

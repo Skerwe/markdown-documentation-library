@@ -8,6 +8,7 @@
 
 1. [Learn Git with Bitbucket Cloud | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 2. [Git Handbook · GitHub Guides](https://guides.github.com/introduction/git-handbook/)
+3. [Oh My Git!](https://ohmygit.org/)
 
 ## Git Repository Files
 

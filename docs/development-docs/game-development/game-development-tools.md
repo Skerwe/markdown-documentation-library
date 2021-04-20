@@ -70,6 +70,7 @@
 - [Blockbench](https://blockbench.net/)
 - [Monster Mash](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)
 - [ArmorPaint](https://armorpaint.org/) -- 3D Painting Software
+- [KitBash3D](https://kitbash3d.com/)
 
 ## Physics
 
@@ -124,5 +125,7 @@
 - [The most powerful shader IDE](https://shadered.org/)
 - [Shader Playground](http://shader-playground.timjones.io/)
 - [The Game Design Tool](https://machinations.io/) (Machinations) | [YouTube](https://www.youtube.com/channel/UCnui50w5BC_P7pfrF0XwoKg)
-- [KitBash3D](https://kitbash3d.com/)
-- [Spritify](https://azhain.itch.io/spritify)
+
+## Game Server
+
+- [Nakama Open-Source](https://heroiclabs.com/nakama-opensource/index.html)
