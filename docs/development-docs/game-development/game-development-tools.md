@@ -48,6 +48,7 @@
 - [REAPER](http://reaper.fm/)
 - [FMOD](https://fmod.com/)
 - [Klio](https://github.com/spotify/klio) -- data pipelines for audio
+- [BeepBox](https://www.beepbox.co)
 
 ### Visual Effects and Animation
 
