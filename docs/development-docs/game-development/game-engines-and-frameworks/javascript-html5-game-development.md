@@ -13,7 +13,7 @@
 
 1. [Moai](https://moaiwebsite.github.io/) - minimalist game development engine
 2. [Phaser](phaser-game-development.md)
-3. [Quintus Engine](https://github.com/cykod/Quintus)
+3. [Quintus Engine](http://www.html5quintus.com/) | [GitHub](https://github.com/cykod/Quintus)
 4. [Cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
 5. [CraftyJS](http://craftyjs.com/) | [GitHub](https://github.com/craftyjs/Crafty)
 6. [Babylon.js](https://www.babylonjs.com/) (3D)
