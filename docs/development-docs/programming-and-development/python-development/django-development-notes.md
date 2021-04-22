@@ -8,6 +8,7 @@
 - [ModuleNotFoundError: No module named 'django.core.urlresolvers'](https://stackoverflow.com/questions/43139081/importerror-no-module-named-django-core-urlresolvers)
 - [AttributeError: module 'django.contrib.auth.views' has no attribute 'logout'](https://stackoverflow.com/a/51839169)
 - [Unknown command: 'syncdb'](https://stackoverflow.com/questions/28444614/django-manage-py-unknown-command-syncdb)
+- [ImportError: cannot import name 'patterns'](https://stackoverflow.com/a/59152383/10026310)
 
 ### Starting Django server Issue
 
