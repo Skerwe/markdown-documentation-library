@@ -38,6 +38,7 @@ An intuitive and stylish markdown note app for developers.
 ### Regular Expressions (RegEx / RegExp)
 
 - [RegExr](https://regexr.com/)
+- [Regular-Expressions.info](http://www.regular-expressions.info/)
 
 ### Productivity
 
