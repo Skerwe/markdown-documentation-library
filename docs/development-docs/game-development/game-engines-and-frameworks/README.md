@@ -11,7 +11,7 @@
 ## Game Engines
 
 1. [Construct 2 & 3](development-docs/game-development/game-engines-and-frameworks/construct-game-development.md)
-2. [Game Maker: Studio 1.4](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-1.md)
+2. [Game Maker: Studio 1.4](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-1-game-development.md)
 3. [Godot](https://godotengine.org/)
 4. [Stencyl](development-docs/game-development/game-engines-and-frameworks/stencyl-game-development.md)
 5. [Unity](development-docs/game-development/game-engines-and-frameworks/unity-game-development.md)
@@ -20,7 +20,7 @@
 8. [GDevelop](https://gdevelop-app.com/)
 9. [RPG Maker](https://www.rpgmakerweb.com/)
 10. [Lumberyard](https://aws.amazon.com/lumberyard/)
-11. [Game Maker](development-docs/game-development/game-engines-and-frameworks/game-maker-development.md)
+11. [GameMaker Studio 2](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-2-game-development.md)
 12. [Heaps.io](https://heaps.io/)
 13. [Armory Engine](https://armory3d.org/) (3D)
 14. [Stride / Xenko](development-docs/game-development/game-engines-and-frameworks/xenko-game-development.md) (2D + 3D)

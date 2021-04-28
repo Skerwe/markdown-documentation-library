@@ -38,6 +38,7 @@
 - [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents) | [Docs](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
 - ProGrids
 - ProBuilder
+- [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki
 
 ### Systems
 

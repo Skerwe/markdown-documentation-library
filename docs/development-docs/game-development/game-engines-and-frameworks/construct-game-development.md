@@ -1,4 +1,4 @@
-# Construct 2 & 3 Game development Notes
+# Construct 2 & 3 Game Development Notes
 
 :link: [scirra.com](https://www.scirra.com/)  
 :link: [Scirra Store](https://www.scirra.com/store)  
