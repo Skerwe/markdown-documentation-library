@@ -3,9 +3,13 @@
 :link: [appgamekit.com](https://www.appgamekit.com/)  
 :link: [thegamecreators.com](https://www.thegamecreators.com/)
 
-## Tutorials
+## Documentation and Tutorials
 
-1. [Learn to code with App Game Kit](https://www.youtube.com/playlist?list=PLlLxfPB9MrBtN8vFOZIUhotV9cs3VCV5Z)
+1. [App Game Kit Documentation Home Page](https://www.appgamekit.com/documentation/home.html)
+   1. [AppGameKit - Guide](https://www.appgamekit.com/documentation/guides.html)
+   2. [AppGameKit - Examples](https://www.appgamekit.com/documentation/examples.html)
+2. [AppGameKit - Tier2 Planetarium Tutorial](https://www.thegamecreators.com/post/appgamekit-tier2-planetarium-tutorial)
+3. [Learn to code with App Game Kit](https://www.youtube.com/playlist?list=PLlLxfPB9MrBtN8vFOZIUhotV9cs3VCV5Z)
 
 ### AppGameKit Classic Vewrsions
 
