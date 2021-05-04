@@ -18,6 +18,8 @@
 
 ## Learn Unity
 
+:link: [The Uninomicon](https://uninomicon.com/)
+
 ### Unity Tutorials
 
 1. [Explore Free Unity Game Tutorials](https://gamedevacademy.org/category/unity-tutorials/)

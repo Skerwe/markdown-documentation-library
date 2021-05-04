@@ -13,6 +13,7 @@
 ## Articles and Tips
 
 1. [Start to Finish: Publish and Sell Your First Board Game](https://brandonthegamedev.com/start-to-finish-publish-and-sell-your-first-board-game/)
+2. [An Intro to Diagonal and Orthogonal Movement on Exotic Grids Part 1](https://overboardblog.wordpress.com/2012/05/14/an-intro-to-diagonal-and-orthogonal-movement-on-exotic-grids-part-1/)
 
 ### Rule Book Design (required Section)
 
