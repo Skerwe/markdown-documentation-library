@@ -1,12 +1,12 @@
-# :bug: Computer Issues and Fixes
+# Computer Issues and Fixes
 
-## YES DC Text on Steam Games and Applications
+## :bug: YES DC Text on Steam Games and Applications
 
 :link: [NO DC / YES DC??? Mysterious Text That Suddenly Appeared At The Top Left Corner Of Some Applications](https://www.reddit.com/r/techsupport/comments/lr31f2/no_dc_yes_dc_mysterious_text_that_suddenly/)
 
 1. Navigate to `C:\ProgramData\NVIDIA Corporation\Drs` and deleting the file named *nvdrssel.bin*
 
-## Make Windows 10 Home Accept Long File Paths
+## :bug: Make Windows 10 Home Accept Long File Paths
 
 :link: [How To Fix ‘Filename Is Too Long’ Issue In Windows](https://helpdeskgeek.com/how-to/how-to-fix-filename-is-too-long-issue-in-windows/)
 
