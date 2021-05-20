@@ -126,6 +126,8 @@
 - [The most powerful shader IDE](https://shadered.org/)
 - [Shader Playground](http://shader-playground.timjones.io/)
 - [The Game Design Tool](https://machinations.io/) (Machinations) | [YouTube](https://www.youtube.com/channel/UCnui50w5BC_P7pfrF0XwoKg)
+- [Replica Studios](https://replicastudios.com/) -- AI voice actors
+- [Mixamo](https://www.mixamo.com/) -- Animate 3D characters
 
 ## Game Server
 

@@ -46,7 +46,6 @@
 - [Esenthel](https://www.esenthel.com/?id=info) | [GitHub](https://github.com/Esenthel/EsenthelEngine/)
 - [Gideros](http://giderosmobile.com/) | [GitHub](https://github.com/gideros/gideros) (Mobile) (Lua)
 - [Bitmelo](https://bitmelo.com/) | [GitHub](https://github.com/byersdz/bitmelo) (Good for Game Jams)
-- [Panda 3D](https://www.panda3d.org/)
 - [luxe](https://luxeengine.com/)
 - [FNA](https://fna-xna.github.io/) | [FNA Template](https://github.com/AndrewRussellNet/FNA-Template) (C#)
 - [NeoAxis Engine](https://www.neoaxis.com/)
@@ -62,6 +61,7 @@
 - [Falco Engine](https://falco3d.com/) (C#)
 - [Storm-Engine](https://github.com/storm-devs/storm-engine)
 - [SnaX](https://snaxgameengine.com/)
+- [Basque](https://github.com/ryanpcmcquen/basque) -- cross-platform top-down 2d game engine
 
 ### Real Time Strategy Game Engines
 

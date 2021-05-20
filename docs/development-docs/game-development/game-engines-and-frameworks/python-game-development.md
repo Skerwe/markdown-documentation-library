@@ -6,6 +6,9 @@
 
 1. [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html) | [GitHub](https://github.com/lordmauve/pgzero)
 2. [Pygame](https://www.pygame.org/)
+3. [pyglet](http://pyglet.org/)
+4. [The Python Arcade Library](https://arcade.academy/)
+5. [Panda 3D](https://www.panda3d.org/) (3D)
 
 ## :books: Creating Games with Python
 

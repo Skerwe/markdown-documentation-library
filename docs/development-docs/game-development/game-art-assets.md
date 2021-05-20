@@ -19,3 +19,4 @@
 ## Other
 
 1. [gamedeveloperstudio.com](https://www.gamedeveloperstudio.com/index.php)
+2. [Bitgem](https://shop.bitgem3d.com/) (3D Lowpoly)
