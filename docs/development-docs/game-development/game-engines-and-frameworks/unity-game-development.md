@@ -85,10 +85,10 @@
 
 ```folder
 Assets
-├──scenes
-├──scripts
-├──materials
-└──prefabs
+├──Scenes
+├──Scripts
+├──Materials
+└──Prefabs
 ```
 
 ### Debugging
@@ -108,6 +108,11 @@ Assets
 
 - [How to use Git with Unity!](https://www.youtube.com/watch?v=QGFK4OHA2zQ) (Unity Tutorial)
 - [How to use GitHub with Unity](https://www.youtube.com/watch?v=qpXxcvS-g3g) (Brackeys Tutorial)
+
+## Unity Tips
+
+1. [Become a better Unity developer with these tips from the community](https://blog.unity.com/technology/become-a-better-unity-developer-with-these-tips-from-the-community)
+2. [Impress your friends with these #unitytips from the community](https://blog.unity.com/technology/impress-your-friends-with-these-unitytips-from-the-community)
 
 ## :warning: Help
 
