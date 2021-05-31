@@ -62,6 +62,8 @@
 - [Storm-Engine](https://github.com/storm-devs/storm-engine)
 - [SnaX](https://snaxgameengine.com/)
 - [Basque](https://github.com/ryanpcmcquen/basque) -- cross-platform top-down 2d game engine
+- [MiniGDX](https://github.com/minigdx/minigdx) (Kothlin)
+- [mini2Dx](https://mini2dx.org/) (Java | Good for prototyping)
 
 ### Real Time Strategy Game Engines
 

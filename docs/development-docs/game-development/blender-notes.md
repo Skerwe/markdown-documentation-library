@@ -24,6 +24,7 @@
 
 - [Building generation tool](https://ranjian0.github.io/building_tool/) | [GitHub](https://github.com/ranjian0/building_tool)
 - [Blender 2 Godot](https://www.zammedev.com/home/wip_projects/blender2godot)
+- [Mixer](https://github.com/ubisoft/mixer) (real time collaboration)
 
 ## Using Blender
 
