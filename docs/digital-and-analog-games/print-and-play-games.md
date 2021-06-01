@@ -13,7 +13,7 @@
 
 - [Tiny Epic Kingdoms Heroes' Call](https://us6.campaign-archive.com/?u=234614537b61f2f319f7c66e2&id=37767fbd0e)
 
-## Constructing Plint and Play games
+## Constructing Print and Play games
 
 1. [Dining Table print & Play](http://diningtablepnp.com/) (video tutorials)
 2. [Origami Dice](https://boardgamegeek.com/thread/608070/origami-dice/page/1) | [Paper Color Dice]([https://worksheets.site/paper-color-dice.html)
