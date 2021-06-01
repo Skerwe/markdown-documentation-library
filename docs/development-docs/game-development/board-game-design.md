@@ -7,7 +7,7 @@
 ## Podcast and Discussions
 
 1. [Ludology](https://ludology.libsyn.com/)
-2. [Board Game Design Lab](https://www.boardgamedesignlab.com/bgdl-podcast/)
+2. [Board Game Design Lab](https://boardgamedesignlab.com/getting-started/)
 3. [Board Game University](http://boardgameuniversity.libsyn.com/)
 
 ## Articles and Tips
