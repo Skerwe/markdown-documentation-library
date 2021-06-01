@@ -38,8 +38,8 @@
 ### Components
 
 - [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents) | [Docs](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
-- ProGrids
-- ProBuilder
+- ProGrids (install from Package Manager?)
+- ProBuilder (install from Package Manager) | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
 - [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki
 
 ### Systems
