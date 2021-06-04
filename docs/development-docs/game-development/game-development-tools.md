@@ -49,6 +49,7 @@
 - [FMOD](https://fmod.com/)
 - [Klio](https://github.com/spotify/klio) -- data pipelines for audio
 - [BeepBox](https://www.beepbox.co)
+- [miniaudio](https://miniaud.io/) | [GitHub](https://github.com/mackron/miniaudio) | [Docs](https://miniaudio.docsforge.com/)
 
 ### Visual Effects and Animation
 

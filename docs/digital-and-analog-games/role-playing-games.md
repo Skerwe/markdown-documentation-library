@@ -19,6 +19,7 @@
 - [Basic Fantasy Role-Playing Game](https://www.basicfantasy.org/)
 - [Knave](https://questingbeast.itch.io/knave)
 - [Powered by the Apocalypse (PbtA)](http://apocalypse-world.com/)
+- [Open Adventure](https://geekguild.com/openadventure/) | [GitHub](https://github.com/openadventure/Open-Adventure)
 
 ## Tools
 
