@@ -57,6 +57,11 @@
 
 - [Unibeautify](development-docs/web-development/unibeautify.md)
 
+## Placeholder Content
+
+- [Placeholder.com](https://placeholder.com/)
+- [Lorem Ipsum](https://www.lipsum.com/)
+
 ## Style Guide
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)

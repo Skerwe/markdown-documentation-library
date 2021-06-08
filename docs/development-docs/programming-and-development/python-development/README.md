@@ -107,7 +107,7 @@ python -m pip install --upgrade pip
 
 ## Python Projects
 
-1. [Python Game Development Notes](development-docs/game-development/game-engines-and-frameworks/python-game-development.md)
+1. :notebook_with_decorative_cover: [Python Game Development Notes](development-docs/game-development/game-engines-and-frameworks/python-game-development.md)
 2. [PyBoy](https://github.com/Baekalfen/PyBoy) Game Boy emulation
 
 ## Interesting Blog Posts
