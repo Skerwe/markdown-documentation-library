@@ -32,6 +32,11 @@ pipenv install packages_name --dev
 pipenv lock
 ```
 
+```shell
+pip freeze --local > requirements.txt
+pip install -r requirements.txt
+```
+
 #### 4. Install using the lock file
 
 For production dependencies:

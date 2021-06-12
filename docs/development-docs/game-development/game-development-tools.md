@@ -50,6 +50,7 @@
 - [Klio](https://github.com/spotify/klio) -- data pipelines for audio
 - [BeepBox](https://www.beepbox.co)
 - [miniaudio](https://miniaud.io/) | [GitHub](https://github.com/mackron/miniaudio) | [Docs](https://miniaudio.docsforge.com/)
+- [FFmpeg](https://www.ffmpeg.org/) -- convert and stream audio and video
 
 ### Visual Effects and Animation
 
@@ -60,6 +61,8 @@
 - [DeepMotion](https://deepmotion.com/) (Real-Time Body Tracking)
 - [Dem Bones](https://github.com/electronicarts/dem-bones)
 - [Bitmapflow](https://bauxite.itch.io/bitmapflow) (Inbetweening)
+- [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
+- [Laigter](https://azagaya.itch.io/laigter)
 
 ### 3D Models
 
@@ -73,6 +76,13 @@
 - [Monster Mash](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)
 - [ArmorPaint](https://armorpaint.org/) -- 3D Painting Software
 - [KitBash3D](https://kitbash3d.com/)
+
+#### Universal Scene Description (USD)
+
+- [Introduction to USD](https://graphics.pixar.com/usd/docs/index.html)
+- [Universal Scene Description](https://github.com/PixarAnimationStudios/USD) -- Source
+- [USD at NVIDIA](https://developer.nvidia.com/usd) -- Binary
+- [Activision USD Shell Extension](https://github.com/Activision/USDShellExtension)
 
 ## Physics
 
