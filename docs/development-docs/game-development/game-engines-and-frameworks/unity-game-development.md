@@ -35,11 +35,14 @@
 
 ## Unity Tools
 
+:link: [Open Source Unity Package Registry](https://openupm.com/)
+
 ### Components
 
-- [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents) | [Docs](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
-- ProGrids (install from Package Manager?)
-- ProBuilder (install from Package Manager) | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
+- [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents) | [Manual](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
+- ProGrids | [Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)
+- ProBuilder | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
+- TextMeshPro| [Manual](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html)
 - [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki
 
 ### Systems
