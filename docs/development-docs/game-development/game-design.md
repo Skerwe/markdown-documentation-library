@@ -1,6 +1,7 @@
 # Game Design Notes
 
 1. [The Curriculum](https://www.riotgames.com/en/urf-academy/the-curriculum) by RiotGames
+2. [Learn to Design Video Games with GameDesigning.org](https://www.gamedesigning.org/)
 
 ## Resources, Articles and Tips
 
