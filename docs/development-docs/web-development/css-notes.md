@@ -27,6 +27,8 @@
 ## Animation
 
 - [AnimXYZ](https://animxyz.com/)
+- [Hover.css](http://ianlunn.github.io/Hover/)
+- [Animate.css](https://animate.style/)
 
 ## Designs
 
