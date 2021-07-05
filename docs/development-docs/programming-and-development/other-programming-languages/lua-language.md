@@ -7,6 +7,11 @@
 
 - [ZeroBrane Studio](https://studio.zerobrane.com/) (lightweight Lua IDE)
 
+## Scripting
+
+- [MoonScript](http://moonscript.org/)
+- [Lapis](https://github.com/leafo/lapis)
+
 ## Game Development with Lua
 
 1. [Love Game Development Notes](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)

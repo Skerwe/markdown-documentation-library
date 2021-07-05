@@ -2,6 +2,17 @@
 
 :link: [An HTML5 Logo](https://www.w3.org/html/logo/)
 
+## Learn
+
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+- [Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)
+
+## HTML5 Site Templates
+
+1. [HTML5 Up](https://html5up.net/)
+2. [Templated](https://templated.co/)
+3. [Jekyll Themes](http://jekyllthemes.org/)
+
 ## Search Optimisation
 
 - [JSON for Linking Data](https://json-ld.org/)

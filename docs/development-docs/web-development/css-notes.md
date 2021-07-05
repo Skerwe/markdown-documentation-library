@@ -5,6 +5,8 @@
 ## CSS Layouts
 
 1. [1-Line Layouts](https://1linelayouts.glitch.me/)
+2. [CSS Grid](https://cssreference.io/css-grid/) | [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+3. [Flexbox](https://cssreference.io/flexbox/) | [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Flexible Box Layoutlex
 
@@ -30,6 +32,24 @@
 - [Hover.css](http://ianlunn.github.io/Hover/)
 - [Animate.css](https://animate.style/)
 
-## Designs
+## CSS Frameworks
+
+### Material
 
 - [Material Design](https://material.io/)
+- [Materialize](https://materializecss.com/)
+
+### Bootstrap
+
+- [Start Bootstrap](https://startbootstrap.com/)
+
+### Other
+
+- [Toast](https://daneden.github.io/Toast/)
+- [Typography.js](https://kyleamathews.github.io/typography.js/)
+
+## CSS Preprocessors
+
+1. [Less](http://lesscss.org/)
+2. [Sass](https://sass-lang.com/)
+3. [Stylus](http://stylus-lang.com/)

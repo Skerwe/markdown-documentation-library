@@ -1,12 +1,16 @@
 # Game Engines and Frameworks
 
+## Game Programming Languages
+
+1. [JavaScript and HTML5 Game Development](development-docs/game-development/game-programming-languages/javascript-html5-game-development.md)
+2. [Java Game Development Notes](development-docs/game-development/game-programming-languages/java-game-development-notes.md)
+
 ## Game Frameworks
 
 1. [Haxe/OpenFL/HaxeFlixel](development-docs/game-development/game-engines-and-frameworks/haxe-flixel-game-development.md)
-2. [JavaScript and HTML5 Game Development](development-docs/game-development/game-engines-and-frameworks/javascript-html5-game-development.md)
-3. [Duality](https://www.duality2d.net/) | [GitHub](https://github.com/AdamsLair/duality)
-4. [Orx](https://orx-project.org/) | [GitHub](https://github.com/orx/orx)
-5. [LÖVE](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)
+2. [Duality](https://www.duality2d.net/) | [GitHub](https://github.com/AdamsLair/duality)
+3. [Orx](https://orx-project.org/) | [GitHub](https://github.com/orx/orx)
+4. [LÖVE](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)
 
 ## Game Engines
 
