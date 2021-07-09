@@ -26,6 +26,10 @@
 - [Blender 2 Godot](https://www.zammedev.com/home/wip_projects/blender2godot)
 - [Mixer](https://github.com/ubisoft/mixer) (real time collaboration)
 
+## Learning Blender
+
+- [Grant Abbitt](https://www.gabbitt.co.uk/videos)
+
 ## Using Blender
 
 ### Key Bindings and Keyboard Shortcuts
