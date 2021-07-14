@@ -26,7 +26,7 @@
 1. [Tile Studio](http://tilestudio.sourceforge.net/) | [Tile Studio II](https://www.wieringsoftware.com/ts2/)
 2. [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) | [itch](https://deepnight.itch.io/ldtk)
 3. [Mappy Editor](http://tilemap.co.uk/mappy.php)
-4. [Tiled](https://www.mapeditor.org/)
+4. [Tiled](https://www.mapeditor.org/) | [Documentation](https://doc.mapeditor.org/en/stable/)
 5. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
 6. [Crocotile 3D](http://www.crocotile3d.com/)
 
