@@ -56,6 +56,7 @@
 
 - [Natron](https://natrongithub.github.io/) (VFX and Motion)
 - [Enve](https://maurycyliebner.github.io/) (2D Animation)
+- [Rive](https://rive.app/)
 - [Cascadeur](https://cascadeur.com/) (3D physics-based character animation software)
 - [Radical](https://getrad.co/) (AI-powered 3D motion animation)
 - [DeepMotion](https://deepmotion.com/) (Real-Time Body Tracking)
@@ -63,6 +64,12 @@
 - [Bitmapflow](https://bauxite.itch.io/bitmapflow) (Inbetweening)
 - [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
 - [Laigter](https://azagaya.itch.io/laigter)
+
+### 2D Game Animation
+
+- [Spine](http://esotericsoftware.com/)
+- [Spriter](https://brashmonkey.com/)
+- [DragonBones](http://dragonbones.com/en/index.html)
 
 ### 3D Models
 

@@ -12,4 +12,5 @@
 
 ## Gloomhaven: Scenarios
 
-- [](https://rpggeek.com/wiki/page/thing:174430:Scenarios)
+- [Gloomhaven: Scenarios](https://rpggeek.com/wiki/page/thing:174430:Scenarios)
+- [Creating your own Gloomhaven scenarios](https://boardgamegeek.com/thread/1430857/submissions-fan-made-scenarios-are-open)
