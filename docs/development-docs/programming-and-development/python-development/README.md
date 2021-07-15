@@ -63,9 +63,9 @@ python -m pip install --upgrade pip
 :link: [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)  
 :link: [Pipenv & Virtual Environments](https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html)
 
-1. [venv](development-docs/python-development/venv.md)
-2. [Virtualenv](development-docs/python-development/virtualenv.md)
-3. [Pipenv](development-docs/python-development/pipenv.md)
+1. [venv](development-docs/programming-and-development/python-development/venv.md)
+2. [Virtualenv](development-docs/programming-and-development/python-development/virtualenv.md)
+3. [Pipenv](development-docs/programming-and-development/python-development/pipenv.md)
 4. [Poetry](https://python-poetry.org/)
 5. [PDM](https://pdm.fming.dev/)
 
