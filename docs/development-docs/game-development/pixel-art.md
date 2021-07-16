@@ -26,4 +26,5 @@
 ## Pixel Art Tools
 
 1. [Aseprite](https://www.aseprite.org/) | [GitHub](https://github.com/aseprite/aseprite)
-2. [Slate](https://github.com/mitchcurtis/slate)
+2. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
+3. [Slate](https://github.com/mitchcurtis/slate)
