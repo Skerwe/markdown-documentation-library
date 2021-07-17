@@ -5,7 +5,8 @@
 
 ## Pyhton Development
 
-:closed_book: [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
+:closed_book: [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)  
+:closed_book: [Python documentation](https://docs.python.org/3/)
 
 ### Python in VSCode
 
@@ -74,7 +75,7 @@ python -m pip install --upgrade pip
 - [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
 - [Python testing style guide](https://blog.thea.codes/my-python-testing-style-guide/)
 
-## Folder Structure
+### Folder Structure
 
 - [Python Application Layouts: A Reference](https://realpython.com/python-application-layouts/)
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/)
@@ -84,16 +85,30 @@ python -m pip install --upgrade pip
 1. [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io/)
 2. Packaging Python projects with [Setuptools](https://setuptools.readthedocs.io/en/latest/)
 
+### Simple HTTP Server with Python
+
+[How do you set up a local testing server? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
+
+Python 2:  
+`python -m SimpleHTTPServer 8000`
+
+Python 3:  
+`python -m http.server 8000`
+
 ## Learning Python
 
 :books: [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)  
 :books: [Python String Manipulation Handbook](https://www.freecodecamp.org/news/python-string-manipulation-handbook/)
 
 1. [Real Python](https://realpython.com/)
-2. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-3. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
-4. [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) (Youtube)
-5. [Python Koans](https://github.com/gregmalcolm/python_koans)
+2. [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
+3. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+4. [Intermediate Python Tips](https://book.pythontips.com/en/latest/index.html)
+5. [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) (Youtube)
+6. [Python Koans](https://github.com/gregmalcolm/python_koans)
+7. [Python Intro](http://bennuttall.github.io/python-intro/)
+8. [Python 101](https://python101.pythonlibrary.org/)
+9. [Python 102](https://python-102.readthedocs.io/en/latest)
 
 ### Turtle
 

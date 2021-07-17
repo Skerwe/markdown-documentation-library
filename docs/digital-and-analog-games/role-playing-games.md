@@ -10,16 +10,16 @@
 ## RPG Games
 
 - [Mausritter](https://losing-games.itch.io/mausritter)
-- [Tunnel Goons](https://natetreme.itch.io/tunnelgoons)
 - [Dungeons & Dragons](digital-and-analog-games/dungeons-dragons-notes.md)
 - [Dungeon World](https://dungeon-world.com/)
+- [Basic Fantasy Role-Playing Game](https://www.basicfantasy.org/)
+- [TROIKA!](https://www.troikarpg.com/)
+- [Open Adventure](https://geekguild.com/openadventure/) | [GitHub](https://github.com/openadventure/Open-Adventure)
 
 ## RPG Systems
 
-- [Basic Fantasy Role-Playing Game](https://www.basicfantasy.org/)
 - [Knave](https://questingbeast.itch.io/knave)
 - [Powered by the Apocalypse (PbtA)](http://apocalypse-world.com/)
-- [Open Adventure](https://geekguild.com/openadventure/) | [GitHub](https://github.com/openadventure/Open-Adventure)
 
 ## Tools
 
