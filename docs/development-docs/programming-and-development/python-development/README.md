@@ -5,8 +5,8 @@
 
 ## Pyhton Development
 
-:closed_book: [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)  
-:closed_book: [Python documentation](https://docs.python.org/3/)
+- :closed_book: [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
+- :closed_book: [Python documentation](https://docs.python.org/3/)
 
 ### Python in VSCode
 

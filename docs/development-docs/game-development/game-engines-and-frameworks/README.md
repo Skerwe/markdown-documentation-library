@@ -68,6 +68,7 @@
 - [Basque](https://github.com/ryanpcmcquen/basque) -- cross-platform top-down 2d game engine
 - [MiniGDX](https://github.com/minigdx/minigdx) (Kothlin)
 - [mini2Dx](https://mini2dx.org/) (Java | Good for prototyping)
+- [Open 3D Engine](https://o3de.org/)
 
 ### Real Time Strategy Game Engines
 

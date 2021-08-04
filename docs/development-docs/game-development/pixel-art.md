@@ -28,3 +28,4 @@
 1. [Aseprite](https://www.aseprite.org/) | [GitHub](https://github.com/aseprite/aseprite)
 2. [Pixelorama](https://orama-interactive.itch.io/pixelorama)
 3. [Slate](https://github.com/mitchcurtis/slate)
+4. [LibreSprite](https://libresprite.github.io/)

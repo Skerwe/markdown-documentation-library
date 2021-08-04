@@ -30,7 +30,7 @@
 5. [Sprytile](https://chemikhazi.itch.io/sprytile) | [With Blender 2.80](https://itch.io/post/1034106)
 6. [Crocotile 3D](http://www.crocotile3d.com/)
 
-### Materials and Textures
+### Materials and Textures Tools
 
 - [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) is a stand alone tool for creating materials
 - [Material Maker](https://rodzilla.itch.io/material-maker)
@@ -38,7 +38,7 @@
 - [TextureLab](https://njbrown.itch.io/texturelab)
 - [Imogen](https://github.com/CedricGuillemet/Imogen)
 
-### Music and Sounds
+### Music and Sounds Tools
 
 - [Audacity](https://www.audacityteam.org/)
 - [Bosca Ceoil](https://boscaceoil.net/)
@@ -51,6 +51,11 @@
 - [BeepBox](https://www.beepbox.co)
 - [miniaudio](https://miniaud.io/) | [GitHub](https://github.com/mackron/miniaudio) | [Docs](https://miniaudio.docsforge.com/)
 - [FFmpeg](https://www.ffmpeg.org/) -- convert and stream audio and video
+
+### Alternative Music and Sound Tools
+
+- [LabChirp](https://labbed.itch.io/labchirp)
+- [ChipTone](https://sfbgames.itch.io/chiptone)
 
 ### Visual Effects and Animation
 
