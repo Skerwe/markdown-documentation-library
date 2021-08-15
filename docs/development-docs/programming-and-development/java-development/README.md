@@ -2,6 +2,10 @@
 
 :link: [AdoptOpenJDK](https://adoptopenjdk.net/)
 
+:notebook_with_decorative_cover: [Java Development Notes](development-docs/programming-and-development/java-development/java-development-notes.md)
+
+:notebook_with_decorative_cover: [Java Desktop Application Development Notes](development-docs/programming-and-development/java-development/desktop-application-development-notes.md)
+
 ## Style Guides
 
 1. [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -31,32 +35,3 @@ Create a new Gradle project in interactive mode
 
 :link: [ant.apache.org](http://ant.apache.org/)  
 :link: [ant.apache.org/ivy](https://ant.apache.org/ivy/)
-
-
-## Libraries
-
-- [Guava](https://guava.dev/) | [GitHub](https://github.com/google/guava)
-- [Lombok](https://projectlombok.org/)
-
-## Tools
-
-### Monitoring JVM Performance
-
-- [jps](https://docs.oracle.com/javase/7/docs/technotes/tools/share/jps.html)
-- [Java VisualVM](https://visualvm.github.io/index.html) | [Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/)
-
-### Static Code Analyzers
-
-- [PMD](https://pmd.github.io/)
-
-### Test Code Coverage
-
-- [Cobertura](https://cobertura.github.io/cobertura/)
-- [JaCoCo](https://www.eclemma.org/jacoco/)
-
-### Application Frameworks
-
-- [Griffon Framework](http://griffon-framework.org/) - desktop application development platform for the JVM
-- [Grails](https://grails.org/) - A powerful Groovy-based web application framework for the JVM built on top of Spring Boot
-- [GraalVM](https://www.graalvm.org/) - Run Programs Faster Anywhere
-- [Lanterna](https://github.com/mabe02/lanterna) - semi-graphical user interfaces in a text-only environment
