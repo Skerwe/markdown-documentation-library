@@ -15,7 +15,8 @@
 ## Game Development with Lua
 
 1. [Love Game Development Notes](development-docs/game-development/game-engines-and-frameworks/love2d-game-development.md)
-2. [Amulet](http://www.amulet.xyz/)
+2. [LÖVR](https://lovr.org/)
+3. [Amulet](http://www.amulet.xyz/)
 
 ### Windows
 
