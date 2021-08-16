@@ -1,7 +1,5 @@
 # Role Playing Games (RPG)
 
-:link: [Rolled&Told](https://www.rolledandtold.com/)
-
 ## RPG for Kids
 
 - [Amazing Tales](https://amazing-tales.net/)
@@ -15,6 +13,7 @@
 - [Basic Fantasy Role-Playing Game](https://www.basicfantasy.org/)
 - [TROIKA!](https://www.troikarpg.com/)
 - [Open Adventure](https://geekguild.com/openadventure/) | [GitHub](https://github.com/openadventure/Open-Adventure)
+- [Rolled&Told](https://www.rolledandtold.com/) (D5)
 
 ## RPG Systems
 
@@ -35,7 +34,9 @@
 ### Hosting Online RPG
 
 - [Owlbear Rodeo](https://www.owlbear.rodeo/)
+- [Tabletop Wizard](https://www.rpgtablefinder.com/)
+- [Foundry Virtual Tabletop](https://foundryvtt.com/)
 
 ### Other Tools (Dice, Tokens)
 
-- [RollAdvantage](http://rolladvantage.com/)
+- [RollAdvantage](http://rolladvantage.com/) -- Token stamp / dice roller tools

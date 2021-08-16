@@ -1,6 +1,7 @@
 # Print And Play Games
 
-:link: [PNPArcade](https://www.pnparcade.com/)
+:link: [PNPArcade](https://www.pnparcade.com/)  
+:link: [Print 'n Play Crafting Aggregator](http://pnp.peidev.com/)
 
 ## Card Games
 
