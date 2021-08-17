@@ -8,7 +8,7 @@
 ## RPG Games
 
 - [Mausritter](https://losing-games.itch.io/mausritter)
-- [Dungeons & Dragons](digital-and-analog-games/dungeons-dragons-notes.md)
+- [Dungeons & Dragons](digital-and-analog-game-docs/dungeons-dragons-notes.md)
 - [Dungeon World](https://dungeon-world.com/)
 - [Basic Fantasy Role-Playing Game](https://www.basicfantasy.org/)
 - [TROIKA!](https://www.troikarpg.com/)
