@@ -1,11 +1,11 @@
 # Fine Art Notes
 
-1. :notebook_with_decorative_cover: [Digital Painting Notes](fine-arts-docs/digital-painting.md)
-2. :notebook_with_decorative_cover: [Figuary](fine-arts-docs/figuary.md)
+1. :notebook_with_decorative_cover: [Digital Painting Notes](fine-art-docs/digital-painting.md)
+2. :notebook_with_decorative_cover: [Figuary](fine-art-docs/figuary.md)
 
 ## Art Medium Notes
 
-- [Oil Painting Notes](fine-arts-docs/oil-painting-notes.md)
+- [Oil Painting Notes](fine-art-docs/oil-painting-notes.md)
 
 ## Free Stock Images
 
