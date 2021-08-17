@@ -19,4 +19,4 @@
 ## Free Games
 
 - [Epicinium](https://epicinium.nl/)
-- [Doomsday Lost Echoes](https://doomsdayproductions.org/)  (DDLE)
+- [Doomsday Lost Echoes](https://doomsdayproductions.org/) (DDLE)
