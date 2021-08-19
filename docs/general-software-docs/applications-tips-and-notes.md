@@ -13,6 +13,10 @@ AutoIt v3 is a freeware BASIC-like scripting language designed for automating th
 - [AutoIt Script](https://www.autoitscript.com/site/)
 - [KODA FormDesigner](http://koda.darkhost.ru/page.php?id=index)
 
+## Making Notes
+
+- [Notepad2](https://www.flos-freeware.ch/notepad2.html)
+
 ## Boost Note
 
 An intuitive and stylish markdown note app for developers.

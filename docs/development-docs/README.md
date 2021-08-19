@@ -12,7 +12,6 @@
 + :notebook_with_decorative_cover: [Markdown Notes](development-docs/markdown-notes.md)
 + :notebook_with_decorative_cover: [Open Source Notes](development-docs/open-source-notes.md)
 + :notebook_with_decorative_cover: [Git Source Control Notes](development-docs/git-notes.md)
-+ :notebook_with_decorative_cover: [Applications Tips and Notes](development-docs/applications-tips-and-notes.md)
 
 ## Package Managers
 
