@@ -69,6 +69,7 @@
 - [MiniGDX](https://github.com/minigdx/minigdx) (Kothlin)
 - [mini2Dx](https://mini2dx.org/) (Java | Good for prototyping)
 - [Open 3D Engine](https://o3de.org/)
+- [PlayCanvas](https://playcanvas.com/) | [GitHub](https://github.com/playcanvas/engine) (HTML5 and WebGL)
 
 ### Real Time Strategy Game Engines
 
