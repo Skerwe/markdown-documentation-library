@@ -9,6 +9,7 @@
 
 1. [DosBox](https://www.dosbox.com/)
 2. [ScummVM](https://www.scummvm.org/)
+3. [Eclipse](https://eclipseemu.me/)
 
 ## Game Codes, Help and Tools
 
