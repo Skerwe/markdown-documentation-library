@@ -20,3 +20,11 @@
 
 - [Epicinium](https://epicinium.nl/)
 - [Doomsday Lost Echoes](https://doomsdayproductions.org/) (DDLE)
+- [GeneRally](https://gene-rally.com/)
+
+### Roguelike Games
+
+- [Angband](https://rephial.org/)
+- [NetHack](https://www.nethack.org/)
+- [SLASH'EM](http://www.slashem.org/)
+- [Dungeon Crawl Stone Soup](https://crawl.develz.org/)
