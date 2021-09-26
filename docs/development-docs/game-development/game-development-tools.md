@@ -14,6 +14,10 @@
 - [FLECS](https://github.com/SanderMertens/flecs) (c++)
 - [EnTT](https://github.com/skypjack/entt) (c++)
 
+### Serialization Tools
+
+- [Bebop](https://bebop.sh/)
+
 ### Spritesheets Tools
 
 1. [Free Texture Packer](http://free-tex-packer.com/)
@@ -21,7 +25,7 @@
 3. [TexturePacker](https://www.codeandweb.com/texturepacker)
 4. [ShoeBox](http://renderhjs.net/shoebox/)
 
-## Tilemap Editor Tools
+### Tilemap Editor Tools
 
 1. [Tile Studio](http://tilestudio.sourceforge.net/) | [Tile Studio II](https://www.wieringsoftware.com/ts2/)
 2. [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) | [itch](https://deepnight.itch.io/ldtk)
@@ -76,7 +80,12 @@
 - [Spriter](https://brashmonkey.com/)
 - [DragonBones](http://dragonbones.com/en/index.html)
 
-### 3D Models
+### 3D Modelling Tools
+
+1. [Blender](development-docs/game-development/blender-notes.md)
+2. [Anim8or](https://www.anim8or.com/)
+
+#### Other 3D Modelling Tools
 
 - [Tree It](https://www.evolved-software.com/treeit/treeit) a 3D tree generator
 - [Dust3D](https://dust3d.org/)
@@ -96,26 +105,34 @@
 - [USD at NVIDIA](https://developer.nvidia.com/usd) -- Binary
 - [Activision USD Shell Extension](https://github.com/Activision/USDShellExtension)
 
-## Physics
+### Physics
 
 - [Bullet Physics SDK](https://pybullet.org/wordpress/) | [GitHub](https://github.com/bulletphysics/bullet3)
 - [Box2D](https://box2d.org/)
 
-## Video Editing Software
+### Video Editing Software
 
 - [OBS Studio](https://obsproject.com/) - Record gameplay videos
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
-## Graphics Programms
+### Graphics Programms
 
 1. [GIMP](https://www.gimp.org/)
 2. [Inkscape](https://inkscape.org/)
-3. [Blender](development-docs/game-development/blender-notes.md)
-4. [Krita](https://krita.org/en/)
-5. [Hexels](https://marmoset.co/hexels/)
-6. [MagicaVoxel](https://ephtracy.github.io/)
-7. [Pyxel Edit](https://pyxeledit.com/index.php)
-8. [Pro Motion](https://www.cosmigo.com/)
+3. [Krita](https://krita.org/en/)
+4. [Hexels](https://marmoset.co/hexels/)
+5. [MagicaVoxel](https://ephtracy.github.io/)
+6. [Pyxel Edit](https://pyxeledit.com/index.php)
+7. [Pro Motion](https://www.cosmigo.com/)
+
+### User Interfaces Tools
+
+- [Dear ImGui](https://github.com/ocornut/imgui)
+
+### Dialog Tools (Narrative Design Tools)
+
+- [Arrow](https://github.com/mhgolkar/Arrow)
+- [Yarn Spinner](https://yarnspinner.dev/)
 
 ## Marketing Tools
 
@@ -127,22 +144,13 @@
 1. [HacknPlan](https://hacknplan.com/)
 2. [Milanote](https://milanote.com/)
 
-## User Interfaces Tools
-
-- [Dear ImGui](https://github.com/ocornut/imgui)
-
-## Dialog Tools (Narrative Design Tools)
-
-- [Arrow](https://github.com/mhgolkar/Arrow)
-- [Yarn Spinner](https://yarnspinner.dev/)
-
 ## World Building Tools
 
 - [Ikarus](https://ikarus.world/)
 
-## Serialization Tools
+## Game Server
 
-- [Bebop](https://bebop.sh/)
+- [Nakama Open-Source](https://heroiclabs.com/nakama-opensource/index.html)
 
 ## Miscellaneous Programms and Tools
 
@@ -151,7 +159,3 @@
 - [The Game Design Tool](https://machinations.io/) (Machinations) | [YouTube](https://www.youtube.com/channel/UCnui50w5BC_P7pfrF0XwoKg)
 - [Replica Studios](https://replicastudios.com/) -- AI voice actors
 - [Mixamo](https://www.mixamo.com/) -- Animate 3D characters
-
-## Game Server
-
-- [Nakama Open-Source](https://heroiclabs.com/nakama-opensource/index.html)
