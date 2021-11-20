@@ -31,4 +31,4 @@ And install tools for better programming.
 
 ## Other Development Notes
 
-+ [Generate Ascii Text](ascii-notes.md)
++ [Generate Ascii Text](development-docs/ascii-notes.md)
