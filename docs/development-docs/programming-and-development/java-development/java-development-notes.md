@@ -23,7 +23,7 @@
 - [jps](https://docs.oracle.com/javase/7/docs/technotes/tools/share/jps.html)
 - [Java VisualVM](https://visualvm.github.io/index.html) | [Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/)
 
-### Static Code Analyzers and Code Quality
+### Static Code Analyzers and Code Qualityz
 
 - [PMD](https://pmd.github.io/)
 - [The Checker Framework](https://checkerframework.org/)
