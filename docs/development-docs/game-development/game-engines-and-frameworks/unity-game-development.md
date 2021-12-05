@@ -16,6 +16,11 @@
 2. [Open Projects: The Journey - Ep. 2](https://www.youtube.com/watch?v=ukE73ifSrTM)
 3. [Open Projects: The Journey - Ep. 3](https://www.youtube.com/watch?v=0lhLLnKitSI)
 
+## Templates
+
+1. Thomas Brush platformer starter kit (2D Game Kit) | [GitHub](https://github.com/atmosgames/SuperSimple2DKit)
+2. GameDev.tv's [Game Jam Kit](https://offer.gamedev.tv/jam-starter-kit/)
+
 ## Learn Unity
 
 :link: [The Uninomicon](https://uninomicon.com/)
