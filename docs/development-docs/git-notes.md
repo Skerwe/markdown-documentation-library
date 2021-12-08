@@ -14,6 +14,7 @@
 
 + [A collection of useful _.gitignore_ templates](https://github.com/github/gitignore/)
 + [A collection of useful _.gitattributes_ templates](https://github.com/alexkaratarakis/gitattributes)
++ [A gitattributes generator](https://www.richie-bendall.ml/gitattributes-generator/)
 
 ## Resources
 

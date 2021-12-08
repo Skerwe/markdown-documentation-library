@@ -1,6 +1,6 @@
 # Web Development
 
-:link: [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
+:link: [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Web Fundamentals
 
