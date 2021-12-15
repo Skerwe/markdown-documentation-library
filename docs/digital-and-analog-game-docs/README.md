@@ -11,6 +11,10 @@
 2. [ScummVM](https://www.scummvm.org/)
 3. [Eclipse](https://eclipseemu.me/)
 
+## Steam
+
+- [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager)
+
 ## Game Codes, Help and Tools
 
 - [Samrost 2 notes](digital-and-analog-game-docs/samrost2-notes.md)
