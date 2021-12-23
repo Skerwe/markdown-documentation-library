@@ -5,6 +5,7 @@
 - [Legacy GameMaker](https://help.yoyogames.com/hc/en-us/categories/202590188-Legacy-GameMaker) - YoYo Games
 - [Requirements For Building and Running Your Games](https://help.yoyogames.com/hc/en-us/articles/216753748-GM-S-1-4-Required-SDKs)
 - [Source Control Management](https://docs.yoyogames.com/source/dadiospice/001_advanced%20use/source%20control/index.html)
+- [GameMaker: Studio user manual](http://docs.yoyogames.com/source/dadiospice/)
 
 ## Tutorials
 
