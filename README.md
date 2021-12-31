@@ -1,8 +1,19 @@
 # Markdown Documentation Library (MDL)
 
+```text
+  _____           _           _     __  __ _____  _
+ |  __ \         (_)         | |   |  \/  |  __ \| |
+ | |__) | __ ___  _  ___  ___| |_  | \  / | |  | | |
+ |  ___/ '__/ _ \| |/ _ \/ __| __| | |\/| | |  | | |
+ | |   | | | (_) | |  __/ (__| |_  | |  | | |__| | |____
+ |_|   |_|  \___/| |\___|\___|\__| |_|  |_|_____/|______|
+                _/ |
+               |__/
+```
+
 ![Node.js CI][github-ci-url] [![DevDependency Status][daviddm-image]][daviddm-url] [![Known Vulnerabilities][snyk-image]][snyk-url]
 
-Notes and links documented in markdown format.
+> Software development notes and links documented in markdown format.
 
 ## Getting Started
 

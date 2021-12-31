@@ -10,5 +10,5 @@ All my software development notes and links, documented in markdown format.
     - :file_folder: [Game Development](development-docs/game-development/)
     - :file_folder: [Web Development](development-docs/web-development/)
 2. :file_folder: [Digital and Analog Games](digital-and-analog-game-docs/)
-3. :file_folder: [General Software Notes](general-software-docs)
+3. :file_folder: [General Software Notes](general-software-docs/)
 4. :file_folder: [Fine Arts](fine-art-docs/)
