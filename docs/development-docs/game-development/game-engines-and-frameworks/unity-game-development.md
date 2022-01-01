@@ -49,6 +49,7 @@
 - ProBuilder | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
 - TextMeshPro| [Manual](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html)
 - [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki
+- [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
 
 ### Systems
 
