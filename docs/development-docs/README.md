@@ -32,3 +32,4 @@ And install tools for better programming.
 ## Other Development Notes
 
 + [Generate Ascii Text](development-docs/ascii-notes.md)
++ [asciinema](https://asciinema.org/) -- recording terminal sessions
