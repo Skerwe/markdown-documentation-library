@@ -100,6 +100,8 @@ Assets
 └──Prefabs
 ```
 
+- [Unity Architecture for Noobs - Game Structure](https://www.youtube.com/watch?v=tE1qH8OxO2Y)
+
 ### Debugging
 
 :link: [Unity Debugger Extension for Visual Studio Code](https://github.com/Unity-Technologies/vscode-unity-debug)
