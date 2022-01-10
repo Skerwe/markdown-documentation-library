@@ -31,6 +31,7 @@
 2. [Brackeys](https://brackeys.com/) | [DevAssets](https://devassets.com/) Store
 3. [Jason Weimann](https://www.youtube.com/c/Unity3dCollege) | [Unity3D College](https://unity3d.college/)
 4. [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity) | [unitycodemonkey.com](https://unitycodemonkey.com/)
+5. [Improving Game Visuals with Unity’s HDRP](https://www.raywenderlich.com/22599905-improving-game-visuals-with-unity-s-hdrp)
 
 ### GameDevHQ
 
@@ -48,8 +49,9 @@
 - ProGrids | [Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)
 - ProBuilder | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
 - TextMeshPro| [Manual](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html)
-- [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki
+- [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki | [Post Processing Stack v2 overview](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.2/manual/index.html)
 - [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
+- [High Definition Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.8/manual/index.html)
 
 ### Systems
 
@@ -78,6 +80,7 @@
 3. [LOS Pro](https://github.com/devdogio/lospro)
 4. [Sci-Fi UI Design](https://github.com/devdogio/sci-fi-ui)
 5. Scene Cleaner Pro
+6. [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github)
 
 ## Unity Environment Setup
 
