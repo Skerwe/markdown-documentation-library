@@ -121,9 +121,10 @@
 2. [Inkscape](https://inkscape.org/)
 3. [Krita](https://krita.org/en/)
 4. [Hexels](https://marmoset.co/hexels/)
-5. [MagicaVoxel](https://ephtracy.github.io/)
+5. [MagicaVoxel](https://ephtracy.github.io/) (Voxel)
 6. [Pyxel Edit](https://pyxeledit.com/index.php)
 7. [Pro Motion](https://www.cosmigo.com/)
+8. [Goxel](https://goxel.xyz/) | [GitHub](https://github.com/guillaumechereau/goxel) (Voxel)
 
 ### User Interfaces Tools
 
