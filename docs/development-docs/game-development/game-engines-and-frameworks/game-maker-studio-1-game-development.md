@@ -19,3 +19,11 @@
 - [GML Support](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support)
 - [GML Support ThirdParty](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support-thirdparty)
 - [GML Support Custom](https://marketplace.visualstudio.com/items?itemName=liaronce.gml-support-custom)
+
+## Platform Build Notes
+
+:link: [GM:S 1.4 Required SDKs](https://help.yoyogames.com/hc/en-us/articles/216753748-GM-S-1-4-Required-SDKs)
+
+- :notebook_with_decorative_cover: [Steam](development-docs/game-development/game-development-platforms/steam-notes.md)
+- :notebook_with_decorative_cover: [Windows](development-docs/game-development/game-development-platforms/windows-notes.md)
+  - [Windows 8 Preferences](https://docs.yoyogames.com/source/dadiospice/001_advanced%20use/preferences/windows8%20preferences.html)

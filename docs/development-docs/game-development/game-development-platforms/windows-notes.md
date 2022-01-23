@@ -3,6 +3,7 @@
 ## SDK and Tools
 
 - [Windows SDK and emulator archive](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/)
+- [Windows Library for JavaScript](https://github.com/winjs/winjs) (WinJS)
 
 ## File Locations
 
