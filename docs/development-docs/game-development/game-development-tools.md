@@ -1,9 +1,21 @@
 # Game Development Tools
 
-## Analytics and Project Management
+## Game Analytics
 
-1. [GameAnalytics](https://gameanalytics.com/) | [GameDev Toolbox](https://gameanalytics.com/toolbox/)
-2. [Codecks](https://www.codecks.io/)
+1. [GameAnalytics](https://gameanalytics.com/)
+
+
+## Marketing Tools
+
+- [presskit()](https://dopresskit.com/)
+- [Dev Launchers](https://devlaunchers.com/)
+
+## Project Management
+
+1. [Codecks](https://www.codecks.io/)
+2. [HacknPlan](https://hacknplan.com/)
+3. [Milanote](https://milanote.com/)
+4. [Cosmic Everyday](https://comigosoft.ru/en/)
 
 ## Game Development Tools And Applications
 
@@ -134,16 +146,6 @@
 
 - [Arrow](https://github.com/mhgolkar/Arrow)
 - [Yarn Spinner](https://yarnspinner.dev/)
-
-## Marketing Tools
-
-- [presskit()](https://dopresskit.com/)
-- [Dev Launchers](https://devlaunchers.com/)
-
-## Project Management
-
-1. [HacknPlan](https://hacknplan.com/)
-2. [Milanote](https://milanote.com/)
 
 ## World Building Tools
 
