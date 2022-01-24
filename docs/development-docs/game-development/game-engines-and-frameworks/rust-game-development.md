@@ -1,12 +1,12 @@
 # Rust Game Development
 
-## Getting Started
+:notebook_with_decorative_cover: [Rust language notes](development-docs/programming-and-development/other-programming-languages/rust-language.md)
 
-- [Rust](https://www.rust-lang.org/)
-- [Are we game yet?](https://arewegameyet.com/)
+:link: [Are we game yet?](https://arewegameyet.com/)
 
 ## Game Engines
 
 - [Piston](https://www.piston.rs/)
-- [Bevy ECS](https://bevyengine.org/)
+- [pixel_engine](https://lib.rs/crates/pixel_engine)
+- [Bevy ECS](https://bevyengine.org/) | [GitHub](https://github.com/bevyengine/bevy)
 - [Rust Game engine 3D](https://rg3d.rs/) (RG3D) | [rusty editor](https://github.com/rg3dengine/rusty-editor)

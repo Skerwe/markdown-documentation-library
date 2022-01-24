@@ -4,10 +4,4 @@
 
 ## Game Development
 
-:link: [Are we game yet?](https://arewegameyet.rs/)
-
-## Rust Game Engines
-
-- [Bevy](https://bevyengine.org/)
-- [Piston](https://www.piston.rs/)
-- [pixel_engine](https://lib.rs/crates/pixel_engine)
+ :notebook_with_decorative_cover: [Rust game development notes](development-docs/game-development/game-engines-and-frameworks/rust-game-development.md)
