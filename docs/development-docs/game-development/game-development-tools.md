@@ -73,24 +73,31 @@
 - [LabChirp](https://labbed.itch.io/labchirp)
 - [ChipTone](https://sfbgames.itch.io/chiptone)
 
-### Visual Effects and Animation
+### 3D Animation 
 
 - [Natron](https://natrongithub.github.io/) (VFX and Motion)
-- [Enve](https://maurycyliebner.github.io/) (2D Animation)
-- [Rive](https://rive.app/)
 - [Cascadeur](https://cascadeur.com/) (3D physics-based character animation software)
 - [Radical](https://getrad.co/) (AI-powered 3D motion animation)
 - [DeepMotion](https://deepmotion.com/) (Real-Time Body Tracking)
-- [Dem Bones](https://github.com/electronicarts/dem-bones)
-- [Bitmapflow](https://bauxite.itch.io/bitmapflow) (Inbetweening)
-- [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
-- [Laigter](https://azagaya.itch.io/laigter)
 
-### 2D Game Animation
+### 2D Animation
+
+- [Rive](https://rive.app/)
+- [Enve](https://maurycyliebner.github.io/) (2D Animation)
+- [Synfig Studio](https://www.synfig.org/)
+
+### 2D Game Skeletal Animation
 
 - [Spine](http://esotericsoftware.com/)
 - [Spriter](https://brashmonkey.com/)
 - [DragonBones](http://dragonbones.com/en/index.html)
+- [Dem Bones](https://github.com/electronicarts/dem-bones)
+
+### 2D Visual Effects
+
+- [Bitmapflow](https://bauxite.itch.io/bitmapflow) (Inbetweening)
+- [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
+- [Laigter](https://azagaya.itch.io/laigter)
 
 ### 3D Modelling Tools
 
