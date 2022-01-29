@@ -12,3 +12,7 @@
 
 - [Mosi](https://zenzoa.itch.io/mosi)
 - [Bitsy](http://ledoux.io/bitsy/editor.html)
+
+## NES Development
+
+- [Famicom Party](https://famicom.party/)
