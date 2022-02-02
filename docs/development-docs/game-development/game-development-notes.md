@@ -33,6 +33,7 @@
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/) :sparkles:
 - [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) :sparkles:
 - [Easing Functions for Animations](https://www.febucci.com/2018/08/easing-functions/)
+- [Math for programming](https://mathforprogramming.com/)
 
 ### Math Tools
 
