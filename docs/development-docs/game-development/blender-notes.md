@@ -8,6 +8,10 @@
 - [Blender Cloud](https://cloud.blender.org/welcome/)
 - [Concept Art Empire](https://conceptartempire.com/)
 
+## Movies
+
+- [Watchtower](https://studio.blender.org/blog/introducing-watchtower/) | [GitHub](https://gitlab.com/blender/watchtower)
+
 ## Alternative to Blender
 
 - [Bforartists](https://www.bforartists.de/) (3D suite)
