@@ -41,7 +41,8 @@
 
 ## Unity Tools
 
-:link: [Open Source Unity Package Registry](https://openupm.com/)
+- :link: [Open Source Unity Package Registry](https://openupm.com/)
+- :orange_book: [The Unity Shader Bible](https://learn.jettelly.com/unity-shader-bible/)
 
 ### Components
 
@@ -56,6 +57,7 @@
 ### Systems
 
 - [GAIA](http://www.procedural-worlds.com/gaia/) -- Terrain & Scene Creation System For Unity 3D
+- [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) -- 100% free and opensource
 
 ### Networking
 
