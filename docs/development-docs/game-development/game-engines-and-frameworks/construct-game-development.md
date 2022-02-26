@@ -2,7 +2,8 @@
 
 :link: [scirra.com](https://www.scirra.com/)  
 :link: [Scirra Store](https://www.scirra.com/store)  
-:link: [Download NW.js](https://www.scirra.com/nwjs) -- For use in Construct 2
+:link: [Download NW.js](https://www.scirra.com/nwjs) -- For use in Construct 2  
+:link: [Awesome Construct](https://github.com/ConstructCommunity/awesome-construct) on GitHub
 
 ## Tutorials
 
