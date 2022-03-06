@@ -69,3 +69,10 @@
 ## Learning
 
 1. [web.dev/learn/](https://web.dev/learn/)
+
+## Favicon
+
+- [How to design a favicon: The ultimate guide](https://www.creativebloq.com/illustrator/create-perfect-favicon-12112760)
+- [15 Best Free Favicon Generators](https://websitesetup.org/favicon-generator/)
+- [favicon.io](https://favicon.io/)
+- [Favicon & App Icon Generator](https://www.favicon-generator.org/)
