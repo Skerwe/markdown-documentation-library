@@ -1,0 +1,36 @@
+[Ctrl-P] Read all messages
+
+Movement commands
+[Shift + direction] moves you several squares in this direction
+[clicking] somewhere in sight or on the minimap
+
+Staircases
+[<] go back to the previous level
+[>] enter the next level
+[X>]/[X<] travel to the nearest up/downstairs
+
+Doors
+can be opened by walking into them
+[C] close an open door
+
+Travel
+mouseclick on the minimap
+[o] autoexplore
+
+Weapons
+[,] pick up an item
+[w] wield a weapon
+
+Monsters
+[mousover] examine a monster
+[rightclick] read a more detailed desription
+[ff] fire ammunition at pre-targeted monster
+[f+] target another monster
+
+Resting
+[.] wait and rest a single turn
+[5] wait and rest up to 100 turn
+
+Corpses
+[c] chop a corpse into meat chunks
+[e] eat a chunk of meat

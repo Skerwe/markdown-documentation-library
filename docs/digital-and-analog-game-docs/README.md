@@ -31,6 +31,7 @@
 - [Warhammer 40K notes](digital-and-analog-game-docs/warhammer-40k-notes.md)
 
 :orange_book: [LoneSurvivor Survival Guide](http://www.lonesurvivor.co.uk/LoneSurvivor-SurvivalGuide.pdf) (PDF)
+:notebook: [Dungeon Crawl Stone Soup](digital-and-analog-game-docs/Dungeon-Crawl-Stone-Soup.txt) (TXT)
 
 ## Play Games and Look at the Code
 
