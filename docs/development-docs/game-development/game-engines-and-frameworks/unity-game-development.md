@@ -54,6 +54,8 @@
 - [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
 - [High Definition Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.8/manual/index.html)
 
+ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 19+
+
 ### Systems
 
 - [GAIA](http://www.procedural-worlds.com/gaia/) -- Terrain & Scene Creation System For Unity 3D
