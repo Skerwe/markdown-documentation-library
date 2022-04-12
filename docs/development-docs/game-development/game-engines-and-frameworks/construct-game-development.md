@@ -10,6 +10,10 @@
 1. [Construct 2 Academy | C2A](https://www.youtube.com/user/ScirraVideos/playlists?view=50&sort=dd&shelf_id=1)
 2. [Level Zero - Free Construct 2 Book](https://www.construct.net/en/blogs/construct-official-blog-1/level-zero-free-construct-book-853)
 
+## Plugins
+
+- [Download Lunarray Litetween v1.7 For Construct 2 Link 2019](https://www.youtube.com/watch?v=Lgiyg3pp5LU) -- YouTube link
+
 ## Publishing
 
 - [Publishing and promoting your Construct 2 game](https://www.construct.net/en/tutorials/publishing-and-promoting-your-construct-2-game-78)
