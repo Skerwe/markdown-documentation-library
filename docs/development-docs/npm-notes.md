@@ -29,6 +29,12 @@ Run scripts that set and use environment variables across platforms
 1. [npx](https://www.npmjs.com/package/npx) -- execute npm package binaries
 2. [awesome-npx](https://github.com/junosuarez/awesome-npx) -- packages and resources that work really well with npx
 
+## Wireit
+
+[Wireit](docs/development-docs/game-development/game-design.md) upgrades your npm scripts to make them smarter and more efficient.
+
+`npm i -D wireit`
+
 ### [ProjectMan](https://www.npmjs.com/package/projectman)
 
 `npm install -g projectman`
