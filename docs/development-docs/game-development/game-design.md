@@ -4,6 +4,10 @@
 2. [Learn to Design Video Games with GameDesigning.org](https://www.gamedesigning.org/)
 3. [Game Design Lounge](https://gamedesignlounge.com/)
 
+## Game Juice
+
+- [Juicy Breakout](https://github.com/grapefrukt/juicy-breakout) GitHub source code
+
 ## Resources, Articles and Tips
 
 - [The indies' guide to game making](https://www.pcgamer.com/the-indies-guide-to-game-making/)
