@@ -2,6 +2,7 @@
 
 1. [The Curriculum](https://www.riotgames.com/en/urf-academy/the-curriculum) by RiotGames
 2. [Learn to Design Video Games with GameDesigning.org](https://www.gamedesigning.org/)
+3. [Game Design Lounge](https://gamedesignlounge.com/)
 
 ## Resources, Articles and Tips
 
