@@ -116,6 +116,7 @@
 - [Monster Mash](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)
 - [ArmorPaint](https://armorpaint.org/) -- 3D Painting Software
 - [KitBash3D](https://kitbash3d.com/)
+- [3DCoat](https://3dcoat.com/)
 
 #### Universal Scene Description (USD)
 
