@@ -30,6 +30,7 @@
 - [Blender 2 Godot](https://www.zammedev.com/home/wip_projects/blender2godot)
 - [Mixer](https://github.com/ubisoft/mixer) (real time collaboration)
 - [CAD Sketcher](https://makertales.gumroad.com/l/CADsketcher)
+- [Liquid On Curve Using Geometry Nodes](https://maxedge.gumroad.com/l/liquidcurves)
 
 ## Learning Blender
 
