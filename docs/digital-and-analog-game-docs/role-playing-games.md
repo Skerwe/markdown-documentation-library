@@ -13,7 +13,8 @@
 - [Basic Fantasy Role-Playing Game](https://www.basicfantasy.org/)
 - [TROIKA!](https://www.troikarpg.com/)
 - [Open Adventure](https://geekguild.com/openadventure/) | [GitHub](https://github.com/openadventure/Open-Adventure)
-- [Rolled&Told](https://www.rolledandtold.com/) (D5)
+- [Rolled&Told](https://www.rolledandtold.com/) -- D5
+- [Dead Earth](https://mixedsignals.ml/games/blog/blog_dead-earth)
 
 ## RPG Systems
 
@@ -22,15 +23,16 @@
 
 ## Tools
 
-### Create Maps
+### Maps Creation and Tools
 
-- [Dungeondraft](https://dungeondraft.net/) (premium)
-- [Campaign Cartographer 3+](https://www.profantasy.com/products/cc3.asp) (premium)
+- [Dungeondraft](https://dungeondraft.net/) -- premium
+- [Campaign Cartographer 3+](https://www.profantasy.com/products/cc3.asp) -- premium
 - [DungeonFog](https://www.dungeonfog.com/)
 - [RPTools](https://www.rptools.net/)
 - [World Anvil](https://www.worldanvil.com/)
 - [2-Minute Tabletop](https://2minutetabletop.com/)
-- [Dysan's Map Archive](https://dysonlogos.blog/maps/) (free maps)
+- [Dysan's Map Archive](https://dysonlogos.blog/maps/) -- free maps
+- [Mipui](https://github.com/amishne/mipui) -- free tool
 
 ### Hosting Online RPG
 
