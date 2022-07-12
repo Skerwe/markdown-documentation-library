@@ -7,7 +7,7 @@
 ## Games with Open Source
 
 1. [The Battle for Wesnoth](http://www.wesnoth.org/)
-2. [Warzone 2100](https://wz2100.net/)
+2. [Warzone 2100](https://wz2100.net/) -- RTS
 3. [OpenTTD](https://www.openttd.org/)
 4. [OpenRA](https://www.openra.net/)
 5. [OpenHV](https://openhv.itch.io/openhv) | [GitHub](https://github.com/OpenHV/OpenHV) | [Graphics](https://lostgarden.home.blog/2005/03/27/game-post-mortem-hard-vacuum/)
@@ -16,6 +16,7 @@
 8. [Orangepixel games](https://bitbucket.org/orangepixel/)
 9. [Delver engine](https://github.com/Interrupt/delverengine)
 10. [Race for the Galaxy AI](http://keldon.net/rftg/)
+11. [Xonotic](https://xonotic.org/) -- FPS
 
 ## Free Games
 
