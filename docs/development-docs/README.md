@@ -17,19 +17,19 @@
 
 Package managers for building and compiling web projects.
 
-1. [NPM](https://www.npmjs.com/) | [NPM Notes](development-docs/npm-notes.md)
-2. [Yarn](https://yarnpkg.com/)
-3. [PNPM](https://pnpm.js.org)
+1. :link: [NPM](https://www.npmjs.com/) | :notebook_with_decorative_cover: [NPM Notes](development-docs/npm-notes.md)
+2. :link: [Yarn](https://yarnpkg.com/)
+3. :link: [PNPM](https://pnpm.js.org)
 
 ## Integrated Development Environments
 
 Setup an IDE with pluggins for developing in various languages.  
 And install tools for better programming.
 
-1. [VS Code](development-docs/ide-vscode.md)
+1. :notebook_with_decorative_cover: [VS Code](development-docs/ide-vscode.md)
 2. Atom
 
 ## Other Development Notes
 
-+ [Generate Ascii Text](development-docs/ascii-notes.md)
-+ [asciinema](https://asciinema.org/) -- recording terminal sessions
++ :notebook_with_decorative_cover: [Generate Ascii Text](development-docs/ascii-notes.md)
++ :link: [asciinema](https://asciinema.org/) -- recording terminal sessions
