@@ -48,11 +48,12 @@
 
 - [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents) | [Manual](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
 - ProGrids | [Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)
-- ProBuilder | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
+- [ProBuilder](https://unity.com/features/probuilder) | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
 - TextMeshPro| [Manual](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html)
 - [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki | [Post Processing Stack v2 overview](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.2/manual/index.html)
 - [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
 - [High Definition Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.8/manual/index.html)
+- [Polybrush](https://unity.com/features/polybrush)
 
 ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 19+
 
