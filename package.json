@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "description": "Markdown Documentation Library",
   "private": true,
-  "main": "README.md",
+  "main": "index.html",
   "scripts": {
     "start": "docsify serve docs",
     "test": "markdownlint-cli2 \"**/*.md\" \"#node_modules\""
