@@ -4,9 +4,15 @@
 
 ## Community
 
+- [blenderArtists.org](https://blenderartists.org/)
 - [Blender Nation](https://www.blendernation.com/)
 - [Blender Cloud](https://cloud.blender.org/welcome/)
 - [Concept Art Empire](https://conceptartempire.com/)
+- [Blend Swap](https://blendswap.com/)
+- [Blender Market](https://blendermarket.com/)
+- [BlenderKit](https://www.blenderkit.com/)
+- [Chocofur.com](https://chocofur.com/)
+- [r/Blender](https://www.reddit.com/r/blender/) (Reddit)
 
 ## Movies
 
@@ -31,10 +37,12 @@
 - [Mixer](https://github.com/ubisoft/mixer) (real time collaboration)
 - [CAD Sketcher](https://makertales.gumroad.com/l/CADsketcher)
 - [Liquid On Curve Using Geometry Nodes](https://maxedge.gumroad.com/l/liquidcurves)
+- [Bagapie](https://blendermarket.com/products/bagapie-assets?ref=369) | [Tutorials](https://www.youtube.com/watch?v=mN9EzJJEKsI&list=PLSVXpfzibQbh_qjzCP2buB2rK1lQtkQvu&index=2)
 
 ## Learning Blender
 
 - [Grant Abbitt](https://www.gabbitt.co.uk/videos)
+- [CGCookie.com](https://cgcookie.com/)
 
 ## Using Blender
 
