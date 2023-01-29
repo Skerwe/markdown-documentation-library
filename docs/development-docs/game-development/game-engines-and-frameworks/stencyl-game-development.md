@@ -1,5 +1,7 @@
 # Stencyl Game development
 
+:link: [Stencyl](https://www.stencyl.com/)
+
 ## Educator's Kit
 
 1. [Teach](http://www.stencyl.com/teach/)
@@ -7,4 +9,4 @@
 
 ## Tutorials
 
-1. [How to create an Android game with Stencyl](https://www.androidauthority.com/how-to-create-an-android-game-with-stencyl-683002/)
+1. [Luyren's Videos - Stencyl Tutorials & Tips](https://www.youtube.com/user/ViolinistPenguin/videos)
