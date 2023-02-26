@@ -4,7 +4,7 @@
 
 + [Kenney](https://www.kenney.nl/)
 + [Craftpix freebies](https://craftpix.net/freebies/)
-+ [Quaternius](http://quaternius.com/index.html)
++ [Quaternius](http://quaternius.com/index.html) -- free 3D models
 + [GameArt2D.com](https://www.gameart2d.com/freebies.html)
 + [Kronbits](https://kronbits.itch.io/)
 + [Pixel Game Art](http://pixelgameart.org/web/)

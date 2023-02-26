@@ -129,6 +129,7 @@
 
 - [Bullet Physics SDK](https://pybullet.org/wordpress/) | [GitHub](https://github.com/bulletphysics/bullet3)
 - [Box2D](https://box2d.org/)
+- [Chipmunk2D](https://chipmunk-physics.net/) 
 
 ### Video Editing Software
 
