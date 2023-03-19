@@ -54,6 +54,7 @@
 - [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
 - [High Definition Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.8/manual/index.html)
 - [Polybrush](https://unity.com/features/polybrush)
+- [MeshSync](https://github.com/unity3d-jp/MeshSync)
 
 ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 19+
 
