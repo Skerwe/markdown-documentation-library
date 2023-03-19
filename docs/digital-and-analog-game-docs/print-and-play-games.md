@@ -17,7 +17,7 @@
 ## Constructing Print and Play games
 
 1. [Dining Table print & Play](http://diningtablepnp.com/) (video tutorials)
-2. [Origami Dice](https://boardgamegeek.com/thread/608070/origami-dice/page/1) | [Paper Color Dice]([https://worksheets.site/paper-color-dice.html)
+2. [Origami Dice](https://boardgamegeek.com/thread/608070/origami-dice/page/1) | [Paper Color Dice](https://worksheets.site/paper-color-dice.html)
 3. [How to make a one-page zine](http://experimentwithnature.com/03-found/experiment-with-paper-how-to-make-a-one-page-zine/#.XvwoQnUzZD8)
 
 ## Resources
