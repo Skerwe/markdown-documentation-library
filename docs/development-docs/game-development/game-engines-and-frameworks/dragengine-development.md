@@ -1,7 +1,7 @@
-# Drag[en]gine Game Engine
+# Dragengine Game Engine
 
-:link: [Drag[en]gine Game Development](https://dragondreams.ch/?page_id=71)  
-:link: [dragengine](https://github.com/LordOfDragons/dragengine) (GitHub)
+:link: [Dragengine Game Development](https://dragondreams.ch/?page_id=71)  
+:link: [dragengine](https://github.com/LordOfDragons/dragengine) -- GitHub
 
 ## Scripting
 
