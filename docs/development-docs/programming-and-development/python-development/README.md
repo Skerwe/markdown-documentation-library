@@ -20,24 +20,12 @@ A simple Python editor for beginner programmers
 :link: [codewith.mu](https://codewith.mu/en/)
 
 ```shell
-pip install mu-editor
+pip install mu-editorcd
 ```
 
 ```shell
 mu-editor
 ```
-
-### Web Devlopment with Python
-
-1. [Django](https://www.djangoproject.com/)
-2. [Flask](https://palletsprojects.com/p/flask/)
-3. [Falcon](http://falconframework.org/)
-4. [CherryPy](https://cherrypy.org/)
-
-### Gui Development
-
-- [Dear PyGui](https://github.com/hoffstadt/DearPyGui)
-- [Urwid](http://urwid.org/) -- Console UI
 
 ### Python Package Installer
 
@@ -61,8 +49,9 @@ python -m pip install --upgrade pip
 
 ### Python Project Environment
 
-:link: [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)  
-:link: [Pipenv & Virtual Environments](https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html)
+- :link: [Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+- :link: [Pipenv & Virtual Environments](https://python-docs.readthedocs.io/en/latest/dev/virtualenvs.html)
+- :link: [How virtual environments work](https://snarky.ca/how-virtual-environments-work/)
 
 1. [venv](development-docs/programming-and-development/python-development/venv.md)
 2. [Virtualenv](development-docs/programming-and-development/python-development/virtualenv.md)
@@ -85,7 +74,24 @@ python -m pip install --upgrade pip
 1. [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io/)
 2. Packaging Python projects with [Setuptools](https://setuptools.readthedocs.io/en/latest/)
 
-### Simple HTTP Server with Python
+### Tools
+
+- [pip-tools](https://github.com/jazzband/pip-tools/)
+- [Sphinx](https://www.sphinx-doc.org/en/master/) -- documentation generator
+
+## Web Devlopment with Python
+
+1. [Django](https://www.djangoproject.com/)
+2. [Flask](https://palletsprojects.com/p/flask/)
+3. [Falcon](http://falconframework.org/)
+4. [CherryPy](https://cherrypy.org/)
+
+## Gui Development
+
+- [Dear PyGui](https://github.com/hoffstadt/DearPyGui)
+- [Urwid](http://urwid.org/) -- Console UI
+
+## Simple HTTP Server with Python
 
 [How do you set up a local testing server? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
 
@@ -110,6 +116,10 @@ Python 3:
 8. [Python 101](https://python101.pythonlibrary.org/)
 9. [Python 102](https://python-102.readthedocs.io/en/latest)
 
+### Teach & Learn Python Programming
+
+:link: [Karel the Robot](https://stanford.edu/~cpiech/karel/learn.html) | [Tutorial](https://compedu.stanford.edu/karel-reader/docs/python/en/chapter1.html)
+
 ### Turtle
 
 :link: [turtle — Turtle graphics](https://docs.python.org/3/library/turtle.html)
@@ -133,11 +143,6 @@ Python 3:
 2. [Managing Dependencies in Python Applications](https://medium.com/@jimjh/managing-dependencies-in-python-applications-b9c93dda98c2)
 3. [Common Python Data Structures](https://realpython.com/python-data-structures/) (Guide)
 4. [How to make an awesome Python package](https://antonz.org/python-packaging/)
-
-## Tools
-
-- [pip-tools](https://github.com/jazzband/pip-tools/)
-- [Sphinx](https://www.sphinx-doc.org/en/master/) -- documentation generator
 
 ***
 
