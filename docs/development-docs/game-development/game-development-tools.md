@@ -103,6 +103,7 @@
 
 1. [Blender](development-docs/game-development/blender-notes.md)
 2. [Anim8or](https://www.anim8or.com/)
+3. [Blockbench](https://www.blockbench.net/)
 
 #### Other 3D Modelling Tools
 
