@@ -15,7 +15,7 @@
 
 ## Learning Programming Through Game Development
 
-1. [Screatch Programming Notes](development-docs/game-development/scratch-programming-notes.md)
+1. [Scratch Programming Notes](development-docs/game-development/scratch-programming-notes.md)
 
 ## Categories
 

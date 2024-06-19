@@ -1,4 +1,4 @@
-# Unity Game Development Notes
+# :video_game: Unity Game Development Notes
 
 :link: [Manual](https://docs.unity3d.com/Manual/index.html)  
 :link: [Scripting API](https://docs.unity3d.com/ScriptReference/index.html)  
@@ -23,7 +23,8 @@
 
 ## Learn Unity
 
-:link: [The Uninomicon](https://uninomicon.com/)
+:link: :book: [The Uninomicon](https://uninomicon.com/)
+:link: :video_game: [Angry Bots 2](https://github.com/UnityTechnologies/AngryBots2) -- example Unity Project
 
 ### Unity Tutorials
 
@@ -39,7 +40,7 @@
 - [Filebase](https://gamedevhq.com/filebase/)
 - [Learn Game Dev](https://www.youtube.com/user/Unity3DCoder/playlists)
 
-## Unity Tools
+## Unity Useful Packages and Tools
 
 - :link: [Open Source Unity Package Registry](https://openupm.com/)
 - :orange_book: [The Unity Shader Bible](https://learn.jettelly.com/unity-shader-bible/)
@@ -56,12 +57,14 @@
 - [Polybrush](https://unity.com/features/polybrush)
 - [MeshSync](https://github.com/unity3d-jp/MeshSync)
 
-ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 19+
+> ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 19+
 
 ### Systems
 
 - [GAIA](http://www.procedural-worlds.com/gaia/) -- Terrain & Scene Creation System For Unity 3D
 - [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) -- 100% free and opensource
+- Hero Kit | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLgFNDYUO_VZmy8MyC6THhCrHV8zc1j0xq)
+- Low Poly Terrain - Polaris 2019 LTS | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLotx8_sq8EATxjQ0TctXuX8gC6q3rHTmw)
 
 ### Networking
 

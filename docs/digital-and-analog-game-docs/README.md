@@ -2,14 +2,14 @@
 
 ## Pen and Paper Games
 
-1. :notebook_with_decorative_cover: [Print & Play Games](digital-and-analog-game-docs/print-and-play-games.md)
-2. :notebook_with_decorative_cover: [Role Playing Games](digital-and-analog-game-docs/role-playing-games.md)
+1. :file_folder: [Print & Play Games](digital-and-analog-game-docs/print-and-play-games)
+2. :file_folder: [Role Playing Games](digital-and-analog-game-docs/ttrpg-games)
 
 ## Emulator Programs and Virtual Machines
 
-1. [DosBox](https://www.dosbox.com/)
-2. [ScummVM](https://www.scummvm.org/)
-3. [Eclipse](https://eclipseemu.me/)
+1. :link: [DosBox](https://www.dosbox.com/)
+2. :link: [ScummVM](https://www.scummvm.org/)
+3. :link: [Eclipse](https://eclipseemu.me/)
 
 ## Steam
 

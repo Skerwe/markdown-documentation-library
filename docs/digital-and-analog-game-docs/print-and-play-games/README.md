@@ -1,4 +1,4 @@
-# Print And Play Games
+# Print and Play Games
 
 :link: [PNPArcade](https://www.pnparcade.com/)  
 :link: [Print 'n Play Crafting Aggregator](http://pnp.peidev.com/)
@@ -23,3 +23,4 @@
 ## Resources
 
 - [Game Design Resources](http://gjjgames.blogspot.com/p/blog-page_24.html)
+
