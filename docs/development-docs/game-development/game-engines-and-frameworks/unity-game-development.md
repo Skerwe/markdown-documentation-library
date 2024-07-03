@@ -50,20 +50,19 @@
 - [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents) | [Manual](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
 - ProGrids | [Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)
 - [ProBuilder](https://unity.com/features/probuilder) | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@4.5/manual/index.html)
+- [Polybrush](https://unity.com/features/polybrush)
 - TextMeshPro| [Manual](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html)
 - [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki | [Post Processing Stack v2 overview](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.2/manual/index.html)
 - [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
 - [High Definition Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.8/manual/index.html)
-- [Polybrush](https://unity.com/features/polybrush)
 - [MeshSync](https://github.com/unity3d-jp/MeshSync)
 
 > ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 19+
 
-### Systems
+### Terrain Tools
 
 - [GAIA](http://www.procedural-worlds.com/gaia/) -- Terrain & Scene Creation System For Unity 3D
 - [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) -- 100% free and opensource
-- Hero Kit | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLgFNDYUO_VZmy8MyC6THhCrHV8zc1j0xq)
 - Low Poly Terrain - Polaris 2019 LTS | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLotx8_sq8EATxjQ0TctXuX8gC6q3rHTmw)
 
 ### Networking
@@ -81,6 +80,7 @@
 - [Odin Inspector](https://odininspector.com/)
 - [Game Creator](https://docs.gamecreator.io/)
 - [Corgi Engine](https://corgi-engine-docs.moremountains.com/index.html)
+- Hero Kit | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLgFNDYUO_VZmy8MyC6THhCrHV8zc1j0xq)
 
 ### Open Source
 
@@ -89,7 +89,7 @@
 3. [LOS Pro](https://github.com/devdogio/lospro)
 4. [Sci-Fi UI Design](https://github.com/devdogio/sci-fi-ui)
 5. Scene Cleaner Pro
-6. [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github)
+6. [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github) :link:
 
 ## Unity Environment Setup
 

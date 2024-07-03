@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/Skerwe/markdown-documentation-library#readme",
   "devDependencies": {
-    "markdownlint": "^0.33.0",
-    "markdownlint-cli2": "^0.12.1"
+    "markdownlint": "^0.34.0",
+    "markdownlint-cli2": "^0.13.0"
   }
 }
