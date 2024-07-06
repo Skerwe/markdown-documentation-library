@@ -1,11 +1,9 @@
 # Computing and Electronics
 
-:closed_book: [The MagPi](https://magpi.raspberrypi.org/issues)
+## Guides and Learning Resources
 
-## Tutorials and Guides
-
-- [Hands on computing education](https://www.microsoft.com/en-us/makecode)
-- [MakeCode Arcade](https://arcade.makecode.com/)
+- [Hands on computing education](https://www.microsoft.com/en-us/makecode) | [MakeCode Arcade](https://arcade.makecode.com/)
+- [Code Club World](https://codeclubworld.org/)
 
 ## Micro Controllers
 
