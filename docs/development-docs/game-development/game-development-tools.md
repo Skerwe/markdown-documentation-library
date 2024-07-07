@@ -12,19 +12,20 @@
 
 ## Project Management
 
-1. [Codecks](https://www.codecks.io/)
-2. [HacknPlan](https://hacknplan.com/)
-3. [Milanote](https://milanote.com/)
-4. [Cosmic Everyday](https://comigosoft.ru/en/)
+1. [HacknPlan](https://hacknplan.com/)
+2. [Codecks](https://www.codecks.io/)
+3. [Cosmic Everyday](https://comigo.itch.io/cosmic-everyday)
+4. [Milanote](https://milanote.com/) | [Miro](https://miro.com/) | [Notion](https://www.notion.so/product)
 
 ## Game Development Tools And Applications
 
 - [RAD Game Tools](http://www.radgametools.com/)
 
-### Entity Component System
+### Entity Component System (ECS)
 
-- [FLECS](https://github.com/SanderMertens/flecs) (c++)
-- [EnTT](https://github.com/skypjack/entt) (c++)
+- [FLECS](https://github.com/SanderMertens/flecs) -- c++
+- [EnTT](https://github.com/skypjack/entt) -- c++
+- [GDScript ECS](https://godotengine.org/asset-library/asset/3115) -- Godot
 
 ### Serialization Tools
 
