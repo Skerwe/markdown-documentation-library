@@ -7,6 +7,7 @@
 
 - :closed_book: [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 - :closed_book: [Python documentation](https://docs.python.org/3/)
+- [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 
 ### Python in VSCode
 
@@ -56,8 +57,9 @@ python -m pip install --upgrade pip
 1. [venv](development-docs/programming-and-development/python-development/venv.md)
 2. [Virtualenv](development-docs/programming-and-development/python-development/virtualenv.md)
 3. [Pipenv](development-docs/programming-and-development/python-development/pipenv.md)
-4. [Poetry](https://python-poetry.org/)
-5. [PDM](https://pdm.fming.dev/)
+4. ~~[Poetry](https://python-poetry.org/)~~
+5. [PDM](https://pdm-project.org/en/latest/)
+6. [Hatch](https://hatch.pypa.io/latest/)
 
 ### Python Style Guide
 
