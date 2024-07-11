@@ -8,7 +8,7 @@
 ## TTRPG Games
 
 - [Mausritter](https://losing-games.itch.io/mausritter) | [mausritter.com](https://mausritter.com)
-- :notebook_with_decorative_cover: [Dungeons & Dragons](digital-and-analog-game-docs/ttrpg-games/dungeons-dragons-notes.md)
+- [Dungeons & Dragons](digital-and-analog-game-docs/ttrpg-games/dungeons-dragons-notes.md) :notebook_with_decorative_cover:
 - [Dungeon World](https://dungeon-world.com/)
 - [Basic Fantasy Role-Playing Game](https://www.basicfantasy.org/)
 - [TROIKA!](https://www.troikarpg.com/)
@@ -19,6 +19,10 @@
 
 - [Knave](https://questingbeast.itch.io/knave) -- OSR
 - [Powered by the Apocalypse (PbtA)](http://apocalypse-world.com/)
+
+## Solo Journaling TTRPGs
+
+:link: [Introduction to Solo Journaling TTRPGs](https://www.ehimeajet.com/vampires-witches-skeletons-mesoamerican-gods-and-a-big-bloody-castle-an-introduction-to-solo-journaling-ttrpgs/)
 
 ## Suplements
 
