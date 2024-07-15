@@ -76,16 +76,12 @@
 
 ### 3D Animation 
 
-- [Natron](https://natrongithub.github.io/) (VFX and Motion)
-- [Cascadeur](https://cascadeur.com/) (3D physics-based character animation software)
-- [Radical](https://getrad.co/) (AI-powered 3D motion animation)
-- [DeepMotion](https://deepmotion.com/) (Real-Time Body Tracking)
+- [Natron](https://natrongithub.github.io/) -- VFX and Motion
+- [Cascadeur](https://cascadeur.com/) -- 3D physics-based character animation software
+- [Radical](https://getrad.co/) -- AI-powered 3D motion animation
+- [DeepMotion](https://deepmotion.com/) -- Real-Time Body Tracking
 
-### 2D Animation
-
-- [Rive](https://rive.app/)
-- [Enve](https://maurycyliebner.github.io/) (2D Animation)
-- [Synfig Studio](https://www.synfig.org/)
+:link: [more animation related documents](animation-docs)
 
 ### 2D Game Skeletal Animation
 
@@ -96,15 +92,14 @@
 
 ### 2D Visual Effects
 
-- [Bitmapflow](https://bauxite.itch.io/bitmapflow) (Inbetweening)
+- [Bitmapflow](https://bauxite.itch.io/bitmapflow) -- Inbetweening
 - [SpookyGhost](https://github.com/SpookyGhost2D/SpookyGhost)
 - [Laigter](https://azagaya.itch.io/laigter)
 
 ### 3D Modelling Tools
 
 1. [Blender](development-docs/game-development/blender-notes.md)
-2. [Anim8or](https://www.anim8or.com/)
-3. [Blockbench](https://www.blockbench.net/)
+2. [Blockbench](https://www.blockbench.net/)
 
 #### Other 3D Modelling Tools
 
@@ -112,7 +107,7 @@
 - [Dust3D](https://dust3d.org/)
 - [Mixamo Character Animation Combiner](https://nilooy.github.io/mixamo-animation-combiner/)
 - [Neobarok](https://www.neobarok.com/)
-- [Meshroom](https://alicevision.org/#meshroom) (3D Reconstruction)
+- [Meshroom](https://alicevision.org/#meshroom) -- 3D Reconstruction
 - [Instant Meshes](https://github.com/wjakob/instant-meshes)
 - [Blockbench](https://blockbench.net/)
 - [Monster Mash](https://dcgi.fel.cvut.cz/home/sykorad/monster_mash)
