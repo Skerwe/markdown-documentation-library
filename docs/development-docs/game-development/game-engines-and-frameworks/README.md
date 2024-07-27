@@ -15,29 +15,32 @@
 ## Game Engines
 
 1. :notebook: [Construct 2 & 3](development-docs/game-development/game-engines-and-frameworks/construct-game-development.md)
-2. :notebook: [Game Maker: Studio 1.4](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-1-game-development.md)
-3. [Godot](https://godotengine.org/)
-4. :notebook: [Stencyl](development-docs/game-development/game-engines-and-frameworks/stencyl-game-development.md)
-5. :notebook: [Unity](development-docs/game-development/game-engines-and-frameworks/unity-game-development.md)
-6. :notebook: [Unreal Engine](development-docs/game-development/game-engines-and-frameworks/unreal-engine-development.md)
+2. Game Maker Studio
+   - :notebook: [Game Maker: Studio 1.4](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-1-game-development.md)
+   - :notebook: [Game Maker: Studio 2](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-2-game-development.md)
+3. :notebook: [Godot](development-docs/game-development/game-engines-and-frameworks/godot-game-development.md)
+4. :notebook: [Unity](development-docs/game-development/game-engines-and-frameworks/unity-game-development.md)
+5. :notebook: [Unreal Engine](development-docs/game-development/game-engines-and-frameworks/unreal-engine-development.md)
+6. :notebook: [CRYENGINE](development-docs/game-development/game-engines-and-frameworks/cryengine-game-development.md)
 7. :notebook: [App Game Kit](development-docs/game-development/game-engines-and-frameworks/app-game-kit-development.md)
 8. [GDevelop](https://gdevelop-app.com/)
-9. :notebook: [RPG Maker](development-docs/game-development/game-engines-and-frameworks/rpg-maker-notes.md)
+9.  :notebook: [RPG Maker](development-docs/game-development/game-engines-and-frameworks/rpg-maker-notes.md)
 10. [GameMaker Studio 2](development-docs/game-development/game-engines-and-frameworks/game-maker-studio-2-game-development.md)
 11. [Heaps.io](https://heaps.io/)
 12. [Armory Engine](https://armory3d.org/) (3D)
 13. :notebook: [Stride / Xenko](development-docs/game-development/game-engines-and-frameworks/xenko-game-development.md)
 14. [Evergine](https://evergine.com)
-15. :notebook: [MonoGame](development-docs/game-development/game-engines-and-frameworks/monogame-development.md) | [GitHub](https://github.com/MonoGame/MonoGame)
-16. [Corona](https://coronalabs.com/) / [Solar2D](https://solar2d.com/) (2D Lua)
-17. [Defold](https://defold.com/)
-18. [UNIGINE Engine](https://unigine.com/products/community/advantages/)
-19. [Rogue Engine](https://rogueengine.io/) (TypeScript)
-20. [FlatRedBall](http://flatredball.com/) (C#)
-21. [libGDX](https://libgdx.com/) (Java) | [Awesome libGDX](https://github.com/rafaskb/awesome-libgdx)
-22. [KorGE](https://korge.org/) (Kotlin)
-23. [Cocos2d-x](https://www.cocos.com/en/) + Cocos Creator
-24. [Tilengine](http://www.tilengine.org/) (2D graphics engine for creating classic/retro games)
+15. :notebook: [Stencyl](development-docs/game-development/game-engines-and-frameworks/stencyl-game-development.md)
+16. :notebook: [MonoGame](development-docs/game-development/game-engines-and-frameworks/monogame-development.md) | [GitHub](https://github.com/MonoGame/MonoGame)
+17. [Corona](https://coronalabs.com/) / [Solar2D](https://solar2d.com/) (2D Lua)
+18. [Defold](https://defold.com/)
+19. [UNIGINE Engine](https://unigine.com/products/community/advantages/)
+20. [Rogue Engine](https://rogueengine.io/) (TypeScript)
+21. [FlatRedBall](http://flatredball.com/) (C#)
+22. [libGDX](https://libgdx.com/) (Java) | [Awesome libGDX](https://github.com/rafaskb/awesome-libgdx)
+23. [KorGE](https://korge.org/) (Kotlin)
+24. [Cocos2d-x](https://www.cocos.com/en/) + Cocos Creator
+25. [Tilengine](http://www.tilengine.org/) (2D graphics engine for creating classic/retro games)
 
 :link: GitHub [Game Engines](https://github.com/collections/game-engines) Collection
 
