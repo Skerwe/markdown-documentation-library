@@ -4,7 +4,17 @@
 
 1. [.NET](https://dotnet.microsoft.com/)
 2. [C# Guide](https://docs.microsoft.com/en-us/dotnet/csharp/)
-3. [C# Language Primer](<https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/zkxk2fwf(v=vs.90)>)
+3. [C# Language Primer](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/zkxk2fwf(v=vs.90))
+
+### Uninstall .NET
+
+:link: [.NET uninstall tool](https://learn.microsoft.com/en-gb/dotnet/core/additional-tools/uninstall-tool)
+
+### .NET Documentation
+
+- [.NET fundamentals documentation](https://aka.ms/dotnet-docs)
+- [.NET SDK documentation](https://aka.ms/dotnet-sdk-docs)
+- [Learn .NET and the .NET SDK tools](https://aka.ms/dotnet-tutorials)
 
 ## VS Code
 
