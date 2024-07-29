@@ -22,7 +22,9 @@
 
 ## Frameworks and Engines
 
-- [Escoria](https://godotengine.org/article/our-point-click-framework-finally-out) -- A point'n'click framework
+1. [Escoria](https://godotengine.org/article/our-point-click-framework-finally-out) -- A point'n'click framework
+   - [Source Code](https://github.com/godotengine/escoria)
+   - [Documentation](https://docs.escoria-framework.org/en/devel/)
 
 ## Tools
 
