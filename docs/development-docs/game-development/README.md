@@ -6,7 +6,7 @@
 - [Game Development Tools](development-docs/game-development/game-development-tools.md)
 - [Game AI Notes](development-docs/game-development/game-ai-notes.md)
 - [Game Design Notes](development-docs/game-development/game-design.md)
-- [Board Game Design Notes](development-docs/game-development/board-game-design.md)
+- [Board Game Design Notes](digital-and-analog-game-docs/board-game-design.md)
 - [Pixel Art Notes](development-docs/game-development/pixel-art.md)
 - [Free Game Art Assets](development-docs/game-development/game-art-assets.md)
 - [Indie Game Marketing Notes](development-docs/game-development/indie-game-marketing-notes.md)

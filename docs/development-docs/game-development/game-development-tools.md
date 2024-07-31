@@ -87,7 +87,7 @@
 
 - [Spine](http://esotericsoftware.com/)
 - [Spriter](https://brashmonkey.com/)
-- [DragonBones](http://dragonbones.com/en/index.html)
+- [DragonBones](https://dragonbones.github.io/en/index.html) | [Egret Engine](https://egret.uk/)
 - [Dem Bones](https://github.com/electronicarts/dem-bones)
 
 ### 2D Visual Effects

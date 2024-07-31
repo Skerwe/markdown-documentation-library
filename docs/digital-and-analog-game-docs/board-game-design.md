@@ -27,5 +27,4 @@
 
 ### Resources
 
-- [nanDECK](http://www.nand.it/nandeck/) -- designing cards for prototyping and playtesting
-- [Print & Play](https://www.printplaygames.com/)
+[Boardgame Design Resources](digital-and-analog-game-docs/boardgame-design-resources/)
