@@ -50,22 +50,31 @@
 1. [NavMesh Components](https://github.com/Unity-Technologies/NavMeshComponents)
    - [OLD Navigation and Pathfinding](https://docs.unity3d.com/Manual/nav-NavigationSystem.html)
    - [NEW AI Navigation](https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/index.html)
-2. ProGrids | [Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)
-3. [ProBuilder](https://unity.com/features/probuilder) | [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@5.2/manual/index.html)
-4. [Polybrush](https://unity.com/features/polybrush) | [Manual](https://docs.unity3d.com/Packages/com.unity.polybrush@1.1/manual/index.html)
+2. _ProGrids | [Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)_
+3. [ProBuilder](https://unity.com/features/probuilder)
+   - [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@5.2/manual/index.html)
+   - [ProBuilder v2.3 Tutorials](https://www.youtube.com/playlist?list=PLrJfHfcFkLM8PDioWg_5nmUqQycnVmi58)
+4. [Polybrush](https://unity.com/features/polybrush)
+   - [Manual](https://docs.unity3d.com/Packages/com.unity.polybrush@1.1/manual/index.html)
 5. TextMeshPro| [Manual](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html)
 6. [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki | [Post Processing Stack v2 overview](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html)
 7. [High Definition Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.8/manual/index.html)
 8. [MeshSync](https://github.com/unity3d-jp/MeshSync)
-9. [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
+9.  [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
 
 > ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 2019+
 
 ### Terrain Tools
 
-- [GAIA](http://www.procedural-worlds.com/gaia/) -- Terrain & Scene Creation System For Unity 3D
+- [GAIA](http://www.procedural-worlds.com/gaia/) -- Terrain & Scene Generator
 - [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) -- 100% free and opensource
-- Low Poly Terrain - Polaris 2019 LTS | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLotx8_sq8EATxjQ0TctXuX8gC6q3rHTmw)
+- MapMagic 2
+- Mega World
+- Polaris -- Low Poly Terrain
+  - [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLotx8_sq8EATxjQ0TctXuX8gC6q3rHTmw)
+- Vista 
+- TerraWorld -- Automated Level Designer
+- [Nature Renderer](https://v3.visualdesigncafe.com/nature-renderer)
 
 ### Networking
 
@@ -82,7 +91,12 @@
 - [Odin Inspector](https://odininspector.com/)
 - [Game Creator](https://docs.gamecreator.io/)
 - [Corgi Engine](https://corgi-engine-docs.moremountains.com/index.html)
-- Hero Kit | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLgFNDYUO_VZmy8MyC6THhCrHV8zc1j0xq)
+- [Hero Kit](https://github.com/antfitch/HeroKit) | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLgFNDYUO_VZmy8MyC6THhCrHV8zc1j0xq)
+
+### Visual Scripting
+
+- Logic Forge
+- [FlowReactor](https://flowreactor.io/)
 
 ### Open Source
 
