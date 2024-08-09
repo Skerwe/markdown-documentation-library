@@ -60,15 +60,17 @@
 6. [PostProcessing](https://github.com/Unity-Technologies/PostProcessing/wiki) wiki | [Post Processing Stack v2 overview](https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html)
 7. [High Definition Render Pipeline overview](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.8/manual/index.html)
 8. [MeshSync](https://github.com/unity3d-jp/MeshSync)
-9.  [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
 
 > ProGrids is replaced with [Grid snapping](https://docs.unity3d.com/Manual/GridSnapping.html) in Unity 2019+
 
 ### Terrain Tools
 
-- [GAIA](http://www.procedural-worlds.com/gaia/) -- Terrain & Scene Generator
+:link: [Unity Terrain Tools](https://docs.unity3d.com/Packages/com.unity.terrain-tools@4.0/manual/index.html)
+
+- [GAIA](https://www.procedural-worlds.com/products/indie/gaia/) -- Terrain & Scene Generator
+  - [YouTube Tutorial Playlist](https://www.youtube.com/@AdamGoodrich/playlists)
 - [TerraForge3D](https://github.com/Jaysmito101/TerraForge3D) -- 100% free and opensource
-- MapMagic 2
+- [MapMagic 2](https://gitlab.com/denispahunov/mapmagic/-/wikis/home)
 - Mega World
 - Polaris -- Low Poly Terrain
   - [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLotx8_sq8EATxjQ0TctXuX8gC6q3rHTmw)
@@ -100,12 +102,13 @@
 
 ### Open Source
 
-1. [Inventory Pro](https://github.com/devdogio/Inventory-Pro)
-2. [Quest System Pro ](https://github.com/devdogio/Quest-System-Pro)
-3. [LOS Pro](https://github.com/devdogio/lospro)
-4. [Sci-Fi UI Design](https://github.com/devdogio/sci-fi-ui)
-5. Scene Cleaner Pro
-6. [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github) :link:
+1. [EZ Camera Shake](https://github.com/andersonaddo/EZ-Camera-Shake-Unity)
+2. [Inventory Pro](https://github.com/devdogio/Inventory-Pro)
+3. [Quest System Pro ](https://github.com/devdogio/Quest-System-Pro)
+4. [LOS Pro](https://github.com/devdogio/lospro)
+5. [Sci-Fi UI Design](https://github.com/devdogio/sci-fi-ui)
+6. Scene Cleaner Pro
+7. [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github) :link:
 
 ## Unity Environment Setup
 
@@ -154,6 +157,10 @@ Assets
 2. [Impress your friends with these #unitytips from the community](https://blog.unity.com/technology/impress-your-friends-with-these-unitytips-from-the-community)
 
 ## :warning: Help
+
+### Render Pipeline
+
+- [Installing the Universal Render Pipeline into an existing Project](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/InstallURPIntoAProject.html)
 
 ### Installation Folders
 
