@@ -2,8 +2,8 @@
 
 ## Pen and Paper Games
 
-1. :file_folder: [Print & Play Games](digital-and-analog-game-docs/print-and-play-games)
-2. :file_folder: [Role Playing Games](digital-and-analog-game-docs/ttrpg-games)
+1. :file_folder: [Print & Play Games](digital-and-analog-game-docs/print-and-play-games/)
+2. :file_folder: [Role Playing Games](digital-and-analog-game-docs/ttrpg-games/)
 
 ## Emulator Programs and Virtual Machines
 
@@ -13,7 +13,7 @@
 
 ## Steam
 
-- [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager)
+- :link: [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager)
 
 ## Game Codes, Help and Tools
 
@@ -30,7 +30,7 @@
 - [The Witcher notes](digital-and-analog-game-docs/the-witcher-notes.md)
 - [Warhammer 40K notes](digital-and-analog-game-docs/warhammer-40k-notes.md)
 
-:orange_book: [LoneSurvivor Survival Guide](http://www.lonesurvivor.co.uk/LoneSurvivor-SurvivalGuide.pdf) (PDF)
+:orange_book: [LoneSurvivor Survival Guide](http://www.lonesurvivor.co.uk/LoneSurvivor-SurvivalGuide.pdf) (PDF)  
 :notebook: [Dungeon Crawl Stone Soup](digital-and-analog-game-docs/Dungeon-Crawl-Stone-Soup.txt) (TXT)
 
 ## Play Games and Look at the Code
