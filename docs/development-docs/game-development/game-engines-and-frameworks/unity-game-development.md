@@ -87,13 +87,15 @@
 
 :link: [Gaming is Love](https://assetstore.unity.com/publishers/328)
 
-- [Makinom](http://makinom.com/) -- Game Toolkit for Unity
-- [ORK](http://orkframework.com/) -- The complete RPG Engine for Unity
-- [Adventure Creator](https://adventurecreator.org/) -- Develop a 2D or 3D adventure games
-- [Odin Inspector](https://odininspector.com/)
-- [Game Creator](https://docs.gamecreator.io/)
-- [Corgi Engine](https://corgi-engine-docs.moremountains.com/index.html)
-- [Hero Kit](https://github.com/antfitch/HeroKit) | [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLgFNDYUO_VZmy8MyC6THhCrHV8zc1j0xq)
+1. [Makinom](http://makinom.com/) -- Game Toolkit for Unity
+2. [ORK](http://orkframework.com/) -- The complete RPG Engine for Unity
+3. [Adventure Creator](https://adventurecreator.org/) -- Develop a 2D or 3D adventure games
+4. [Odin Inspector](https://odininspector.com/)
+5. [Game Creator](https://docs.gamecreator.io/)
+6. [Corgi Engine](https://corgi-engine-docs.moremountains.com/index.html)
+7. [Hero Kit](https://github.com/antfitch/HeroKit)
+   - [Source Code](https://github.com/antfitch/HeroKit)
+   - [YouTube Tutorial Playlist](https://www.youtube.com/playlist?list=PLgFNDYUO_VZmy8MyC6THhCrHV8zc1j0xq)
 
 ### Visual Scripting
 
