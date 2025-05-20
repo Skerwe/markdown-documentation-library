@@ -38,7 +38,8 @@ Monospaced font with programming ligatures:
 
 ## EditorConfig
 
-[EditorConfig](https://editorconfig.org/) helps maintain consistent coding style.
+:link: [EditorConfig](https://editorconfig.org/) helps maintain consistent coding style.  
+:link: [EditorConfig Code Cookbook](https://michaelcurrin.github.io/code-cookbook/recipes/other/editor-config.html)
 
 1. Install [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) extension
 2. Right click project folder and select '__Generate .editorconfig__'

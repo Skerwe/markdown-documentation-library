@@ -13,6 +13,7 @@
 ## Plugins
 
 - [Download Lunarray Litetween v1.7 For Construct 2 Link 2019](https://www.youtube.com/watch?v=Lgiyg3pp5LU) -- YouTube link
+- [Rex's plugins for Construct2](https://c2rexplugins.weebly.com) | [C2Plugins](https://github.com/rexrainbow/C2Plugins)
 
 ## Publishing
 
