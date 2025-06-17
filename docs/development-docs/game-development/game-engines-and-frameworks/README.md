@@ -31,7 +31,7 @@
 13. :notebook: [Stride / Xenko](development-docs/game-development/game-engines-and-frameworks/xenko-game-development.md)
 14. [Evergine](https://evergine.com)
 15. :notebook: [Stencyl](development-docs/game-development/game-engines-and-frameworks/stencyl-game-development.md)
-16. :notebook: [MonoGame](development-docs/game-development/game-engines-and-frameworks/monogame-development.md) | [GitHub](https://github.com/MonoGame/MonoGame)
+16. :notebook: [MonoGame](development-docs/game-development/game-engines-and-frameworks/monogame-development.md)
 17. [Corona](https://coronalabs.com/) / [Solar2D](https://solar2d.com/) (2D Lua)
 18. [Defold](https://defold.com/)
 19. [UNIGINE Engine](https://unigine.com/products/community/advantages/)

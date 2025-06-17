@@ -1,6 +1,6 @@
 # MonoGame Development Notes
 
-:link: [MonoGame](https://www.monogame.net/)
+:link: [MonoGame](https://monogame.net) | [GitHub](https://github.com/MonoGame/MonoGame)
 
 ## Tools
 

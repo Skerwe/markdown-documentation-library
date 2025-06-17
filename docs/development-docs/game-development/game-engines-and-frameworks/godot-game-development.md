@@ -6,12 +6,12 @@
 
 :link: [Become a Game Developer](https://www.gdquest.com/) | [GitHiub](https://github.com/GDQuest)
 
-### Learn Gogot Development
+### Learn Godot Development
 
-1. [GDQuest Learn](https://gdquest.mavenseed.com/p/home)
-2. [Make Games with Godot: Beginner Edition](https://www.gdquest.com/docs/guides/learn-godot/beginner/)
-3. [GDQuest Documents](https://www.gdquest.com/docs/)
-4. [Godot GameDev Tutorials](https://godottutorials.pro/) from Zenva Academy
+1. [GDQuest](https://www.gdquest.com/tutorial/)
+2. [GDQuest Documents](https://www.gdquest.com/docs/)
+
+[Godot Steering AI Framework](https://gdquest.gitbook.io/godot-3-steering-ai-framework-reference)
 
 ## Addons
 
@@ -29,3 +29,5 @@
 ## Tools
 
 - [Godot Project Builder](https://github.com/KoBeWi/Godot-Project-Builds)
+
+- [Starter Kit City Builder](https://github.com/KenneyNL/Starter-Kit-City-Builder)

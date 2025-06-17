@@ -23,3 +23,7 @@ Install Lua and Love2d
 ## Learning Lua with Love
 
 1. [GameDev For Complete Beginners Tutorial Series](https://gamefromscratch.com/gamedev-for-complete-beginners-tutorial-series/)
+
+## Other Frameworks
+
+- [lovr.org](https://lovr.org) -- VR framework
