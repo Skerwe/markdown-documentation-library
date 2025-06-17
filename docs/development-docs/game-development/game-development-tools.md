@@ -37,6 +37,7 @@
 2. [SpriteSheet Packer](http://amakaseev.github.io/sprite-sheet-packer/)
 3. [TexturePacker](https://www.codeandweb.com/texturepacker)
 4. [ShoeBox](http://renderhjs.net/shoebox/)
+5. [rTexPacker](https://raylibtech.itch.io/rtexpacker) -- A simple and easy-to-use textures packer and font atlas generator.
 
 ### Tilemap Editor Tools
 
