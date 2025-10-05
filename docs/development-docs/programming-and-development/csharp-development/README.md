@@ -26,3 +26,12 @@
 
 - [Mono Project](https://www.mono-project.com/) for mobile development
 - [MonoDevelop](https://www.monodevelop.com/) IDE
+
+## Troubleshoot and Issue Fixes
+
+Migrate code to the latest Dotnet version
+
+```cmd
+dotnet tool install --global Project2015To2017.Migrate2019.Tool --ignore-failed-sources
+dotnet migrate-2019 wizard path
+```

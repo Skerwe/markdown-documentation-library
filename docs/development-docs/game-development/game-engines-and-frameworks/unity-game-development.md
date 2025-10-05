@@ -52,8 +52,9 @@
    - [NEW AI Navigation](https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/index.html)
 2. _ProGrids | [Manual](https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html)_
 3. [ProBuilder](https://unity.com/features/probuilder)
-   - [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@5.2/manual/index.html)
+   - [Manual](https://docs.unity3d.com/Packages/com.unity.probuilder@5.0/manual/index.html)
    - [ProBuilder v2.3 Tutorials](https://www.youtube.com/playlist?list=PLrJfHfcFkLM8PDioWg_5nmUqQycnVmi58)
+   - [Building 3D Models with ProBuilder](https://learn.unity.com/project/building-3d-models-with-probuilder) -- Unity.learn
 4. [Polybrush](https://unity.com/features/polybrush)
    - [Manual](https://docs.unity3d.com/Packages/com.unity.polybrush@1.1/manual/index.html)
 5. TextMeshPro| [Manual](https://docs.unity3d.com/Packages/com.unity.textmeshpro@2.1/manual/index.html)
